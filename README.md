@@ -94,6 +94,96 @@ Apr 3 2023
 
 <kbd><img src="ChungOfTheMonth-1384.png" /></kbd>
 
+### Chungo Executive President
+
+Apr 2 2023
+
+<kbd><img src="ChungoExecutivePresident.png" /></kbd>
+
+### Chungo Fuck Yeah
+
+Apr 1 2023
+
+<kbd><img src="ChungoFuckYeah-7760.png" /></kbd>
+
+### Tsarbucks GM GM GM
+
+Apr 1 2023
+
+<kbd><img src="tsarbucks-gmgmgm-7760.png" /></kbd>
+
+### Tsarbucks Chungo 2951
+
+Mar 31 2023
+
+<kbd><img src="tsarbucks-Chungo_2951.png" /></kbd>
+
+### Tsarbucks Chungo 3653
+
+Mar 31 2023
+
+<kbd><img src="tsarbucks-Chungo_3653.png" /></kbd>
+
+### Tsarbucks Chungo 7954 Globe
+
+Mar 31 2023
+
+<kbd><img src="tsarbucks-Chungo_7954-globe-600x600.gif" /></kbd>
+
+### Tsarbucks Chungo 7954
+
+Apr 1 2023
+
+<kbd><img src="tsarbucks-Chungo_7954.png" /></kbd>
+
+### Big Bother
+
+Mar 21 2023
+
+<kbd><img src="bigbother.png" /></kbd>
+
+### Big Brother Is Watching You
+
+Mar 21 2023
+
+<kbd><img src="bigbrotheriswatchingyou.png" /></kbd>
+
+### Limited News
+
+Mar 21 2023
+
+<kbd><img src="limitednews.png" /></kbd>
+
+### Banking Crisis
+
+Mar 20 2023
+
+<kbd><img src="bankingcrisis.png" /></kbd>
+
+### Body Inspector
+
+Mar 14 2023
+
+<kbd><img src="bodyinspector.png" /></kbd>
+
+### Beach Inspector
+
+Mar 14 2023
+
+<kbd><img src="beachinspector.png" /></kbd>
+
+###
+
+Apr 1 2023
+
+<kbd><img src=".png" /></kbd>
+
+###
+
+Apr 1 2023
+
+<kbd><img src=".png" /></kbd>
+
 <br />
 
 <br />
@@ -101,33 +191,6 @@ Apr 3 2023
 ### Notes
 
 ```
--rw-r--r--    1 534225 Jun  8  2023 ChungoIntelligenceAgency.png
--rw-r--r--@   1 421524 Apr 23  2023 ChungoGPT7.png
--rw-r--r--@   1 500571 Apr 17  2023 ChungoGoodMorning.png
--rw-r--r--@   1 561010 Apr 14  2023 ChungoOneWhoGroks.png
--rw-r--r--    1 502910 Apr 14  2023 ChungoBeStill.png
--rw-r--r--    1 632120 Apr 13  2023 ChungoTomadoCashEth.png
--rw-r--r--    1 490964 Apr 12  2023 CarpeChungo.png
--rw-r--r--    1 468797 Apr  6  2023 RequiescatInPace.png
--rw-r--r--    1 464133 Apr  6  2023 MementoMori.png
--rw-r--r--@   1 525752 Apr  6  2023 ThouArtGod-4037.png
--rw-r--r--    1 677609 Apr  3  2023 ChungoOfTheMonth-hat-1384.png
--rw-r--r--    1 547698 Apr  3  2023 ChungOfTheMonth-7954.png
--rw-r--r--@   1 581221 Apr  3  2023 ChungOfTheMonth-2449.png
--rw-r--r--    1 582844 Apr  3  2023 ChungOfTheMonth-2096.png
--rw-r--r--    1 520572 Apr  3  2023 ChungOfTheMonth-1384.png
--rw-r--r--    1 556368 Apr  2  2023 ChungoExecutivePresident.png
--rw-r--r--@   1 569227 Apr  1  2023 ChungoFuckYeah-7760.png
--rw-r--r--@   1 574286 Apr  1  2023 tsarbucks-gmgmgm-7760.png
--rw-r--r--    1 495327 Mar 31  2023 tsarbucks-Chungo_2951.png
--rw-r--r--@   1 588809 Mar 31  2023 tsarbucks-Chungo_3653.png
--rw-r--r--    1 2722878 Mar 31  2023 tsarbucks-Chungo_7954-globe-600x600.gif
--rw-r--r--    1 607032 Mar 31  2023 tsarbucks-Chungo_7954.png
--rw-r--r--@   1 2079621 Mar 21  2023 bigbother.png
--rw-r--r--@   1 496944 Mar 21  2023 bigbrotheriswatchingyou.png
--rw-r--r--@   1 3155725 Mar 21  2023 limitednews.png
--rw-r--r--@   1 3153049 Mar 20  2023 bankingcrisis.png
--rw-r--r--@   1 764366 Mar 14  2023 bodyinspector.png
 -rw-r--r--@   1 460705 Mar 14  2023 beachinspector.png
 -rw-r--r--@   1 101642 Feb 28  2023 butwhy.jpg
 -rw-r--r--    1 620717 Feb 27  2023 Chungos_8050-beanbag.png
