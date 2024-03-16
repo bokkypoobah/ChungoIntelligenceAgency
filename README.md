@@ -390,17 +390,28 @@ Mar 30 2023
 
 <kbd><img src="watafuck/ohshiet.png" /></kbd>
 
+### DISTASTEFUL
+
+Mar 28 2023
+
+<kbd><img src="watafuck/distasteful.png" /></kbd>
+
+### NSFW
+
+Mar 27 2023
+
+<kbd><img src="watafuck/nsfw.png" /></kbd>
+
+### I ONLY CLICKED ONE LINK
+
+Mar 25 2023
+
+<kbd><img src="watafuck/ionlyclickedonelink.png" /></kbd>
+
 
 ## Notes
 
 ```
--rw-r--r--@  1 bok  staff  158445 Mar 30  2023 boredapekennelclubsareuglier.png
--rw-r--r--@  1 bok  staff  159825 Mar 30  2023 noyoucannotownallthechungos.png
--rw-r--r--@  1 bok  staff  146652 Mar 30  2023 mychungoisnotugly.png
--rw-r--r--@  1 bok  staff  122556 Mar 28  2023 ohshiet.png
--rw-r--r--@  1 bok  staff  126272 Mar 28  2023 distasteful.png
--rw-r--r--@  1 bok  staff  125143 Mar 27  2023 nsfw.png
--rw-r--r--@  1 bok  staff  136205 Mar 25  2023 ionlyclickedonelink.png
 -rw-r--r--@  1 bok  staff  152984 Mar 24  2023 wenchungoordinals.png
 -rw-r--r--@  1 bok  staff  149205 Mar 24  2023 whatanassholescammer.png
 -rw-r--r--@  1 bok  staff  160456 Mar 24  2023 stopplayingwithmychungo.png
