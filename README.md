@@ -170,67 +170,67 @@ Feb 28 2023
 
 ### Chungos 8050 Beanbag
 
-Feb 27
+Feb 27 2023
 
 <kbd><img src="images/Chungos_8050-beanbag.png" /></kbd>
 
 ### Make Chungo
 
-Feb 19
+Feb 19 2023
 
 <kbd><img src="images/makechungo.png" /></kbd>
 
 ### makechungonotwar.eth
 
-Feb 19
+Feb 19 2023
 
 <kbd><img src="images/makechungonotwar.png" /></kbd>
 
 ### gigachungo.eth
 
-Feb 17
+Feb 17 2023
 
 <kbd><img src="images/gigachungo.png" /></kbd>
 
 ### lurvecoach.eth
 
-Feb 16
+Feb 16 2023
 
 <kbd><img src="images/lurvecoach.png" /></kbd>
 
 ### the-scream.eth
 
-Feb 16
+Feb 16 2023
 
 <kbd><img src="images/the-scream.png" /></kbd>
 
 ### makechungonotwaryoucrazygreedyevilmotherfuckers.eth
 
-Feb 15
+Feb 15 2023
 
 <kbd><img src="images/makechungonotwaryoucrazygreedyevilmotherfuckers.png" /></kbd>
 
 ### boredchungo.eth
 
-Feb 15
+Feb 15 2023
 
 <kbd><img src="images/boredchungo.png" /></kbd>
 
 ### shit-head.eth
 
-Feb 13
+Feb 13 2023
 
 <kbd><img src="images/shit-head.png" /></kbd>
 
 ### hahahahaha.eth
 
-Feb 13
+Feb 13 2023
 
 <kbd><img src="images/hahahahaha.png" /></kbd>
 
 ### lurvecaptain.eth
 
-Feb 12
+Feb 12 2023
 
 <kbd><img src="images/lurvecaptain.png" /></kbd>
 
@@ -242,62 +242,102 @@ Feb 12
 
 ### Transparency On Regulators
 
-Aug 24
+Aug 24 2023
 
 <kbd><img src="TomadoCash/transparencyonregulators.png" /></kbd>
 
 ### Transparency On Governments
 
-Aug 24
+Aug 24 2023
 
 <kbd><img src="TomadoCash/transparencyongovernments.png" /></kbd>
 
 ### Transparency On Corporates
 
-Aug 24
+Aug 24 2023
 
 <kbd><img src="TomadoCash/transparencyoncorporates.png" /></kbd>
 
 ### Privacy Is A Fundamental Human Right
 
-Aug 24
+Aug 24 2023
 
 <kbd><img src="TomadoCash/privacyisafundamentalhumanright.png" /></kbd>
 
 ### Privacy Is A Human Right
 
-Aug 24
+Aug 24 2023
 
 <kbd><img src="TomadoCash/privacyisahumanright.png" /></kbd>
 
 ### Code Is Speech
 
-Aug 24
+Aug 24 2023
 
 <kbd><img src="TomadoCash/codeisspeech.png" /></kbd>
 
 ### Privacy Is Not A Crime
 
-Aug 24
+Aug 24 2023
 
 <kbd><img src="TomadoCash/privacyisnotacrime.png" /></kbd>
 
 ### TomadoCashx5-2400x800 Blank
 
-Aug 24
+Aug 24 2023
 
 <kbd><img src="TomadoCash/TomadoCashx5-2400x800.png" /></kbd>
+
+<br />
+
+---
+
+## You Little Shit
+
+### HOLD THIS SHIT TO ZERO
+
+Aug 24 2023
+
+<kbd><img src="YouLittleShit/holdthisshittozero.png" /></kbd>
+
+### GOOD POINT, I'M OUT OF HERE
+
+Aug 24 2023
+
+<kbd><img src="YouLittleShit/goodpointimoutofhere.png" /></kbd>
+
+### ENJOY HOLDING THIS SHIT TO ACTUAL ZERO
+
+Aug 24 2023
+
+<kbd><img src="YouLittleShit/enjoyholdingthisshittoactualzero.png" /></kbd>
+
+### NO ONE GIVES A FUCK ABOUT CHUNGOS ANYMORE
+
+Aug 24 2023
+
+<kbd><img src="YouLittleShit/noonegivesafuckaboutchungosanymore.png" /></kbd>
+
+### NO ONE GIVES A SHIT ABOUT CHUNGOS
+
+Aug 24 2023
+
+<kbd><img src="YouLittleShit/noonegivesashitaboutchungos.png" /></kbd>
+
+### Chungos_3496x5-2400x800 Blank
+
+Aug 24 2023
+
+<kbd><img src="YouLittleShit/Chungos_3496x5-2400x800.png" /></kbd>
 
 
 ## Notes
 
 ```
--rw-r--r--@  1 204016 Aug 24  2023 transparencyonregulators.png
--rw-r--r--@  1 205590 Aug 24  2023 transparencyongovernments.png
--rw-r--r--@  1 201986 Aug 24  2023 transparencyoncorporates.png
--rw-r--r--@  1 205400 Aug 24  2023 privacyisafundamentalhumanright.png
--rw-r--r--@  1 200973 Aug 24  2023 privacyisahumanright.png
--rw-r--r--@  1 191749 Aug 24  2023 codeisspeech.png
--rw-r--r--@  1 200080 Aug 24  2023 privacyisnotacrime.png
--rw-r--r--   1 167163 Aug 24  2023 TomadoCashx5-2400x800.png
+-rw-r--r--@ 1 bok  staff  118483 Aug 24  2023 holdthisshittozero.png
+-rw-r--r--@ 1 bok  staff  125934 Aug 24  2023 goodpointimoutofhere.png
+-rw-r--r--@ 1 bok  staff  139808 Aug 24  2023 enjoyholdingthisshittoactualzero.png
+-rw-r--r--@ 1 bok  staff  150679 Aug 24  2023 noonegivesafuckaboutchungosanymore.png
+-rw-r--r--@ 1 bok  staff  140872 Aug 24  2023 noonegivesashitaboutchungos.png
+-rw-r--r--  1 bok  staff   83386 Aug 24  2023 Chungos_3496x5-2400x800.png
 ```
