@@ -136,73 +136,110 @@ Apr 1 2023
 
 <kbd><img src="tsarbucks-Chungo_7954.png" /></kbd>
 
-### Big Bother
+### bigbother.eth
 
 Mar 21 2023
 
 <kbd><img src="bigbother.png" /></kbd>
 
-### Big Brother Is Watching You
+### bigbrotheriswatchingyou.eth
 
 Mar 21 2023
 
 <kbd><img src="bigbrotheriswatchingyou.png" /></kbd>
 
-### Limited News
+### limitednews.eth
 
 Mar 21 2023
 
 <kbd><img src="limitednews.png" /></kbd>
 
-### Banking Crisis
+### bankingcrisis.eth
 
 Mar 20 2023
 
 <kbd><img src="bankingcrisis.png" /></kbd>
 
-### Body Inspector
+### bodyinspector.eth
 
 Mar 14 2023
 
 <kbd><img src="bodyinspector.png" /></kbd>
 
-### Beach Inspector
+### beachinspector.eth
 
 Mar 14 2023
 
 <kbd><img src="beachinspector.png" /></kbd>
 
-###
+### But Why?
 
-Apr 1 2023
+Feb 28 2023
 
-<kbd><img src=".png" /></kbd>
+<kbd><img src="butwhy.jpg" /></kbd>
 
-###
+### Chungos 8050 Beanbag
 
-Apr 1 2023
+Feb 27
 
-<kbd><img src=".png" /></kbd>
+<kbd><img src="Chungos_8050-beanbag.png" /></kbd>
 
-<br />
+### Make Chungo
 
-<br />
+Feb 19
 
-### Notes
+<kbd><img src="makechungo.png" /></kbd>
 
-```
--rw-r--r--@   1 460705 Mar 14  2023 beachinspector.png
--rw-r--r--@   1 101642 Feb 28  2023 butwhy.jpg
--rw-r--r--    1 620717 Feb 27  2023 Chungos_8050-beanbag.png
--rw-r--r--@   1 517059 Feb 19  2023 makechungo.png
--rw-r--r--@   1 558020 Feb 19  2023 makechungonotwar.png
--rw-r--r--@   1 454937 Feb 17  2023 gigachungo.png
--rw-r--r--@   1 436620 Feb 16  2023 lurvecoach.png
--rw-r--r--@   1 781667 Feb 16  2023 the-scream.png
--rw-r--r--@   1 814705 Feb 15  2023 makechungonotwaryoucrazygreedyevilmotherfuckers.png
--rw-r--r--@   1 396547 Feb 15  2023 boredchungo.png
--rw-r--r--@   1 1067807 Feb 13  2023 shit-head.png
--rw-r--r--@   1 539388 Feb 13  2023 hahahahaha.png
--rw-r--r--@   1 730193 Feb 12  2023 lurvecaptain.png
+### makechungonotwar.eth
 
-```
+Feb 19
+
+<kbd><img src="makechungonotwar.png" /></kbd>
+
+### gigachungo.eth
+
+Feb 17
+
+<kbd><img src="gigachungo.png" /></kbd>
+
+### lurvecoach.eth
+
+Feb 16
+
+<kbd><img src="lurvecoach.png" /></kbd>
+
+### the-scream.eth
+
+Feb 16
+
+<kbd><img src="the-scream.png" /></kbd>
+
+### makechungonotwaryoucrazygreedyevilmotherfuckers.eth
+
+Feb 15
+
+<kbd><img src="makechungonotwaryoucrazygreedyevilmotherfuckers.png" /></kbd>
+
+### boredchungo.eth
+
+Feb 15
+
+<kbd><img src="boredchungo.png" /></kbd>
+
+### shit-head.eth
+
+Feb 13
+
+<kbd><img src="shit-head.png" /></kbd>
+
+### hahahahaha.eth
+
+Feb 13
+
+<kbd><img src="hahahahaha.png" /></kbd>
+
+### lurvecaptain.eth
+
+Feb 12
+
+<kbd><img src="lurvecaptain.png" /></kbd>
