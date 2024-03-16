@@ -46,18 +46,6 @@ Apr 12 2023
 
 <kbd><img src="CarpeChungo.png" /></kbd>
 
-### Chungo - Requiescat In Pace
-
-Apr 6 2023
-
-<kbd><img src="RequiescatInPace.png" /></kbd>
-
-### Chungo - Memento Mori
-
-Apr 6 2023
-
-<kbd><img src="MementoMori.png" /></kbd>
-
 ### Chungo - Thou Art God
 
 Apr 6 2023
