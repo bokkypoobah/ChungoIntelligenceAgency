@@ -330,14 +330,84 @@ Aug 24 2023
 
 <kbd><img src="YouLittleShit/Chungos_3496x5-2400x800.png" /></kbd>
 
+<br />
+
+---
+
+## watafuck
+
+### HOLD THIS SHIT TO ZERO
+
+Aug 24 2023
+
+<kbd><img src="watafuck/privacyisnotacrime.png" /></kbd>
+
+### STOP CHUNGOING OR YOU'LL GO BLIND
+
+Apr 29 2023
+
+<kbd><img src="watafuck/stopchungoingoryoullgoblind.png" /></kbd>
+
+### IT TAKES TWO HANDS TO HANDLE A CHUNGO
+
+Apr 28 2023
+
+<kbd><img src="watafuck/ittakestwohandstohandleachungo.png" /></kbd>
+
+### SOME CHUNGOS ARE BETTER THAN OTHERS
+
+Apr 8 2023
+
+<kbd><img src="watafuck/somechungosarebetterthanothers.png" /></kbd>
+
+### NOT ALL CHUNGOS ARE GOOD CHUNGOS
+
+Mar 30 2023
+
+<kbd><img src="watafuck/notallchungosaregoodchungos.png" /></kbd>
+
+### BORED APE KENNEL CLUBS ARE UGLIER
+
+Mar 30 2023
+
+<kbd><img src="watafuck/boredapekennelclubsareuglier.png" /></kbd>
+
+### NO YOU CANNOT OWN ALL THE CHUNGOS
+
+Mar 30 2023
+
+<kbd><img src="watafuck/noyoucannotownallthechungos.png" /></kbd>
+
+### MY CHUNGO IS NOT UGLY
+
+Mar 30 2023
+
+<kbd><img src="watafuck/mychungoisnotugly.png" /></kbd>
+
+### OH SHIET
+
+Mar 30 2023
+
+<kbd><img src="watafuck/ohshiet.png" /></kbd>
+
 
 ## Notes
 
 ```
--rw-r--r--@ 1 bok  staff  118483 Aug 24  2023 holdthisshittozero.png
--rw-r--r--@ 1 bok  staff  125934 Aug 24  2023 goodpointimoutofhere.png
--rw-r--r--@ 1 bok  staff  139808 Aug 24  2023 enjoyholdingthisshittoactualzero.png
--rw-r--r--@ 1 bok  staff  150679 Aug 24  2023 noonegivesafuckaboutchungosanymore.png
--rw-r--r--@ 1 bok  staff  140872 Aug 24  2023 noonegivesashitaboutchungos.png
--rw-r--r--  1 bok  staff   83386 Aug 24  2023 Chungos_3496x5-2400x800.png
+-rw-r--r--@  1 bok  staff  158445 Mar 30  2023 boredapekennelclubsareuglier.png
+-rw-r--r--@  1 bok  staff  159825 Mar 30  2023 noyoucannotownallthechungos.png
+-rw-r--r--@  1 bok  staff  146652 Mar 30  2023 mychungoisnotugly.png
+-rw-r--r--@  1 bok  staff  122556 Mar 28  2023 ohshiet.png
+-rw-r--r--@  1 bok  staff  126272 Mar 28  2023 distasteful.png
+-rw-r--r--@  1 bok  staff  125143 Mar 27  2023 nsfw.png
+-rw-r--r--@  1 bok  staff  136205 Mar 25  2023 ionlyclickedonelink.png
+-rw-r--r--@  1 bok  staff  152984 Mar 24  2023 wenchungoordinals.png
+-rw-r--r--@  1 bok  staff  149205 Mar 24  2023 whatanassholescammer.png
+-rw-r--r--@  1 bok  staff  160456 Mar 24  2023 stopplayingwithmychungo.png
+-rw-r--r--@  1 bok  staff  160637 Mar 24  2023 stopplayingwithyourchungo.png
+-rw-r--r--@  1 bok  staff  163339 Mar 24  2023 whydidyoustealmychungos.png
+-rw-r--r--@  1 bok  staff  142016 Mar 24  2023 whocutthechungo.png
+-rw-r--r--@  1 bok  staff  154684 Mar 24  2023 whostolemychungos.png
+-rw-r--r--@  1 bok  staff  110564 Mar 24  2023 Chungos_461x5-2400x800-watafuck.png
+-rw-r--r--   1 bok  staff   96641 Mar 24  2023 Chungos_461x5-2400x800.png
 ```
