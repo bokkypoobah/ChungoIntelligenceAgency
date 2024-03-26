@@ -408,17 +408,64 @@ Mar 25 2023
 
 <kbd><img src="watafuck/ionlyclickedonelink.png" /></kbd>
 
+### WEN CHUNGO ORDINALS?
+
+Mar 24 2023
+
+<kbd><img src="watafuck/wenchungoordinals.png" /></kbd>
+
+### WHAT AN ASSHOLE SCAMMER!
+
+Mar 24 2023
+
+<kbd><img src="watafuck/whatanassholescammer.png" /></kbd>
+
+### STOP PLAYING WITH MY CHUNGO!
+
+Mar 24 2023
+
+<kbd><img src="watafuck/stopplayingwithmychungo.png" /></kbd>
+
+### STOP PLAYING WITH YOUR CHUNGO!
+
+Mar 24 2023
+
+<kbd><img src="watafuck/stopplayingwithyourchungo.png" /></kbd>
+
+### WHY DID YOU STEAL MY CHUNGOS?
+
+Mar 24 2023
+
+<kbd><img src="watafuck/whydidyoustealmychungos.png" /></kbd>
+
+### WHO CUT THE CHUNGO?
+
+Mar 24 2023
+
+<kbd><img src="watafuck/whocutthechungo.png" /></kbd>
+
+### WHO STOLE MY CHUNGOS?
+
+Mar 24 2023
+
+<kbd><img src="watafuck/whostolemychungos.png" /></kbd>
+
+### watafuck.eth
+
+Mar 24 2023
+
+<kbd><img src="watafuck/Chungos_461x5-2400x800-watafuck.png" /></kbd>
+
+### Chungos_461x5-2400x800 Blank
+
+Mar 24 2023
+
+<kbd><img src="watafuck/Chungos_461x5-2400x800.png" /></kbd>
+
 
 ## Notes
 
 ```
--rw-r--r--@  1 bok  staff  152984 Mar 24  2023 wenchungoordinals.png
--rw-r--r--@  1 bok  staff  149205 Mar 24  2023 whatanassholescammer.png
--rw-r--r--@  1 bok  staff  160456 Mar 24  2023 stopplayingwithmychungo.png
--rw-r--r--@  1 bok  staff  160637 Mar 24  2023 stopplayingwithyourchungo.png
--rw-r--r--@  1 bok  staff  163339 Mar 24  2023 whydidyoustealmychungos.png
--rw-r--r--@  1 bok  staff  142016 Mar 24  2023 whocutthechungo.png
--rw-r--r--@  1 bok  staff  154684 Mar 24  2023 whostolemychungos.png
 -rw-r--r--@  1 bok  staff  110564 Mar 24  2023 Chungos_461x5-2400x800-watafuck.png
 -rw-r--r--   1 bok  staff   96641 Mar 24  2023 Chungos_461x5-2400x800.png
 ```
