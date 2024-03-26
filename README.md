@@ -540,19 +540,61 @@ Jul 24 2023
 
 <kbd><img src="PoohBah/firsttheychungoyou.png" /></kbd>
 
+### LIVE AS IF YOU WERE TO CHUNGO TOMORROW
+
+Jul 24 2023
+
+<kbd><img src="PoohBah/liveasifyouweretochungotomorrow.png" /></kbd>
+
+
+### SEE THE CHUNGO IN PEOPLE AND CHUNGO THEM
+
+Jul 24 2023
+
+<kbd><img src="PoohBah/seethechungoinpeopleandchungothem.png" /></kbd>
+
+
+### A MAN IS BUT A CHUNGO OF HIS THOUGHTS
+
+Jul 24 2023
+
+<kbd><img src="PoohBah/amanisbutachungoofhisthoughts.png" /></kbd>
+
+### A MAN IS BUT A PRODUCT OF HIS CHUNGO
+
+Jul 24 2023
+
+<kbd><img src="PoohBah/amanisbutaproductofhischungo.png" /></kbd>
+
+### BE THE CHUNGO
+
+Jul 24 2023
+
+<kbd><img src="PoohBah/bethechungo.png" /></kbd>
+
+### IN A GENTLE WAY, YOU CAN CHUNGO THE WORLD
+
+Jul 24 2023
+
+<kbd><img src="PoohBah/inagentlewayyoucanchungotheworld.png" /></kbd>
+
+### IN A GENTLE WAY, YOU CAN SHAKE THE CHUNGO
+
+Jul 24 2023
+
+<kbd><img src="PoohBah/inagentlewayyoucanshakethechungo.png" /></kbd>
+
+
+### BE THE CHUNGO THAT YOU WISH TO SEE IN THE WORLD
+
+Jul 24 2023
+
+<kbd><img src="PoohBah/bethechungothatyouwishtoseeintheworld.png" /></kbd>
 
 
 ## Notes
 
 ```
--rw-r--r--@   1 bok  staff  151289 Jul 24  2023 liveasifyouweretochungotomorrow.png
--rw-r--r--@   1 bok  staff  140290 Jul 24  2023 seethechungoinpeopleandchungothem.png
--rw-r--r--@   1 bok  staff  137093 Jul 24  2023 amanisbutachungoofhisthoughts.png
--rw-r--r--@   1 bok  staff  144598 Jul 24  2023 amanisbutaproductofhischungo.png
--rw-r--r--@   1 bok  staff  118963 Jul 24  2023 bethechungo.png
--rw-r--r--@   1 bok  staff  145182 Jul 24  2023 inagentlewayyoucanchungotheworld.png
--rw-r--r--@   1 bok  staff  144684 Jul 24  2023 inagentlewayyoucanshakethechungo.png
--rw-r--r--@   1 bok  staff  140465 Jul 24  2023 bethechungothatyouwishtoseeintheworld.png
 -rw-r--r--@   1 bok  staff  147470 Jun 27  2023 cryptomoneyismainlyaboutpower.png
 -rw-r--r--@   1 bok  staff  143048 Jun 27  2023 thereispowerandthereismetapower.png
 -rw-r--r--@   1 bok  staff  139406 Jun 27  2023 teachamanachungoandtheychungoforever.png
