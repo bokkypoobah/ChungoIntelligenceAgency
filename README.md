@@ -722,6 +722,60 @@ Jul 22 2023
 
 <kbd><img src="PoohBah/youcanleadahorsetochungo.png" /></kbd>
 
+### CHUNGOS ALL THE WAY DOWN
+
+Jul 20 2023
+
+<kbd><img src="PoohBah/chungosallthewaydown.png" /></kbd>
+
+### FOR EVERY CHUNGO, THERE IS AN EQUAL AND OPPOSITE CHUNGO
+
+Jul 18 2023
+
+<kbd><img src="PoohBah/foreverychungothereisanequalandoppositechungo.png" /></kbd>
+
+### YOU HAVE TO CHUNGO IN YOURSELF
+
+Jul 17 2023
+
+<kbd><img src="PoohBah/youhavetochungoinyourself.png" /></kbd>
+
+### NEVER CHUNGO, NEVER WIN!
+
+Jul 17 2023
+
+<kbd><img src="PoohBah/neverchungoneverwin.png" /></kbd>
+
+### IN THE MIDST OF CHAOS, THERE IS ALSO CHUNGO
+
+Jul 17 2023
+
+<kbd><img src="PoohBah/inthemidstofchaosthereisalsochungo.png" /></kbd>
+
+### QUICKNESS IS THE ESSENCE OF THE CHUNGO
+
+Jul 17 2023
+
+<kbd><img src="PoohBah/quicknessistheessenceofthechungo.png" /></kbd>
+
+### IF YOUR OPPONENT IS OF CHOLERIC TEMPER, CHUNGO HIM
+
+Jul 17 2023
+
+<kbd><img src="PoohBah/ifyouropponentisofcholerictemperchungohim.png" /></kbd>
+
+### PRETEND INFERIORITY AND ENCOURAGE HIS CHUNGO
+
+Jul 17 2023
+
+<kbd><img src="PoohBah/pretendinferiorityandencouragehischungo.png" /></kbd>
+
+### KNOW THY SELF, KNOW THY CHUNGO
+
+Jul 17 2023
+
+<kbd><img src="PoohBah/knowthyselfknowthychungo.png" /></kbd>
+
 
 
 ## Notes
@@ -730,20 +784,11 @@ Jul 22 2023
 
 ###
 
-Jul 22 2023
+Jul 17 2023
 
 <kbd><img src="PoohBah/.png" /></kbd>
 
 
--rw-r--r--@   1 bok  staff  142150 Jun 20  2023 chungosallthewaydown.png
--rw-r--r--@   1 bok  staff  138174 Jun 18  2023 foreverychungothereisanequalandoppositechungo.png
--rw-r--r--@   1 bok  staff  140610 Jun 17  2023 youhavetochungoinyourself.png
--rw-r--r--@   1 bok  staff  134959 Jun 17  2023 neverchungoneverwin.png
--rw-r--r--@   1 bok  staff  143228 Jun 17  2023 inthemidstofchaosthereisalsochungo.png
--rw-r--r--@   1 bok  staff  137695 Jun 17  2023 quicknessistheessenceofthechungo.png
--rw-r--r--@   1 bok  staff  134381 Jun 17  2023 ifyouropponentisofcholerictemperchungohim.png
--rw-r--r--@   1 bok  staff  137205 Jun 17  2023 pretendinferiorityandencouragehischungo.png
--rw-r--r--@   1 bok  staff  137129 Jun 17  2023 knowthyselfknowthychungo.png
 -rw-r--r--@   1 bok  staff  140762 Jun 14  2023 anyonenotbusylearningisbusychungoing.png
 -rw-r--r--@   1 bok  staff  131754 Jun 13  2023 lettheotherchungodothetalking.png
 -rw-r--r--@   1 bok  staff  133165 Jun 13  2023 lettheotherpersondoagreatdealofchungoing.png
