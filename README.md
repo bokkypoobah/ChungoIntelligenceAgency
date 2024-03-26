@@ -584,25 +584,74 @@ Jul 24 2023
 
 <kbd><img src="PoohBah/inagentlewayyoucanshakethechungo.png" /></kbd>
 
-
 ### BE THE CHUNGO THAT YOU WISH TO SEE IN THE WORLD
 
 Jul 24 2023
 
 <kbd><img src="PoohBah/bethechungothatyouwishtoseeintheworld.png" /></kbd>
 
+### CRYPTO MONEY IS MAINLY ABOUT POWER
+
+Jul 27 2023
+
+<kbd><img src="PoohBah/cryptomoneyismainlyaboutpower.png" /></kbd>
+
+### THERE IS POWER. AND THERE IS META-POWER
+
+Jul 27 2023
+
+<kbd><img src="PoohBah/thereispowerandthereismetapower.png" /></kbd>
+
+### TEACH A MAN A CHUNGO AND THEY CHUNGO FOREVER
+
+Jul 27 2023
+
+<kbd><img src="PoohBah/teachamanachungoandtheychungoforever.png" /></kbd>
+
+### THEY ARE REALLY JUST TESTING YOUR CHUNGO
+
+Jul 26 2023
+
+<kbd><img src="PoohBah/theyarereallyjusttestingyourchungo.png" /></kbd>
+
+### NO ONE ESCAPES THE CHUNGO
+
+Jul 26 2023
+
+<kbd><img src="PoohBah/nooneescapesthechungo.png" /></kbd>
+
+### WHO REALLY CONTROLS YOUR CHUNGO?
+
+Jul 26 2023
+
+<kbd><img src="PoohBah/whoreallycontrolsyourchungo.png" /></kbd>
+
+### ELON CAN'T JUST BUY YOUR CHUNGO
+
+Jul 26 2023
+
+<kbd><img src="PoohBah/eloncantjustbuyyourchungo.png" /></kbd>
+
+### NOBODY CAN JUST BUY YOUR CHUNGO
+
+Jul 26 2023
+
+<kbd><img src="PoohBah/nobodycanjustbuyyourchungo.png" /></kbd>
+
+
 
 ## Notes
 
 ```
--rw-r--r--@   1 bok  staff  147470 Jun 27  2023 cryptomoneyismainlyaboutpower.png
--rw-r--r--@   1 bok  staff  143048 Jun 27  2023 thereispowerandthereismetapower.png
--rw-r--r--@   1 bok  staff  139406 Jun 27  2023 teachamanachungoandtheychungoforever.png
--rw-r--r--@   1 bok  staff  137252 Jun 26  2023 theyarereallyjusttestingyourchungo.png
--rw-r--r--@   1 bok  staff  133007 Jun 26  2023 nooneescapesthechungo.png
--rw-r--r--@   1 bok  staff  148017 Jun 26  2023 whoreallycontrolsyourchungo.png
--rw-r--r--@   1 bok  staff  141475 Jun 26  2023 eloncantjustbuyyourchungo.png
--rw-r--r--@   1 bok  staff  145337 Jun 26  2023 nobodycanjustbuyyourchungo.png
+
+###
+
+Jul 26 2023
+
+<kbd><img src="PoohBah/.png" /></kbd>
+
+
+
 -rw-r--r--@   1 bok  staff  134534 Jun 25  2023 likeabullinachungoshop.png
 -rw-r--r--@   1 bok  staff  149274 Jun 25  2023 richmanschungoisalwaysajoke.png
 -rw-r--r--@   1 bok  staff  152387 Jun 25  2023 richmansjokeisalwayschungo.png
