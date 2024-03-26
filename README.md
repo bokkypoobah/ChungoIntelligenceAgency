@@ -638,6 +638,90 @@ Jul 26 2023
 
 <kbd><img src="PoohBah/nobodycanjustbuyyourchungo.png" /></kbd>
 
+### LIKE A BULL IN A CHUNGO SHOP
+
+Jul 25 2023
+
+<kbd><img src="PoohBah/likeabullinachungoshop.png" /></kbd>
+
+### RICH MAN'S CHUNGO IS ALWAYS A JOKE
+
+Jul 25 2023
+
+<kbd><img src="PoohBah/richmanschungoisalwaysajoke.png" /></kbd>
+
+### RICH MAN'S JOKE IS ALWAYS CHUNGO
+
+Jul 25 2023
+
+<kbd><img src="PoohBah/richmansjokeisalwayschungo.png" /></kbd>
+
+### THE CHUNGO IS MIGHTIER THAN THE PEN
+
+Jul 25 2023
+
+<kbd><img src="PoohBah/thechungoismightierthanthepen.png" /></kbd>
+
+### CHUNGOS ONLY GET OLDER
+
+Jul 24 2023
+
+<kbd><img src="PoohBah/chungosonlygetolder.png" /></kbd>
+
+### IF TIRED WHEN CYCLING UPHILL, STOP TO CHECK PHONE
+
+Jul 23 2023
+
+<kbd><img src="PoohBah/iftiredwhencyclinguphillstoptocheckphone.png" /></kbd>
+
+### CASTING FIRST CHUNGOS IN GLASSHOUSES
+
+Jul 22 2023
+
+<kbd><img src="PoohBah/castingfirstchungosinglasshouses.png" /></kbd>
+
+### DO NOT CAST YOUR CHUNGOS BEFORE SWINE
+
+Jul 22 2023
+
+<kbd><img src="PoohBah/donotcastyourchungosbeforeswine.png" /></kbd>
+
+### LIKE A CHUNGO IN A CHINA SHOP
+
+Jul 22 2023
+
+<kbd><img src="PoohBah/likeachungoinachinashop.png" /></kbd>
+
+### SEPARATE THE WHEAT FROM THE CHUNGO
+
+Jul 22 2023
+
+<kbd><img src="PoohBah/separatethewheatfromthechungo.png" /></kbd>
+
+### LIKE A HOT CHUNGO THROUGH BUTTER
+
+Jul 22 2023
+
+<kbd><img src="PoohBah/likeahotchungothroughbutter.png" /></kbd>
+
+### LIKE A HOT CHUNGO
+
+Jul 22 2023
+
+<kbd><img src="PoohBah/likeahotchungo.png" /></kbd>
+
+### PLAY LONG-CHUNGO GAMES WITH LONG-CHUNGO PEOPLE
+
+Jul 22 2023
+
+<kbd><img src="PoohBah/playlongchungogameswithlongchungopeople.png" /></kbd>
+
+### YOU CAN LEAD A HORSE TO CHUNGO
+
+Jul 22 2023
+
+<kbd><img src="PoohBah/youcanleadahorsetochungo.png" /></kbd>
+
 
 
 ## Notes
@@ -646,26 +730,11 @@ Jul 26 2023
 
 ###
 
-Jul 26 2023
+Jul 22 2023
 
 <kbd><img src="PoohBah/.png" /></kbd>
 
 
-
--rw-r--r--@   1 bok  staff  134534 Jun 25  2023 likeabullinachungoshop.png
--rw-r--r--@   1 bok  staff  149274 Jun 25  2023 richmanschungoisalwaysajoke.png
--rw-r--r--@   1 bok  staff  152387 Jun 25  2023 richmansjokeisalwayschungo.png
--rw-r--r--@   1 bok  staff  135715 Jun 25  2023 thechungoismightierthanthepen.png
--rw-r--r--@   1 bok  staff  132232 Jun 24  2023 chungosonlygetolder.png
--rw-r--r--@   1 bok  staff  138042 Jun 23  2023 iftiredwhencyclinguphillstoptocheckphone.png
--rw-r--r--@   1 bok  staff  138550 Jun 22  2023 castingfirstchungosinglasshouses.png
--rw-r--r--@   1 bok  staff  150974 Jun 22  2023 donotcastyourchungosbeforeswine.png
--rw-r--r--@   1 bok  staff  137270 Jun 22  2023 likeachungoinachinashop.png
--rw-r--r--@   1 bok  staff  143524 Jun 22  2023 separatethewheatfromthechungo.png
--rw-r--r--@   1 bok  staff  133929 Jun 22  2023 likeahotchungothroughbutter.png
--rw-r--r--@   1 bok  staff  123501 Jun 22  2023 likeahotchungo.png
--rw-r--r--@   1 bok  staff  140052 Jun 22  2023 playlongchungogameswithlongchungopeople.png
--rw-r--r--@   1 bok  staff  140468 Jun 22  2023 youcanleadahorsetochungo.png
 -rw-r--r--@   1 bok  staff  142150 Jun 20  2023 chungosallthewaydown.png
 -rw-r--r--@   1 bok  staff  138174 Jun 18  2023 foreverychungothereisanequalandoppositechungo.png
 -rw-r--r--@   1 bok  staff  140610 Jun 17  2023 youhavetochungoinyourself.png
