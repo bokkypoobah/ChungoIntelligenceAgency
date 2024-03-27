@@ -1930,25 +1930,60 @@ Mar 22 2023
 <kbd><img src="MetaChungo/chungoognuhc.png" /></kbd>
 
 
+### WEN CHEAPER CHUNGOS?
+
+Mar 20 2023
+
+<kbd><img src="MetaChungo/wencheaperchungos.png" /></kbd>
+
+### 1 CHUNGO = 1 OUNCE
+
+Mar 20 2023
+
+<kbd><img src="MetaChungo/1chungo1ounce.png" /></kbd>
+
+### 1 CHUNGO = 2 OUNCES
+
+Mar 20 2023
+
+<kbd><img src="MetaChungo/1chungo2ounces.png" /></kbd>
+
+### 1 CHUNGO = 3 OUNCES
+
+Mar 20 2023
+
+<kbd><img src="MetaChungo/1chungo3ounces.png" /></kbd>
+
+### 1 CHUNGO = 4 OUNCES
+
+Mar 20 2023
+
+<kbd><img src="MetaChungo/1chungo4ounces.png" /></kbd>
+
+### I’LL ONLY SWEEP AT A 1 ETH FLOOR
+
+Mar 7 2023
+
+<kbd><img src="MetaChungo/illonlysweepata1ethfloor.png" /></kbd>
+
+### I HATE SWEEPING WEN CHEAP
+
+Mar 7 2023
+
+<kbd><img src="MetaChungo/ihatesweepingwencheap.png" /></kbd>
+
+
 ## Notes
 
 ```
 
 ###
 
-Apr 12 2023
+Mar 7 2023
 
 <kbd><img src="MetaChungo/.png" /></kbd>
 
 
-
--rw-r--r--@   1 bok  staff  170426 Mar 20  2023 wencheaperchungos.png
--rw-r--r--@   1 bok  staff  149650 Mar 20  2023 1chungo1ounce.png
--rw-r--r--@   1 bok  staff  157322 Mar 20  2023 1chungo2ounces.png
--rw-r--r--@   1 bok  staff  158256 Mar 20  2023 1chungo3ounces.png
--rw-r--r--@   1 bok  staff  156338 Mar 20  2023 1chungo4ounces.png
--rw-r--r--@   1 bok  staff  165260 Mar  7  2023 illonlysweepata1ethfloor.png
--rw-r--r--@   1 bok  staff  162729 Mar  7  2023 ihatesweepingwencheap.png
 -rw-r--r--@   1 bok  staff  184702 Mar  3  2023 devpromisechungo3dformetaverses.png
 -rw-r--r--@   1 bok  staff  182046 Mar  3  2023 wen3dchungoformetaverses.png
 -rw-r--r--@   1 bok  staff  173985 Mar  3  2023 1chungo0069etheriums.png
