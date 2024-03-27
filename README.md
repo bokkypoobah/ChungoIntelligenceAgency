@@ -1863,6 +1863,42 @@ May 23 2023
 
 <kbd><img src="MetaChungo/seenochungohearnochungospeaknochungo.png" /></kbd>
 
+### PSA: DON'T JUST SIGN ANYTHING
+
+Apr 12 2023
+
+<kbd><img src="MetaChungo/psadontjustsignanything.png" /></kbd>
+
+### NOTE: SCAMMERS CHAT AMONGST THEMSELVES
+
+Apr 12 2023
+
+<kbd><img src="MetaChungo/notescammerschatamongstthemselves.png" /></kbd>
+
+### WARNING: P2E GAME INSTALLS ARE RISKY
+
+Apr 12 2023
+
+<kbd><img src="MetaChungo/warningp2egameinstallsarerisky.png" /></kbd>
+
+### BE CAREFUL! SCAMMERS WANT YOUR CHUNGOS
+
+Apr 12 2023
+
+<kbd><img src="MetaChungo/becarefulscammerswantyourchungos.png" /></kbd>
+
+### PUT YOUR MONEY WHERE YOUR CHUNGO IS
+
+Apr 12 2023
+
+<kbd><img src="MetaChungo/putyourmoneywhereyourchungois.png" /></kbd>
+
+### PUT YOUR CHUNGO WHERE YOUR MOUTH IS
+
+Apr 12 2023
+
+<kbd><img src="MetaChungo/putyourchungowhereyourmouthis.png" /></kbd>
+
 
 
 ## Notes
@@ -1871,17 +1907,12 @@ May 23 2023
 
 ###
 
-Jun 9 2023
+Apr 12 2023
 
 <kbd><img src="MetaChungo/.png" /></kbd>
 
 
--rw-r--r--@   1 bok  staff  164311 Apr 12  2023 psadontjustsignanything.png
--rw-r--r--@   1 bok  staff  174295 Apr 12  2023 notescammerschatamongstthemselves.png
--rw-r--r--@   1 bok  staff  173689 Apr 12  2023 warningp2egameinstallsarerisky.png
--rw-r--r--@   1 bok  staff  181337 Apr 12  2023 becarefulscammerswantyourchungos.png
--rw-r--r--@   1 bok  staff  176489 Apr 12  2023 putyourmoneywhereyourchungois.png
--rw-r--r--@   1 bok  staff  175211 Apr 12  2023 putyourchungowhereyourmouthis.png
+
 -rw-r--r--@   1 bok  staff  175439 Apr  4  2023 sellingnakamigostobuybitcoinchungos.png
 -rw-r--r--@   1 bok  staff  175106 Mar 25  2023 iwouldkillforachungolikethis.png
 -rw-r--r--@   1 bok  staff  170000 Mar 24  2023 sellingchungostobuybitcoinchungos.png
