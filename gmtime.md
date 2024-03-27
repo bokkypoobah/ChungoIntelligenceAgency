@@ -30,6 +30,49 @@ Jul 20 2023
 <kbd><img src="gmtime/jetzthabenwirdenchungosalat.png" /></kbd>
 
 
+### NU KOMT DE XRP UIT DE MOUW
+
+NOW THE XRP IS COMING OUT OF THE SLEEVE (Dutch)
+
+Jul 14 2023
+
+<kbd><img src="gmtime/nukomtdexrpuitdemouw.png" /></kbd>
+
+
+### WIE ZIJN CHUNGO BRANDT, MOET OP DE BLAREN ZITTEN
+
+WHOEVER BURNS HIS CHUNGO MUST SIT ON THE BLISTERS (Dutch)
+
+Jul 13 2023
+
+<kbd><img src="gmtime/wiezijnchungobrandtmoetopdeblarenzitten.png" /></kbd>
+
+
+### MET ZIJN NEUS IN DE CHUNGO VALLEN
+
+FALL WITH HIS NOSE INTO THE CHUNGO (Dutch)
+
+Jul 12 2023
+
+<kbd><img src="gmtime/metzijnneusindechungovallen.png" /></kbd>
+
+
+### MET ZIJN CHUNGO IN DE BOTER VALLEN
+
+FALLING IN THE BUTTER WITH HIS CHUNGO (Dutch)
+
+Jul 12 2023
+
+<kbd><img src="gmtime/metzijnchungoindebotervallen.png" /></kbd>
+
+### WE ZULLEN ZE EENS EEN CHUNGO LATEN RUIKEN!
+
+WE'LL LET THEM SMELL A CHUNGO! (Dutch)
+
+Jul 12 2023
+
+<kbd><img src="gmtime/wezullenzeeenseenchungolatenruiken.png" /></kbd>
+
 ```
 
 ###
@@ -38,11 +81,6 @@ Jul 20 2023
 
 <kbd><img src="gmtime/.png" /></kbd>
 
--rw-r--r--@  1 bok  staff  133213 Jul 14  2023 nukomtdexrpuitdemouw.png
--rw-r--r--@  1 bok  staff  140784 Jul 13  2023 wiezijnchungobrandtmoetopdeblarenzitten.png
--rw-r--r--@  1 bok  staff  136598 Jul 12  2023 metzijnneusindechungovallen.png
--rw-r--r--@  1 bok  staff  138658 Jul 12  2023 metzijnchungoindebotervallen.png
--rw-r--r--@  1 bok  staff  138203 Jul 12  2023 wezullenzeeenseenchungolatenruiken.png
 -rw-r--r--@  1 bok  staff  138014 Jul  8  2023 voutirarmeucavalinhodachungo.png
 -rw-r--r--@  1 bok  staff  140954 Jul  8  2023 seformótremendoarrozconchungo.png
 -rw-r--r--@  1 bok  staff  140580 Jul  6  2023 attglidachungoinpåenräkmacka.png
