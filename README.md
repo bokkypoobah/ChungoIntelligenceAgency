@@ -1899,6 +1899,35 @@ Apr 12 2023
 
 <kbd><img src="MetaChungo/putyourchungowhereyourmouthis.png" /></kbd>
 
+### SELLING NAKAMIGOS TO BUY BITCOIN CHUNGOS
+
+Apr 4 2023
+
+<kbd><img src="MetaChungo/sellingnakamigostobuybitcoinchungos.png" /></kbd>
+
+### I WOULD KILL FOR A CHUNGO LIKE THIS
+
+Mar 25 2023
+
+<kbd><img src="MetaChungo/iwouldkillforachungolikethis.png" /></kbd>
+
+### SELLING CHUNGOS TO BUY BITCOIN CHUNGOS
+
+Mar 24 2023
+
+<kbd><img src="MetaChungo/sellingchungostobuybitcoinchungos.png" /></kbd>
+
+### SELLING ETH NFTS TO BUY BITCOIN CHUNGOS
+
+Mar 24 2023
+
+<kbd><img src="MetaChungo/sellingethnftstobuybitcoinchungos.png" /></kbd>
+
+### CHUNGO = OGNUHC
+
+Mar 22 2023
+
+<kbd><img src="MetaChungo/chungoognuhc.png" /></kbd>
 
 
 ## Notes
@@ -1913,11 +1942,6 @@ Apr 12 2023
 
 
 
--rw-r--r--@   1 bok  staff  175439 Apr  4  2023 sellingnakamigostobuybitcoinchungos.png
--rw-r--r--@   1 bok  staff  175106 Mar 25  2023 iwouldkillforachungolikethis.png
--rw-r--r--@   1 bok  staff  170000 Mar 24  2023 sellingchungostobuybitcoinchungos.png
--rw-r--r--@   1 bok  staff  165609 Mar 24  2023 sellingethnftstobuybitcoinchungos.png
--rw-r--r--@   1 bok  staff  147951 Mar 22  2023 chungoognuhc.png
 -rw-r--r--@   1 bok  staff  170426 Mar 20  2023 wencheaperchungos.png
 -rw-r--r--@   1 bok  staff  149650 Mar 20  2023 1chungo1ounce.png
 -rw-r--r--@   1 bok  staff  157322 Mar 20  2023 1chungo2ounces.png
