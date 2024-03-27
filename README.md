@@ -950,6 +950,97 @@ Apr 20 2023
 
 <kbd><img src="PoohBah/pushingchungouphillwithapointychungo.png" /></kbd>
 
+### IF FEAR IS TOO STRONG, THE CHUNGO IS SUPPRESSED
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/iffearistoostrongthechungoissuppressed.png" /></kbd>
+
+### YOU CAN'T TEACH A NEW DOG OLD CHUNGOS
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/youcantteachanewdogoldchungos.png" /></kbd>
+
+### YOU CAN'T TEACH AN OLD DOG NEW CHUNGOS
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/youcantteachanolddognewchungos.png" /></kbd>
+
+### CHUNGO IS JUST AN IDEA
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/chungoisjustanidea.png" /></kbd>
+
+### STOP BLAMING ME, THINKING I'M THE CHUNGO
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/stopblamingmethinkingimthechungo.png" /></kbd>
+
+### FOCUS - FOLLOW ONE CHUNGO UNTIL SUCCESSFUL
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/focusfollowonechungountilsuccessful.png" /></kbd>
+
+### TO KNOW A LITTLE ABOUT A LOT OF CHUNGO
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/toknowalittleaboutalotofchungo.png" /></kbd>
+
+### EMOTIONS ARE WHAT MAKE US CHUNGO
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/emotionsarewhatmakeuschungo.png" /></kbd>
+
+### THE RICH HAVE CHUNGO WORK FOR THEM
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/therichhavechungoworkforthem.png" /></kbd>
+
+### THE POOR AND THE MIDDLE CLASS WORK FOR CHUNGO
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/thepoorandthemiddleclassworkforchungo.png" /></kbd>
+
+### LEADERSHIP IS WHAT YOU NEED TO CHUNGO NEXT
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/leadershipiswhatyouneedtochungonext.png" /></kbd>
+
+### PEOPLE WHO AVOID FAILURE ALSO AVOID CHUNGO
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/peoplewhoavoidfailurealsoavoidchungo.png" /></kbd>
+
+### YOU’RE ONLY POOR IF YOU CHUNGO UP
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/youreonlypoorifyouchungoup.png" /></kbd>
+
+### WINNERS ARE NOT AFRAID OF CHUNGOING
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/winnersarenotafraidofchungoing.png" /></kbd>
+
+### REALIZE YOU'RE THE PROBLEM, THEN CHUNGO YOURSELF
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/realizeyouretheproblemthenchungoyourself.png" /></kbd>
+
+
 
 ## Notes
 
@@ -961,97 +1052,6 @@ Apr 19 2023
 
 <kbd><img src="PoohBah/.png" /></kbd>
 
-
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/iffearistoostrongthechungoissuppressed.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/youcantteachanewdogoldchungos.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/youcantteachanolddognewchungos.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/chungoisjustanidea.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/stopblamingmethinkingimthechungo.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/focusfollowonechungountilsuccessful.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/toknowalittleaboutalotofchungo.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/emotionsarewhatmakeuschungo.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/therichhavechungoworkforthem.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/thepoorandthemiddleclassworkforchungo.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/leadershipiswhatyouneedtochungonext.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/peoplewhoavoidfailurealsoavoidchungo.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/youreonlypoorifyouchungoup.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/winnersarenotafraidofchungoing.png" /></kbd>
-
-###
-
-Apr 19 2023
-
-<kbd><img src="PoohBah/realizeyouretheproblemthenchungoyourself.png" /></kbd>
 
 
 -rw-r--r--@   1 bok  staff  147289 Apr 14  2023 bestillandknowthatiamchungo.png
