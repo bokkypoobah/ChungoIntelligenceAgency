@@ -328,64 +328,296 @@ Feb 28 2023
 
 <kbd><img src="sexy-devil/iwanttochungomychungo.png" /></kbd>
 
+### WHICH FLOOR SHOULD I SWEEP?
 
-```
+Feb 27 2023
 
-###
+<kbd><img src="sexy-devil/whichfloorshouldisweep.png" /></kbd>
 
-Feb 28 2023
+### I SOLD AN NFT FOR 69 ETHERIUMS
 
-<kbd><img src="sexy-devil/.png" /></kbd>
+Feb 27 2023
 
+<kbd><img src="sexy-devil/isoldannftfor69etheriums.png" /></kbd>
 
+### WHO CAN I TALK TO ABOUT A COLAB?
 
--rw-r--r--@   1 bok  staff  116236 Feb 27  2023 whichfloorshouldisweep.png
--rw-r--r--@   1 bok  staff  117775 Feb 27  2023 isoldannftfor69etheriums.png
--rw-r--r--@   1 bok  staff  117220 Feb 27  2023 whocanitalktoaboutacolab.png
--rw-r--r--@   1 bok  staff  129912 Feb 27  2023 lookingtotrademyveefriendscoolcat.png
--rw-r--r--@   1 bok  staff  105533 Feb 26  2023 foundersdoxxed.png
--rw-r--r--@   1 bok  staff  120608 Feb 26  2023 idosolikegreenchungoandchungo.png
--rw-r--r--@   1 bok  staff  100191 Feb 26  2023 allchungolong.png
--rw-r--r--@   1 bok  staff  107483 Feb 26  2023 thesweetestchungo.png
--rw-r--r--@   1 bok  staff  108900 Feb 26  2023 withorwithoutchungo.png
--rw-r--r--@   1 bok  staff  100003 Feb 26  2023 chungoonme.png
--rw-r--r--@   1 bok  staff  112063 Feb 26  2023 everychungoyoutake.png
--rw-r--r--@   1 bok  staff  119564 Feb 26  2023 chungowantstochungothechungo.png
--rw-r--r--@   1 bok  staff  119413 Feb 26  2023 chungowilltearusapart.png
--rw-r--r--@   1 bok  staff  112561 Feb 26  2023 chungorhapsody.png
--rw-r--r--@   1 bok  staff  112344 Feb 26  2023 anotherchungointhechungo.png
--rw-r--r--@   1 bok  staff  103339 Feb 26  2023 heartofchungo.png
--rw-r--r--@   1 bok  staff  117577 Feb 26  2023 wedidntstartthechungo.png
--rw-r--r--@   1 bok  staff  105728 Feb 26  2023 nothingchungos2u.png
--rw-r--r--@   1 bok  staff  102157 Feb 26  2023 chungotown.png
--rw-r--r--@   1 bok  staff  117756 Feb 26  2023 crazylittlechungocalledchungo.png
--rw-r--r--@   1 bok  staff  101301 Feb 26  2023 eyeofthechungo.png
--rw-r--r--@   1 bok  staff  111034 Feb 26  2023 thechungosleepstonight.png
--rw-r--r--@   1 bok  staff  123439 Feb 26  2023 newchungoindiscordhellochungo.png
--rw-r--r--@   1 bok  staff  118524 Feb 26  2023 joinboredchungoyatchclub.png
--rw-r--r--@   1 bok  staff  111513 Feb 26  2023 poowhalealertpoowhalealert.png
--rw-r--r--@   1 bok  staff  115825 Feb 26  2023 idonotlikegreenchungoandchungo.png
--rw-r--r--@   1 bok  staff  120791 Feb 26  2023 wouldyouliketotouchmychungo.png
--rw-r--r--@   1 bok  staff  127536 Feb 26  2023 wouldyouliketotastemychungo.png
--rw-r--r--@   1 bok  staff  120563 Feb 26  2023 wouldyouliketofeelmychungo.png
--rw-r--r--@   1 bok  staff  124466 Feb 26  2023 wouldyouliketoseemychungo.png
--rw-r--r--@   1 bok  staff  125474 Feb 26  2023 stopplayingwithmychungos.png
--rw-r--r--@   1 bok  staff  117745 Feb 26  2023 dontstealmychungos.png
--rw-r--r--@   1 bok  staff  117055 Feb 26  2023 thankyouforthechungos.png
--rw-r--r--@   1 bok  staff  114514 Feb 25  2023 nothingbettertodochungoon.png
--rw-r--r--@   1 bok  staff  105468 Feb 25  2023 smokingsux.png
--rw-r--r--@   1 bok  staff  107640 Feb 25  2023 goaheadwhynot.png
--rw-r--r--@   1 bok  staff  114620 Feb 25  2023 nosalesfor15minsimout.png
--rw-r--r--@   1 bok  staff  108948 Feb 25  2023 nosalesforanhourimout.png
--rw-r--r--@   1 bok  staff  112066 Feb 25  2023 isthataweedstoreindenver.png
--rw-r--r--@   1 bok  staff  113589 Feb 25  2023 imchungoingajointnow.png
--rw-r--r--@   1 bok  staff  120260 Feb 25  2023 timetosmokebongandfeelchunguish.png
--rw-r--r--@   1 bok  staff  122051 Feb 25  2023 youchungosarehighasfuck.png
--rw-r--r--@   1 bok  staff   99237 Feb 25  2023 itsmellslikeweed.png
--rw-r--r--@   1 bok  staff  104656 Feb 25  2023 smellhischungo.png
--rw-r--r--@   1 bok  staff   99262 Feb 25  2023 mighthaveagummie.png
--rw-r--r--@   1 bok  staff  104239 Feb 25  2023 okbongriptaken.png
--rw-r--r--@   1 bok  staff   99568 Feb 25  2023 youonlyliveonce.png
--rw-r--r--@   1 bok  staff   95211 Feb 25  2023 dontbeevil.png
--rw-r--r--@   1 bok  staff   65504 Feb 25  2023 Chungos_8449x5-2400x800.png
-```
+Feb 27 2023
+
+<kbd><img src="sexy-devil/whocanitalktoaboutacolab.png" /></kbd>
+
+### LOOKING TO TRADE MY VEEFRIENDS/COOLCAT
+
+Feb 27 2023
+
+<kbd><img src="sexy-devil/lookingtotrademyveefriendscoolcat.png" /></kbd>
+
+### FOUNDERS DOXXED?
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/foundersdoxxed.png" /></kbd>
+
+### I DO SO LIKE GREEN CHUNGO AND CHUNGO!
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/idosolikegreenchungoandchungo.png" /></kbd>
+
+### ALL CHUNGO LONG
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/allchungolong.png" /></kbd>
+
+### THE SWEETEST CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/thesweetestchungo.png" /></kbd>
+
+### WITH OR WITHOUT CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/withorwithoutchungo.png" /></kbd>
+
+### CHUNGO ON ME
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/chungoonme.png" /></kbd>
+
+### EVERY CHUNGO YOU TAKE
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/everychungoyoutake.png" /></kbd>
+
+### CHUNGO WANTS TO CHUNGO THE CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/chungowantstochungothechungo.png" /></kbd>
+
+### CHUNGO WILL TEAR US APART
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/chungowilltearusapart.png" /></kbd>
+
+### CHUNGO RHAPSODY
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/chungorhapsody.png" /></kbd>
+
+### ANOTHER CHUNGO IN THE CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/anotherchungointhechungo.png" /></kbd>
+
+### HEART OF CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/heartofchungo.png" /></kbd>
+
+### WE DIDN'T START THE CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/wedidntstartthechungo.png" /></kbd>
+
+### NOTHING CHUNGOS 2 U
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/nothingchungos2u.png" /></kbd>
+
+### CHUNGOTOWN
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/chungotown.png" /></kbd>
+
+### CRAZY LITTLE CHUNGO CALLED CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/crazylittlechungocalledchungo.png" /></kbd>
+
+### EYE OF THE CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/eyeofthechungo.png" /></kbd>
+
+### THE CHUNGO SLEEPS TONIGHT
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/thechungosleepstonight.png" /></kbd>
+
+### NEW CHUNGO IN DISCORD! HELLO CHUNGO!
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/newchungoindiscordhellochungo.png" /></kbd>
+
+### JOIN BORED CHUNGO YATCH CLUB
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/joinboredchungoyatchclub.png" /></kbd>
+
+### POO WHALE ALERT! POO WHALE ALERT!
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/poowhalealertpoowhalealert.png" /></kbd>
+
+### I DO NOT LIKE GREEN CHUNGO AND CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/idonotlikegreenchungoandchungo.png" /></kbd>
+
+### WOULD YOU LIKE TO TOUCH MY CHUNGO?
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/wouldyouliketotouchmychungo.png" /></kbd>
+
+### WOULD YOU LIKE TO TASTE MY CHUNGO?
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/wouldyouliketotastemychungo.png" /></kbd>
+
+### WOULD YOU LIKE TO FEEL MY CHUNGO?
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/wouldyouliketofeelmychungo.png" /></kbd>
+
+### WOULD YOU LIKE TO SEE MY CHUNGO?
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/wouldyouliketoseemychungo.png" /></kbd>
+
+### STOP PLAYING WITH MY CHUNGOS
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/stopplayingwithmychungos.png" /></kbd>
+
+### DON'T STEAL MY CHUNGOS
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/dontstealmychungos.png" /></kbd>
+
+### THANK YOU FOR THE CHUNGOS
+
+Feb 26 2023
+
+<kbd><img src="sexy-devil/thankyouforthechungos.png" /></kbd>
+
+### NOTHING BETTER TO DO? CHUNGO ON!
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/nothingbettertodochungoon.png" /></kbd>
+
+### SMOKING SUX
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/smokingsux.png" /></kbd>
+
+### GO AHEAD. WHY NOT?
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/goaheadwhynot.png" /></kbd>
+
+### NO SALES FOR 15 MINS. I'M OUT
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/nosalesfor15minsimout.png" /></kbd>
+
+### NO SALES FOR AN HOUR. I'M OUT
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/nosalesforanhourimout.png" /></kbd>
+
+### IS THAT A WEED STORE IN DENVER
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/isthataweedstoreindenver.png" /></kbd>
+
+### I'M CHUNGOING A JOINT NOW
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/imchungoingajointnow.png" /></kbd>
+
+### TIME TO SMOKE BONG AND FEEL CHUNGUISH
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/timetosmokebongandfeelchunguish.png" /></kbd>
+
+### YOU CHUNGOS ARE HIGH AS FUCK
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/youchungosarehighasfuck.png" /></kbd>
+
+### IT SMELLS LIKE WEED
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/itsmellslikeweed.png" /></kbd>
+
+### SMELL HIS CHUNGO
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/smellhischungo.png" /></kbd>
+
+### MIGHT HAVE A GUMMIE
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/mighthaveagummie.png" /></kbd>
+
+### OK BONG RIP TAKEN
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/okbongriptaken.png" /></kbd>
+
+### YOU ONLY LIVE ONCE
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/youonlyliveonce.png" /></kbd>
+
+### DON'T BE EVIL
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/dontbeevil.png" /></kbd>
+
+### Chungos_8449x5-2400x800 Blank
+
+Feb 25 2023
+
+<kbd><img src="sexy-devil/Chungos_8449x5-2400x800.png" /></kbd>
