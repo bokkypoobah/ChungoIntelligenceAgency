@@ -860,6 +860,33 @@ Jul 9 2023
 
 <kbd><img src="PoohBah/acathasninechungos.png" /></kbd>
 
+### DON'T WAIT FOR SOMEONE ELSE TO CHUNGO YOU FIRST
+
+Jul 3 2023
+
+<kbd><img src="PoohBah/dontwaitforsomeoneelsetochungoyoufirst.png" /></kbd>
+
+
+### THE CHUNGO IS IN YOUR COURT
+
+Jul 2 2023
+
+<kbd><img src="PoohBah/thechungoisinyourcourt.png" /></kbd>
+
+### THIS ABOVE ALL: TO THINE OWN CHUNGO BE TRUE
+
+May 30 2023
+
+<kbd><img src="PoohBah/thisabovealltothineownchungobetrue.png" /></kbd>
+
+
+### A CHUNGO! A CHUNGO! MY KINGDOM FOR A CHUNGO!
+
+May 30 2023
+
+<kbd><img src="PoohBah/achungoachungomykingdomforachungo.png" /></kbd>
+
+
 
 ## Notes
 
@@ -867,17 +894,17 @@ Jul 9 2023
 
 ###
 
-Jul 9 2023
+May 30 2023
 
 <kbd><img src="PoohBah/.png" /></kbd>
 
 
 
 
--rw-r--r--@   1 bok  staff  141855 Jun  3  2023 dontwaitforsomeoneelsetochungoyoufirst.png
--rw-r--r--@   1 bok  staff  132454 Jun  2  2023 thechungoisinyourcourt.png
--rw-r--r--@   1 bok  staff  143821 May 30  2023 thisabovealltothineownchungobetrue.png
--rw-r--r--@   1 bok  staff  141813 May 30  2023 achungoachungomykingdomforachungo.png
+
+
+
+
 -rw-r--r--@   1 bok  staff  136564 May 28  2023 haveyourchungoandeatit.png
 -rw-r--r--@   1 bok  staff  135602 May 26  2023 ittakestwotochungo.png
 -rw-r--r--@   1 bok  staff  135895 May 25  2023 tochungoornottochungothatisthequestion.png
