@@ -4,6 +4,7 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 * [0xfreddiemac.eth](0xfreddiemac.md)
 * [BeachInspector.eth](BeachInspector.md)
+* [ChiefRiskOfficer.eth](ChiefRiskOfficer.md)
 * [chungoholicsanonymous](chungoholicsanonymous.md)
 * [firstyoulaughatthem.eth](firstyoulaughatthem.md)
 * [gmtime.eth](gmtime.md)
