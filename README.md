@@ -2021,6 +2021,318 @@ Mar 1 2023
 
 <kbd><img src="MetaChungo/sellingmyazukikodaforchungo.png" /></kbd>
 
+### 1 CHUNGO = 0.13 ETHERIUMS
+
+Feb 28 2023
+
+<kbd><img src="MetaChungo/1chungo013etheriums.png" /></kbd>
+
+### 1 CHUNGO = 0.0888 ETHERIUMS
+
+Feb 27 2023
+
+<kbd><img src="MetaChungo/1chungo00888etheriums.png" /></kbd>
+
+### 1 CHUNGO = 0.06 ETHERIUMS
+
+Feb 27 2023
+
+<kbd><img src="MetaChungo/1chungo006etheriums.png" /></kbd>
+
+### 1 CHUNGO = 5 ETHERIUMS
+
+Feb 27 2023
+
+<kbd><img src="MetaChungo/1chungo5etheriums.png" /></kbd>
+
+### 1 CHUNGO = 0.07 ETH
+
+Feb 26 2023
+
+<kbd><img src="MetaChungo/1chungo007eth.png" /></kbd>
+
+### I SHOWED YOUR MOM MY CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="MetaChungo/ishowedyourmommychungo.png" /></kbd>
+
+### YOUR MOM LIKES MY CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="MetaChungo/yourmomlikesmychungo.png" /></kbd>
+
+### 1 CHUNGO = 0.065 ETH
+
+Feb 26 2023
+
+<kbd><img src="MetaChungo/1chungo0065eth.png" /></kbd>
+
+### 1 CHUNGO = 0.06 ETH
+
+Feb 26 2023
+
+<kbd><img src="MetaChungo/1chungo006eth.png" /></kbd>
+
+### DO YOU LIKE MY CHUNGO?
+
+Feb 26 2023
+
+<kbd><img src="MetaChungo/doyoulikemychungo.png" /></kbd>
+
+### I'M GETTING HIGH ON CHUNGOS
+
+Feb 26 2023
+
+<kbd><img src="MetaChungo/imgettinghighonchungos.png" /></kbd>
+
+### MY MOM LIKES MY CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="MetaChungo/mymomlikesmychungo.png" /></kbd>
+
+### I SHOWED MY MOM MY CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="MetaChungo/ishowedmymommychungo.png" /></kbd>
+
+### EVERY CHUNGO'S MOM NEEDS A CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="MetaChungo/everychungosmomneedsachungo.png" /></kbd>
+
+### SELL ME SOME CHEAP CHUNGOS
+
+Feb 26 2023
+
+<kbd><img src="MetaChungo/sellmesomecheapchungos.png" /></kbd>
+
+### 1 CHUNGO = 0.04 ETH
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/1chungo004eth.png" /></kbd>
+
+### WHO GIVES A CHUNGO?
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/whogivesachungo.png" /></kbd>
+
+### WHO IS TALKING SHIT ABOUT CHUNGOS?
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/whoistalkingshitaboutchungos.png" /></kbd>
+
+### THE-ROYAL-FAMILY.ETH IS BACK
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/theroyalfamilyethisback.png" /></kbd>
+
+### PINK ON PINK ON PINK
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/pinkonpinkonpink.png" /></kbd>
+
+### RED ON RED SHEESH
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/redonredsheesh.png" /></kbd>
+
+### BIG CEASER FAN
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/bigceaserfan.png" /></kbd>
+
+### ORRRR FROG HAT IS SICK
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/orrrrfroghatissick.png" /></kbd>
+
+### FURS ARE CONFY
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/fursareconfy.png" /></kbd>
+
+### PINK FUR IS SO SWEET
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/pinkfurissosweet.png" /></kbd>
+
+### CHEAP ROBOS GETTING SNIPED!
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/cheaprobosgettingsniped.png" /></kbd>
+
+### FINALLY GOT A TATTOO
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/finallygotatattoo.png" /></kbd>
+
+### NICE CHUNGO 4SALE! NICE CHUNGO 4SALE!
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/nicechungo4salenicechungo4sale.png" /></kbd>
+
+### BLUR SUCKS
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/blursucks.png" /></kbd>
+
+### OPENSEA SUCKS
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/openseasucks.png" /></kbd>
+
+### BLUR IS THE BEST
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/bluristhebest.png" /></kbd>
+
+### OPENSEA IS THE BEST
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/openseaisthebest.png" /></kbd>
+
+### DO NOT USE EMOJIS IN THIS DISCORD
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/donotuseemojisinthisdiscord.png" /></kbd>
+
+### NOT SHAMEFUL TO UNDERCUT FLOOR
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/notshamefultoundercutfloor.png" /></kbd>
+
+### CHUNGO ME, CHUNGO YOU (AH-HAA)
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/chungomechungoyouahhaa.png" /></kbd>
+
+### WELCOME TO THE REPUBLIC OF CHUNGO
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/welcometotherepublicofchungo.png" /></kbd>
+
+### CHUNGO FEVER
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/chungofever.png" /></kbd>
+
+### CHEAP AS CHUNGOS
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/cheapaschungos.png" /></kbd>
+
+### WOKE UP AND CHOSE CHUNGOS
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/wokeupandchosechungos.png" /></kbd>
+
+### THERE WAS CHUNGO IN THE AIR THAT NIGHT
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/therewaschungointheairthatnight.png" /></kbd>
+
+### CHUNGO SEE CHUNGO DO
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/chungoseechungodo.png" /></kbd>
+
+### WE ARE THE CHUNGOS
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/wearethechungos.png" /></kbd>
+
+### 1 CHUNGO = 10 ETH
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/1chungo10eth.png" /></kbd>
+
+### 1 CHUNGO = 1 ETH
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/1chungo1eth.png" /></kbd>
+
+### 1 CHUNGO = 0.50 ETH
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/1chungo050eth.png" /></kbd>
+
+### 1 CHUNGO = 0.20 ETH
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/1chungo020eth.png" /></kbd>
+
+### 1 CHUNGO = 0.10 ETH
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/1chungo010eth.png" /></kbd>
+
+### 1 CHUNGO = 0.05 ETH
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/1chungo005eth.png" /></kbd>
+
+### NOT SHAMEFUL TO SELL CHUNGOS
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/notshamefultosellchungos.png" /></kbd>
+
+### 1 CHUNGO = 1 CHUNGO
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/1chungo1chungo.png" /></kbd>
+
+### I'M SMOKING CHUNGO
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/imsmokingchungo.png" /></kbd>
+
+### CHUNGO WILL RISE AGAIN
+
+Feb 25 2023
+
+<kbd><img src="MetaChungo/chungowillriseagain.png" /></kbd>
+
 
 ## Notes
 
@@ -2028,63 +2340,12 @@ Mar 1 2023
 
 ###
 
-Mar 1 2023
+Feb 25 2023
 
 <kbd><img src="MetaChungo/.png" /></kbd>
 
 
--rw-r--r--@   1 bok  staff  169161 Feb 28  2023 1chungo013etheriums.png
--rw-r--r--@   1 bok  staff  169727 Feb 27  2023 1chungo00888etheriums.png
--rw-r--r--@   1 bok  staff  169461 Feb 27  2023 1chungo006etheriums.png
--rw-r--r--@   1 bok  staff  164247 Feb 27  2023 1chungo5etheriums.png
--rw-r--r--@   1 bok  staff  154193 Feb 26  2023 1chungo007eth.png
--rw-r--r--@   1 bok  staff  175826 Feb 26  2023 ishowedyourmommychungo.png
--rw-r--r--@   1 bok  staff  168062 Feb 26  2023 yourmomlikesmychungo.png
--rw-r--r--@   1 bok  staff  160312 Feb 26  2023 1chungo0065eth.png
--rw-r--r--@   1 bok  staff  156880 Feb 26  2023 1chungo006eth.png
--rw-r--r--@   1 bok  staff  163320 Feb 26  2023 doyoulikemychungo.png
--rw-r--r--@   1 bok  staff  161798 Feb 26  2023 imgettinghighonchungos.png
--rw-r--r--@   1 bok  staff  163175 Feb 26  2023 mymomlikesmychungo.png
--rw-r--r--@   1 bok  staff  171624 Feb 26  2023 ishowedmymommychungo.png
--rw-r--r--@   1 bok  staff  182686 Feb 26  2023 everychungosmomneedsachungo.png
--rw-r--r--@   1 bok  staff  167342 Feb 26  2023 sellmesomecheapchungos.png
--rw-r--r--@   1 bok  staff  154280 Feb 25  2023 1chungo004eth.png
--rw-r--r--@   1 bok  staff  170719 Feb 25  2023 whogivesachungo.png
--rw-r--r--@   1 bok  staff  179027 Feb 25  2023 whoistalkingshitaboutchungos.png
--rw-r--r--@   1 bok  staff  166029 Feb 25  2023 theroyalfamilyethisback.png
--rw-r--r--@   1 bok  staff  143523 Feb 25  2023 pinkonpinkonpink.png
--rw-r--r--@   1 bok  staff  147725 Feb 25  2023 redonredsheesh.png
--rw-r--r--@   1 bok  staff  154557 Feb 25  2023 bigceaserfan.png
--rw-r--r--@   1 bok  staff  159196 Feb 25  2023 orrrrfroghatissick.png
--rw-r--r--@   1 bok  staff  156392 Feb 25  2023 fursareconfy.png
--rw-r--r--@   1 bok  staff  157337 Feb 25  2023 pinkfurissosweet.png
--rw-r--r--@   1 bok  staff  169571 Feb 25  2023 cheaprobosgettingsniped.png
--rw-r--r--@   1 bok  staff  149583 Feb 25  2023 finallygotatattoo.png
--rw-r--r--@   1 bok  staff  173119 Feb 25  2023 nicechungo4salenicechungo4sale.png
--rw-r--r--@   1 bok  staff  147813 Feb 25  2023 blursucks.png
--rw-r--r--@   1 bok  staff  155156 Feb 25  2023 openseasucks.png
--rw-r--r--@   1 bok  staff  142883 Feb 25  2023 bluristhebest.png
--rw-r--r--@   1 bok  staff  151676 Feb 25  2023 openseaisthebest.png
--rw-r--r--@   1 bok  staff  165289 Feb 25  2023 donotuseemojisinthisdiscord.png
--rw-r--r--@   1 bok  staff  166486 Feb 25  2023 notshamefultoundercutfloor.png
--rw-r--r--@   1 bok  staff  166858 Feb 25  2023 chungomechungoyouahhaa.png
--rw-r--r--@   1 bok  staff  169640 Feb 25  2023 welcometotherepublicofchungo.png
--rw-r--r--@   1 bok  staff  153265 Feb 25  2023 chungofever.png
--rw-r--r--@   1 bok  staff  158510 Feb 25  2023 cheapaschungos.png
--rw-r--r--@   1 bok  staff  175826 Feb 25  2023 wokeupandchosechungos.png
--rw-r--r--@   1 bok  staff  172723 Feb 25  2023 therewaschungointheairthatnight.png
--rw-r--r--@   1 bok  staff  157898 Feb 25  2023 chungoseechungodo.png
--rw-r--r--@   1 bok  staff  164681 Feb 25  2023 wearethechungos.png
--rw-r--r--@   1 bok  staff  152041 Feb 25  2023 1chungo10eth.png
--rw-r--r--@   1 bok  staff  148242 Feb 25  2023 1chungo1eth.png
--rw-r--r--@   1 bok  staff  155875 Feb 25  2023 1chungo050eth.png
--rw-r--r--@   1 bok  staff  155383 Feb 25  2023 1chungo020eth.png
--rw-r--r--@   1 bok  staff  152537 Feb 25  2023 1chungo010eth.png
--rw-r--r--@   1 bok  staff  155889 Feb 25  2023 1chungo005eth.png
--rw-r--r--@   1 bok  staff  166463 Feb 25  2023 notshamefultosellchungos.png
--rw-r--r--@   1 bok  staff  151570 Feb 25  2023 1chungo1chungo.png
--rw-r--r--@   1 bok  staff  160487 Feb 25  2023 imsmokingchungo.png
--rw-r--r--@   1 bok  staff  168469 Feb 25  2023 chungowillriseagain.png
+
 -rw-r--r--@   1 bok  staff  164190 Feb 24  2023 yeswecanchungo.png
 -rw-r--r--@   1 bok  staff  170118 Feb 24  2023 chungosoftheworldunite.png
 -rw-r--r--@   1 bok  staff  164124 Feb 24  2023 wearechungos.png
