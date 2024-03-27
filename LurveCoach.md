@@ -223,46 +223,194 @@ Feb 21 2023
 
 <kbd><img src="LurveCoach/moisturise.png" /></kbd>
 
+### BE OPTIMISTIC
 
-```
+Feb 19 2023
 
-###
+<kbd><img src="LurveCoach/beoptimistic.png" /></kbd>
 
-Feb 21 2023
+### TAKE TIME
 
-<kbd><img src="LurveCoach/.png" /></kbd>
+Feb 19 2023
 
+<kbd><img src="LurveCoach/taketime.png" /></kbd>
 
--rw-r--r--@  1 bok  staff  180791 Feb 19  2023 beoptimistic.png
--rw-r--r--@  1 bok  staff  168979 Feb 19  2023 taketime.png
--rw-r--r--@  1 bok  staff  169454 Feb 19  2023 maketime.png
--rw-r--r--@  1 bok  staff  198376 Feb 19  2023 washbehindyourears.png
--rw-r--r--@  1 bok  staff  203771 Feb 19  2023 letyourfingersdothewalking.png
--rw-r--r--@  1 bok  staff  193815 Feb 19  2023 letyourtonguedothetalking.png
--rw-r--r--@  1 bok  staff  179896 Feb 19  2023 beenthusiastic.png
--rw-r--r--@  1 bok  staff  192945 Feb 19  2023 dontkissonyourfirstdate.png
--rw-r--r--@  1 bok  staff  184491 Feb 19  2023 maintainyourrhythm.png
--rw-r--r--@  1 bok  staff  176465 Feb 19  2023 gofast.png
--rw-r--r--@  1 bok  staff  178646 Feb 19  2023 goslow.png
--rw-r--r--@  1 bok  staff  168657 Feb 19  2023 begentle.png
--rw-r--r--@  1 bok  staff  192111 Feb 19  2023 stubblecanbeirritating.png
--rw-r--r--@  1 bok  staff  193224 Feb 19  2023 changeyoursheets.png
--rw-r--r--@  1 bok  staff  189199 Feb 19  2023 wearfreshclothes.png
--rw-r--r--@  1 bok  staff  185421 Feb 19  2023 trimyournails.png
--rw-r--r--@  1 bok  staff  177972 Feb 19  2023 shower.png
--rw-r--r--@  1 bok  staff  164603 Feb 19  2023 trim.png
--rw-r--r--@  1 bok  staff  187132 Feb 19  2023 cleanyourtongue.png
--rw-r--r--@  1 bok  staff  177916 Feb 19  2023 flossyourteeth.png
--rw-r--r--@  1 bok  staff  181149 Feb 19  2023 relaxdontdoit.png
--rw-r--r--@  1 bok  staff  186212 Feb 19  2023 checkyourbreath.png
--rw-r--r--@  1 bok  staff  190642 Feb 19  2023 washyourhands.png
--rw-r--r--@  1 bok  staff  167331 Feb 19  2023 smile.png
--rw-r--r--@  1 bok  staff  184028 Feb 19  2023 avoideyecontact.png
--rw-r--r--@  1 bok  staff  185237 Feb 19  2023 maintaineyecontact.png
--rw-r--r--@  1 bok  staff  210504 Feb 19  2023 keepyourheadupwhileinconversation.png
--rw-r--r--@  1 bok  staff  185528 Feb 19  2023 combyourhair.png
--rw-r--r--@  1 bok  staff  180286 Feb 19  2023 brushyourteeth.png
--rw-r--r--@  1 bok  staff  193704 Feb 19  2023 warmyourhands.png
--rw-r--r--@  1 bok  staff  178674 Feb 19  2023 getdown.png
--rw-r--r--   1 bok  staff  143143 Feb 19  2023 Chungos_5556-5x-2400x800.png
-```
+### MAKE TIME
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/maketime.png" /></kbd>
+
+### WASH BEHIND YOUR EARS
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/washbehindyourears.png" /></kbd>
+
+### LET YOUR FINGERS DO THE WALKING
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/letyourfingersdothewalking.png" /></kbd>
+
+### LET YOUR TONGUE DO THE TALKING
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/letyourtonguedothetalking.png" /></kbd>
+
+### BE ENTHUSIASTIC
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/beenthusiastic.png" /></kbd>
+
+### DON'T KISS ON YOUR FIRST DATE
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/dontkissonyourfirstdate.png" /></kbd>
+
+### MAINTAIN YOUR RHYTHM
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/maintainyourrhythm.png" /></kbd>
+
+### GO FAST
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/gofast.png" /></kbd>
+
+### GO SLOW
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/goslow.png" /></kbd>
+
+### BE GENTLE
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/begentle.png" /></kbd>
+
+### STUBBLE CAN BE IRRITATING
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/stubblecanbeirritating.png" /></kbd>
+
+### CHANGE YOUR SHEETS
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/changeyoursheets.png" /></kbd>
+
+### WEAR FRESH CLOTHES
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/wearfreshclothes.png" /></kbd>
+
+### TRIM YOUR NAILS
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/trimyournails.png" /></kbd>
+
+### SHOWER
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/shower.png" /></kbd>
+
+### TRIM
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/trim.png" /></kbd>
+
+### CLEAN YOUR TONGUE
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/cleanyourtongue.png" /></kbd>
+
+### FLOSS YOUR TEETH
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/flossyourteeth.png" /></kbd>
+
+### RELAX, DON'T DO IT
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/relaxdontdoit.png" /></kbd>
+
+### CHECK YOUR BREATH
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/checkyourbreath.png" /></kbd>
+
+### WASH YOUR HANDS
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/washyourhands.png" /></kbd>
+
+### SMILE
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/smile.png" /></kbd>
+
+### AVOID EYE CONTACT
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/avoideyecontact.png" /></kbd>
+
+### MAINTAIN EYE CONTACT
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/maintaineyecontact.png" /></kbd>
+
+### KEEP YOUR HEAD UP WHILE IN CONVERSATION
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/keepyourheadupwhileinconversation.png" /></kbd>
+
+### COMB YOUR HAIR
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/combyourhair.png" /></kbd>
+
+### BRUSH YOUR TEETH
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/brushyourteeth.png" /></kbd>
+
+### WARM YOUR HANDS
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/warmyourhands.png" /></kbd>
+
+### GET DOWN
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/getdown.png" /></kbd>
+
+### Chungos_5556-5x-2400x800 Blank
+
+Feb 19 2023
+
+<kbd><img src="LurveCoach/Chungos_5556-5x-2400x800.png" /></kbd>
