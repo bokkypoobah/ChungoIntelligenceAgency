@@ -910,39 +910,45 @@ May 14 2023
 
 ### DREAMS DON’T WORK UNLESS YOU CHUNGO
 
-May 27 2023
+Apr 27 2023
 
 <kbd><img src="PoohBah/dreamsdontworkunlessyouchungo.png" /></kbd>
 
 ### NEVER MISS A GOOD CHANCE TO CHUNGO
 
-May 27 2023
+Apr 27 2023
 
 <kbd><img src="PoohBah/nevermissagoodchancetochungo.png" /></kbd>
 
 ### ONE MAN'S CHUNGO IS ANOTHER MAN'S CHUNGO
 
-May 27 2023
+Apr 27 2023
 
 <kbd><img src="PoohBah/onemanschungoisanothermanschungo.png" /></kbd>
 
 ### ONLY THE WISEST AND STUPIDEST NEVER CHUNGO
 
-May 27 2023
+Apr 27 2023
 
 <kbd><img src="PoohBah/onlythewisestandstupidestneverchungo.png" /></kbd>
 
 ### A WITTY CHUNGO PROVES NOTHING
 
-May 27 2023
+Apr 27 2023
 
 <kbd><img src="PoohBah/awittychungoprovesnothing.png" /></kbd>
 
 ### ARGUING WITH A CHUNGO PROVES THERE ARE TWO
 
-May 27 2023
+Apr 27 2023
 
 <kbd><img src="PoohBah/arguingwithachungoprovestherearetwo.png" /></kbd>
+
+### PUSHING CHUNGO UPHILL WITH A POINTY CHUNGO
+
+Apr 20 2023
+
+<kbd><img src="PoohBah/pushingchungouphillwithapointychungo.png" /></kbd>
 
 
 ## Notes
@@ -951,31 +957,103 @@ May 27 2023
 
 ###
 
-May 30 2023
+Apr 19 2023
 
 <kbd><img src="PoohBah/.png" /></kbd>
 
 
 
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/iffearistoostrongthechungoissuppressed.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/youcantteachanewdogoldchungos.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/youcantteachanolddognewchungos.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/chungoisjustanidea.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/stopblamingmethinkingimthechungo.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/focusfollowonechungountilsuccessful.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/toknowalittleaboutalotofchungo.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/emotionsarewhatmakeuschungo.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/therichhavechungoworkforthem.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/thepoorandthemiddleclassworkforchungo.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/leadershipiswhatyouneedtochungonext.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/peoplewhoavoidfailurealsoavoidchungo.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/youreonlypoorifyouchungoup.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/winnersarenotafraidofchungoing.png" /></kbd>
+
+###
+
+Apr 19 2023
+
+<kbd><img src="PoohBah/realizeyouretheproblemthenchungoyourself.png" /></kbd>
 
 
-
--rw-r--r--@   1 bok  staff  139745 Apr 20  2023 pushingchungouphillwithapointychungo.png
--rw-r--r--@   1 bok  staff  136572 Apr 19  2023 iffearistoostrongthechungoissuppressed.png
--rw-r--r--@   1 bok  staff  144417 Apr 19  2023 youcantteachanewdogoldchungos.png
--rw-r--r--@   1 bok  staff  144354 Apr 19  2023 youcantteachanolddognewchungos.png
--rw-r--r--@   1 bok  staff  131383 Apr 19  2023 chungoisjustanidea.png
--rw-r--r--@   1 bok  staff  144012 Apr 19  2023 stopblamingmethinkingimthechungo.png
--rw-r--r--@   1 bok  staff  134308 Apr 19  2023 focusfollowonechungountilsuccessful.png
--rw-r--r--@   1 bok  staff  138948 Apr 19  2023 toknowalittleaboutalotofchungo.png
--rw-r--r--@   1 bok  staff  149403 Apr 19  2023 emotionsarewhatmakeuschungo.png
--rw-r--r--@   1 bok  staff  141471 Apr 19  2023 therichhavechungoworkforthem.png
--rw-r--r--@   1 bok  staff  145828 Apr 19  2023 thepoorandthemiddleclassworkforchungo.png
--rw-r--r--@   1 bok  staff  143278 Apr 19  2023 leadershipiswhatyouneedtochungonext.png
--rw-r--r--@   1 bok  staff  146109 Apr 19  2023 peoplewhoavoidfailurealsoavoidchungo.png
--rw-r--r--@   1 bok  staff  131992 Apr 19  2023 youreonlypoorifyouchungoup.png
--rw-r--r--@   1 bok  staff  144668 Apr 19  2023 winnersarenotafraidofchungoing.png
--rw-r--r--@   1 bok  staff  140598 Apr 19  2023 realizeyouretheproblemthenchungoyourself.png
 -rw-r--r--@   1 bok  staff  147289 Apr 14  2023 bestillandknowthatiamchungo.png
 -rw-r--r--@   1 bok  staff  140634 Apr 14  2023 ifyoutrulylovedyourselfyoucanchungo.png
 -rw-r--r--@   1 bok  staff  140457 Apr 12  2023 trueloveisbornfromchungoing.png
