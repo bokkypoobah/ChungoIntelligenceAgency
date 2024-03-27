@@ -267,26 +267,78 @@ Mar 20 2023
 
 <kbd><img src="sexy-devil/idontevenwanttosmellmychungo.png" /></kbd>
 
+### SEVERAL PEOPLE ARE TYPING
+
+Mar 6 2023
+
+<kbd><img src="sexy-devil/severalpeoplearetyping.png" /></kbd>
+
+### HAPPY BIRTHDAY CHUNGO!
+
+Mar 5 2023
+
+<kbd><img src="sexy-devil/happybirthdaychungo.png" /></kbd>
+
+### HAPPY BIRTHDAY CHIEF!
+
+Mar 5 2023
+
+<kbd><img src="sexy-devil/happybirthdaychief.png" /></kbd>
+
+### I LOVE THE SMELL OF CHUNGO IN THE MORNING
+
+Mar 3 2023
+
+<kbd><img src="sexy-devil/ilovethesmellofchungointhemorning.png" /></kbd>
+
+
+### I'VE GOT 0.420 ETHERIUMS
+
+Feb 28 2023
+
+<kbd><img src="sexy-devil/ivegot0420etheriums.png" /></kbd>
+
+### I'VE GOT 0.69 ETHERIUMS
+
+Feb 28 2023
+
+<kbd><img src="sexy-devil/ivegot069etheriums.png" /></kbd>
+
+### I'VE GOT 69 ETHERIUMS
+
+Feb 28 2023
+
+<kbd><img src="sexy-devil/ivegot69etheriums.png" /></kbd>
+
+### I'VE GOT 420 ETHERIUMS
+
+Feb 28 2023
+
+<kbd><img src="sexy-devil/ivegot420etheriums.png" /></kbd>
+
+### I HAVE AN IDEA FOR AN NFT COLLECTION
+
+Feb 28 2023
+
+<kbd><img src="sexy-devil/ihaveanideaforannftcollection.png" /></kbd>
+
+### I WANT TO CHUNGO MY CHUNGO
+
+Feb 28 2023
+
+<kbd><img src="sexy-devil/iwanttochungomychungo.png" /></kbd>
+
 
 ```
 
 ###
 
-Mar 20 2023
+Feb 28 2023
 
 <kbd><img src="sexy-devil/.png" /></kbd>
 
 
--rw-r--r--@   1 bok  staff  111717 Mar  6  2023 severalpeoplearetyping.png
--rw-r--r--@   1 bok  staff  112628 Mar  5  2023 happybirthdaychungo.png
--rw-r--r--@   1 bok  staff  101473 Mar  5  2023 happybirthdaychief.png
--rw-r--r--@   1 bok  staff  117574 Mar  3  2023 ilovethesmellofchungointhemorning.png
--rw-r--r--@   1 bok  staff  113623 Feb 28  2023 ivegot0420etheriums.png
--rw-r--r--@   1 bok  staff  116667 Feb 28  2023 ivegot069etheriums.png
--rw-r--r--@   1 bok  staff  113179 Feb 28  2023 ivegot69etheriums.png
--rw-r--r--@   1 bok  staff  113139 Feb 28  2023 ivegot420etheriums.png
--rw-r--r--@   1 bok  staff  111052 Feb 28  2023 ihaveanideaforannftcollection.png
--rw-r--r--@   1 bok  staff  118750 Feb 28  2023 iwanttochungomychungo.png
+
 -rw-r--r--@   1 bok  staff  116236 Feb 27  2023 whichfloorshouldisweep.png
 -rw-r--r--@   1 bok  staff  117775 Feb 27  2023 isoldannftfor69etheriums.png
 -rw-r--r--@   1 bok  staff  117220 Feb 27  2023 whocanitalktoaboutacolab.png
