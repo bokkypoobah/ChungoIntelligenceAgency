@@ -209,23 +209,71 @@ Jun 29 2023
 <kbd><img src="gmtime/tirarmeuchungodachuva.png" /></kbd>
 
 
+### ECH HUNN DE CHUNGO
+
+I HAVE THE CHUNGO (Luxembourgish)
+
+Jun 24 2023
+
+<kbd><img src="gmtime/echhunndechungo.png" /></kbd>
+
+
+### BENYEN SAN KACHE CHUNGO
+
+BATHING WITHOUT HIDING CHUNGO (Haitian Creole)
+
+Jun 24 2023
+
+<kbd><img src="gmtime/benyensankachechungo.png" /></kbd>
+
+
+### NOU PA MANJE LAJAN CHUNGO, NOU PA MANJE MANJE BLIYE
+
+WE DON'T EAT CHUNGO MONEY, WE DON'T EAT FORGOTTEN FOOD (Haitian Creole)
+
+Jun 24 2023
+
+<kbd><img src="gmtime/noupamanjelajanchungonoupamanjemanjebliye.png" /></kbd>
+
+
+### NÚ DUGA CHUNGO VETTLINGATÖK
+
+CHUNGO MITTENS ARE ENOUGH NOW (Icelandic)
+
+Jun 24 2023
+
+<kbd><img src="gmtime/núdugachungovettlingatök.png" /></kbd>
+
+
+### ÉG KEM ALVEG AF CHUNGO
+
+I COMPLETELY COME FROM CHUNGO (Icelandic)
+
+Jun 24 2023
+
+<kbd><img src="gmtime/égkemalvegafchungo.png" /></kbd>
+
+
+### KEMUR ALLT MEÐ KALDA CHUNGO
+
+EVERYTHING COMES WITH COLD CHUNGO (Icelandic)
+
+Jun 24 2023
+
+<kbd><img src="gmtime/kemuralltmeðkaldachungo.png" /></kbd>
+
+
 ```
 
 
 ###
 
-Jun 29 2023
+Jun 24 2023
 
 <kbd><img src="gmtime/.png" /></kbd>
 
 
 
--rw-r--r--@  1 bok  staff  117078 Jun 24  2023 echhunndechungo.png
--rw-r--r--@  1 bok  staff  133369 Jun 24  2023 benyensankachechungo.png
--rw-r--r--@  1 bok  staff  131720 Jun 24  2023 noupamanjelajanchungonoupamanjemanjebliye.png
--rw-r--r--@  1 bok  staff  136124 Jun 24  2023 núdugachungovettlingatök.png
--rw-r--r--@  1 bok  staff  129851 Jun 24  2023 égkemalvegafchungo.png
--rw-r--r--@  1 bok  staff  134422 Jun 24  2023 kemuralltmeðkaldachungo.png
 -rw-r--r--@  1 bok  staff  126802 Jun 22  2023 llonllygodllenibochungo.png
 -rw-r--r--@  1 bok  staff  135002 Jun 22  2023 cyntycyferfydddauchungosnadaufynydd.png
 -rw-r--r--@  1 bok  staff  138399 Jun 22  2023 chungosorunlliwehedantirunlle.png
