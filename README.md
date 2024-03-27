@@ -3,6 +3,7 @@
 Please go Chungo the worlds across spacetime! Enjoy!
 
 * [0xfreddiemac.eth](0xfreddiemac.md)
+* [BeachInspector.eth](BeachInspector.md)
 * [chungoholicsanonymous](chungoholicsanonymous.md)
 * [firstyoulaughatthem.eth](firstyoulaughatthem.md)
 * [LurveCoach.eth](LurveCoach.md)
