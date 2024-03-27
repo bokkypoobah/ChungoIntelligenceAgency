@@ -1737,6 +1737,95 @@ Jun 15 2023
 <kbd><img src="MetaChungo/gmgmx2y2.png" /></kbd>
 
 
+### WAKE ME UP BEFORE YOU CHUNGO
+
+Jun 14 2023
+
+<kbd><img src="MetaChungo/wakemeupbeforeyouchungo.png" /></kbd>
+
+### BUT GRANDMOTHER! WHAT BIG CHUNGOS YOU HAVE
+
+Jun 14 2023
+
+<kbd><img src="MetaChungo/butgrandmotherwhatbigchungosyouhave.png" /></kbd>
+
+### BE BARKING UP THE WRONG CHUNGO
+
+Jun 14 2023
+
+<kbd><img src="MetaChungo/bebarkingupthewrongchungo.png" /></kbd>
+
+### THE LONG AND WINDING CHUNGO
+
+Jun 14 2023
+
+<kbd><img src="MetaChungo/thelongandwindingchungo.png" /></kbd>
+
+### HE AIN’T HEAVY, HE’S MY CHUNGO
+
+Jun 14 2023
+
+<kbd><img src="MetaChungo/heaintheavyhesmychungo.png" /></kbd>
+
+### STRAIGHT FROM THE HORSE’S CHUNGO
+
+Jun 14 2023
+
+<kbd><img src="MetaChungo/straightfromthehorseschungo.png" /></kbd>
+
+### IF YOU PAY PEANUTS, YOU GET CHUNGOS
+
+Jun 14 2023
+
+<kbd><img src="MetaChungo/ifyoupaypeanutsyougetchungos.png" /></kbd>
+
+### CHUNGOS WAKE UP IN THE EARLY MORNING
+
+Jun 11 2023
+
+<kbd><img src="MetaChungo/chungoswakeupintheearlymorning.png" /></kbd>
+
+### WHEN THE CHUNGO GETS TOUGH, THE CHUNGO GETS GOING
+
+Jun 10 2023
+
+<kbd><img src="MetaChungo/whenthechungogetstoughthechungogetsgoing.png" /></kbd>
+
+### ABSENCE MAKES THE CHUNGO GROW LONGER
+
+Jun 10 2023
+
+<kbd><img src="MetaChungo/absencemakesthechungogrowlonger.png" /></kbd>
+
+### DON'T THROW CHUNGOS AT GLASS HOUSES
+
+Jun 10 2023
+
+<kbd><img src="MetaChungo/dontthrowchungosatglasshouses.png" /></kbd>
+
+### NO USE CRYING OVER SPILLED CHUNGO
+
+Jun 9 2023
+
+<kbd><img src="MetaChungo/nousecryingoverspilledchungo.png" /></kbd>
+
+### DON’T BITE THE CHUNGO THAT FEEDS YOU
+
+Jun 9 2023
+
+<kbd><img src="MetaChungo/dontbitethechungothatfeedsyou.png" /></kbd>
+
+### THE CHUNGOS ARE SOUR
+
+Jun 9 2023
+
+<kbd><img src="MetaChungo/thechungosaresour.png" /></kbd>
+
+### THERE IS A CHUNGO IN MY SOUP
+
+Jun 9 2023
+
+<kbd><img src="MetaChungo/thereisachungoinmysoup.png" /></kbd>
 
 ## Notes
 
@@ -1744,26 +1833,11 @@ Jun 15 2023
 
 ###
 
-Jun 26 2023
+Jun 9 2023
 
 <kbd><img src="MetaChungo/.png" /></kbd>
 
 
--rw-r--r--@   1 bok  staff  171692 Jun 14  2023 wakemeupbeforeyouchungo.png
--rw-r--r--@   1 bok  staff  184409 Jun 14  2023 butgrandmotherwhatbigchungosyouhave.png
--rw-r--r--@   1 bok  staff  172672 Jun 14  2023 bebarkingupthewrongchungo.png
--rw-r--r--@   1 bok  staff  166199 Jun 14  2023 thelongandwindingchungo.png
--rw-r--r--@   1 bok  staff  170070 Jun 14  2023 heaintheavyhesmychungo.png
--rw-r--r--@   1 bok  staff  170707 Jun 14  2023 straightfromthehorseschungo.png
--rw-r--r--@   1 bok  staff  168899 Jun 14  2023 ifyoupaypeanutsyougetchungos.png
--rw-r--r--@   1 bok  staff  182967 Jun 11  2023 chungoswakeupintheearlymorning.png
--rw-r--r--@   1 bok  staff  161680 Jun 10  2023 whenthechungogetstoughthechungogetsgoing.png
--rw-r--r--@   1 bok  staff  179498 Jun 10  2023 absencemakesthechungogrowlonger.png
--rw-r--r--@   1 bok  staff  173710 Jun 10  2023 dontthrowchungosatglasshouses.png
--rw-r--r--@   1 bok  staff  176379 Jun  9  2023 nousecryingoverspilledchungo.png
--rw-r--r--@   1 bok  staff  169913 Jun  9  2023 dontbitethechungothatfeedsyou.png
--rw-r--r--@   1 bok  staff  164163 Jun  9  2023 thechungosaresour.png
--rw-r--r--@   1 bok  staff  172115 Jun  9  2023 thereisachungoinmysoup.png
 -rw-r--r--@   1 bok  staff  169482 Jun  4  2023 dontworrychungocurry.png
 -rw-r--r--@   1 bok  staff  165527 May 30  2023 respectmywang.png
 -rw-r--r--@   1 bok  staff  171370 May 25  2023 everyoneshouldcopypastethat.png
