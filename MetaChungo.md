@@ -1,4 +1,4 @@
-# MetaChungo
+# Chungo Intelligence Agency - MetaChungo.eth
 
 Please enjoy!
 

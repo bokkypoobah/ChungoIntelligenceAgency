@@ -2,10 +2,11 @@
 
 Please enjoy!
 
-* [MetaChungo](MetaChungo.md)
-* [PoohBah](PoohBah.md)
-* [TomadoCash](TomadoCash.md)
-* [watafuck](watafuck.md)
+* [MetaChungo.eth](MetaChungo.md)
+* [naked-news.eth](naked-news.md)
+* [PoohBah.eth](PoohBah.md)
+* [TomadoCash.eth](TomadoCash.md)
+* [watafuck.eth](watafuck.md)
 
 ## Unsorted Images
 
