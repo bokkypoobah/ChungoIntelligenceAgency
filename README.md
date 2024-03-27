@@ -20,6 +20,7 @@ Please go Chungo the worlds across spacetime! Enjoy!
 * [sallie-mae.eth](sallie-mae.md)
 * [sexy-devil.eth](sexy-devil.md)
 * [thouartgod.eth](thouartgod.md)
+* [tsarbucks.eth](tsarbucks.md)
 * [TomadoCash.eth](TomadoCash.md)
 * [watafuck.eth](watafuck.md)
 
