@@ -1106,6 +1106,96 @@ Apr 12 2023
 
 <kbd><img src="PoohBah/quietthemindandthechungowillspeak.png" /></kbd>
 
+### ASK CHUNGOS INSTEAD OF GIVING DIRECT CHUNGOS
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/askchungosinsteadofgivingdirectchungos.png" /></kbd>
+
+### CALL ATTENTION TO PEOPLE’S CHUNGO INDIRECTLY
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/callattentiontopeopleschungoindirectly.png" /></kbd>
+
+### BEGIN WITH PRAISE AND HONEST CHUNGO
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/beginwithpraiseandhonestchungo.png" /></kbd>
+
+### APPEAL TO THE NOBLER CHUNGOS
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/appealtothenoblerchungos.png" /></kbd>
+
+### MAKE THE OTHER CHUNGO FEEL IMPORTANT
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/maketheotherchungofeelimportant.png" /></kbd>
+
+### BE A GOOD LISTENER OF CHUNGOS
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/beagoodlistenerofchungos.png" /></kbd>
+
+### AVOID ARGUMENTS WITH CHUNGOS
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/avoidargumentswithchungos.png" /></kbd>
+
+### REMEMBER CHUNGO NAMES
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/rememberchungonames.png" /></kbd>
+
+### TALK IN TERMS OF THE OTHER PERSON’S CHUNGOS
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/talkintermsoftheotherpersonschungos.png" /></kbd>
+
+### AROUSE IN THE OTHER CHUNGOS AN EAGER WANT
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/arouseintheotherchungosaneagerwant.png" /></kbd>
+
+### BECOME GENUINELY CHUNGOED IN OTHER PEOPLE
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/becomegenuinelychungoedinotherpeople.png" /></kbd>
+
+### DO NOT CRITICIZE ANYONE'S CHUNGO
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/donotcriticizeanyoneschungo.png" /></kbd>
+
+### GIVE HONEST, SINCERE CHUNGOS
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/givehonestsincerechungos.png" /></kbd>
+
+### HOW TO WIN CHUNGOS AND INFLUENCE CHUNGOS
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/howtowinchungosandinfluencechungos.png" /></kbd>
+
+### BUILD A LONGER CHUNGO, NOT A TALLER CHUNGO
+
+Apr 11 2023
+
+<kbd><img src="PoohBah/buildalongerchungonotatallerchungo.png" /></kbd>
+
 
 ## Notes
 
@@ -1113,28 +1203,13 @@ Apr 12 2023
 
 ###
 
-Apr 12 2023
+Apr 8 2023
 
 <kbd><img src="PoohBah/.png" /></kbd>
 
 
 
 
--rw-r--r--@   1 bok  staff  143212 Apr 11  2023 askchungosinsteadofgivingdirectchungos.png
--rw-r--r--@   1 bok  staff  138641 Apr 11  2023 callattentiontopeopleschungoindirectly.png
--rw-r--r--@   1 bok  staff  147993 Apr 11  2023 beginwithpraiseandhonestchungo.png
--rw-r--r--@   1 bok  staff  137187 Apr 11  2023 appealtothenoblerchungos.png
--rw-r--r--@   1 bok  staff  136169 Apr 11  2023 maketheotherchungofeelimportant.png
--rw-r--r--@   1 bok  staff  136707 Apr 11  2023 beagoodlistenerofchungos.png
--rw-r--r--@   1 bok  staff  144779 Apr 11  2023 avoidargumentswithchungos.png
--rw-r--r--@   1 bok  staff  133275 Apr 11  2023 rememberchungonames.png
--rw-r--r--@   1 bok  staff  140337 Apr 11  2023 talkintermsoftheotherpersonschungos.png
--rw-r--r--@   1 bok  staff  141128 Apr 11  2023 arouseintheotherchungosaneagerwant.png
--rw-r--r--@   1 bok  staff  136171 Apr 11  2023 becomegenuinelychungoedinotherpeople.png
--rw-r--r--@   1 bok  staff  141638 Apr 11  2023 donotcriticizeanyoneschungo.png
--rw-r--r--@   1 bok  staff  137561 Apr 11  2023 givehonestsincerechungos.png
--rw-r--r--@   1 bok  staff  138782 Apr 11  2023 howtowinchungosandinfluencechungos.png
--rw-r--r--@   1 bok  staff  139185 Apr 11  2023 buildalongerchungonotatallerchungo.png
 -rw-r--r--@   1 bok  staff  145836 Apr  8  2023 andsmallpeopletalkaboutchungos.png
 -rw-r--r--@   1 bok  staff  146057 Apr  8  2023 averagepeopletalkaboutchungos.png
 -rw-r--r--@   1 bok  staff  141831 Apr  8  2023 greatpeopletalkaboutchungos.png
