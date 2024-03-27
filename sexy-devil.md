@@ -8,19 +8,45 @@ Jun 23 2023
 
 <kbd><img src="sexy-devil/throwinggoodchungosafterbad.png" /></kbd>
 
+### WTF IS A CHUNGOLUTION?
+
+Jun 23 2023
+
+<kbd><img src="sexy-devil/wtfisachungolution.png" /></kbd>
+
+### WTF IS A CHUNGO?
+
+Jun 23 2023
+
+<kbd><img src="sexy-devil/wtfisachungo.png" /></kbd>
+
+### LAST ONE OUT PLEASE TURN ON THE CHUNGO
+
+Jun 23 2023
+
+<kbd><img src="sexy-devil/lastoneoutpleaseturnonthechungo.png" /></kbd>
+
+### DON'T MIND ME. I'M JUST PLANTING CHUNGOS
+
+Jun 22 2023
+
+<kbd><img src="sexy-devil/dontmindmeimjustplantingchungos.png" /></kbd>
+
+
+### WATCHING YOU WATCHING ME CHUNGO
+
+Jun 22 2023
+
+<kbd><img src="sexy-devil/watchingyouwatchingmechungo.png" /></kbd>
+
 
 ```
 ###
 
-Jun 23 2023
+Jun 22 2023
 
 <kbd><img src="sexy-devil/.png" /></kbd>
 
--rw-r--r--@   1 bok  staff  116435 Jun 23  2023 wtfisachungolution.png
--rw-r--r--@   1 bok  staff  111951 Jun 23  2023 wtfisachungo.png
--rw-r--r--@   1 bok  staff  118149 Jun 23  2023 lastoneoutpleaseturnonthechungo.png
--rw-r--r--@   1 bok  staff  118997 Jun 22  2023 dontmindmeimjustplantingchungos.png
--rw-r--r--@   1 bok  staff  120901 Jun 22  2023 watchingyouwatchingmechungo.png
 -rw-r--r--@   1 bok  staff   95657 Jun 19  2023 gmx2y2.png
 -rw-r--r--@   1 bok  staff  103592 Jun 17  2023 ihaveachungo.png
 -rw-r--r--@   1 bok  staff  111898 May 26  2023 lastchungoinparis.png
