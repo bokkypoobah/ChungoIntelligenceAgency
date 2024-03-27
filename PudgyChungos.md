@@ -1,4 +1,4 @@
-# Chungo Intelligence Agency - gmtime.eth
+# Chungo Intelligence Agency - PudgyChungos.eth
 
 Please go Chungo the worlds across spacetime! Enjoy!
 
@@ -24,20 +24,35 @@ Jun 30 2023
 
 <kbd><img src="PudgyChungos/wenchungoelemental.png" /></kbd>
 
+### HOPING ALL IS CHUNGO WITH CHIEF
+
+Jun 24 2023
+
+<kbd><img src="PudgyChungos/hopingallischungowithchief.png" /></kbd>
+
+### CHUNGOS WERE A FREE MINT MY CHUNGO
+
+Jun 24 2023
+
+<kbd><img src="PudgyChungos/chungoswereafreemintmychungo.png" /></kbd>
+
+### CONGRATULATIONS @CHIEFCHUNGO!
+
+Jun 24 2023
+
+<kbd><img src="PudgyChungos/congratulationschiefchungo.png" /></kbd>
 
 ```
 
 ###
 
-Jun 30 2023
+Jun 24 2023
 
 <kbd><img src="PudgyChungos/.png" /></kbd>
 
 
 
--rw-r--r--@  1 bok  staff  142570 Jun 24  2023 hopingallischungowithchief.png
--rw-r--r--@  1 bok  staff  152263 Jun 24  2023 chungoswereafreemintmychungo.png
--rw-r--r--@  1 bok  staff  151103 Jun 24  2023 congratulationschiefchungo.png
+
 -rw-r--r--@  1 bok  staff  124266 Jun 23  2023 chungosofsteel.png
 -rw-r--r--@  1 bok  staff  143071 Jun 17  2023 toknowyourchungoyoumustbecomeyourchungo.png
 -rw-r--r--@  1 bok  staff  146673 Jun 17  2023 chungosmultiplyastheyareseized.png
