@@ -253,229 +253,217 @@ Mar 4 2023
 
 <kbd><img src="PudgyChungos/nextchungoupwillbemassive.png" /></kbd>
 
-###
+### NOT EVEN YOUR DOG WANTED THEM AT 0.06
 
 Feb 28 2023
 
-<kbd><img src="PudgyChungos/.png" /></kbd>
--rw-r--r--@  1 bok  staff  150716 Feb 28  2023 notevenyourdogwantedthemat006.png
+<kbd><img src="PudgyChungos/notevenyourdogwantedthemat006.png" /></kbd>
 
-###
-
-Feb 26 2023
-
-<kbd><img src="PudgyChungos/.png" /></kbd>
--rw-r--r--@  1 bok  staff  132630 Feb 26  2023 stolenchungosonfloor.png
-
-###
+### STOLEN CHUNGOS ON FLOOR!
 
 Feb 26 2023
 
-<kbd><img src="PudgyChungos/.png" /></kbd>
--rw-r--r--@  1 bok  staff  131660 Feb 26  2023 mychungoistingling.png
+<kbd><img src="PudgyChungos/stolenchungosonfloor.png" /></kbd>
 
-###
+### MY CHUNGO IS TINGLING
 
-Feb 25 2023
+Feb 26 2023
 
-<kbd><img src="PudgyChungos/.png" /></kbd>
--rw-r--r--@  1 bok  staff  124497 Feb 25  2023 touchmychungo.png
+<kbd><img src="PudgyChungos/mychungoistingling.png" /></kbd>
 
-###
+### TOUCH MY CHUNGO
 
 Feb 25 2023
 
-<kbd><img src="PudgyChungos/.png" /></kbd>
--rw-r--r--@  1 bok  staff  138025 Feb 25  2023 ihaventbeenoutsidein2months.png
+<kbd><img src="PudgyChungos/touchmychungo.png" /></kbd>
 
-###
-
-Feb 25 2023
-
-<kbd><img src="PudgyChungos/.png" /></kbd>
--rw-r--r--@  1 bok  staff  107855 Feb 25  2023 hodlhodlhodl.png
-
-###
+### I HAVENT BEEN OUTSIDE IN 2 MONTHS
 
 Feb 25 2023
 
-<kbd><img src="PudgyChungos/.png" /></kbd>
--rw-r--r--@  1 bok  staff  106866 Feb 25  2023 buybuybuy.png
+<kbd><img src="PudgyChungos/ihaventbeenoutsidein2months.png" /></kbd>
 
-###
-
-Feb 25 2023
-
-<kbd><img src="PudgyChungos/.png" /></kbd>
--rw-r--r--@  1 bok  staff  105042 Feb 25  2023 sellsellsell.png
-
-###
+### HODL HODL HODL
 
 Feb 25 2023
 
-<kbd><img src="PudgyChungos/.png" /></kbd>
--rw-r--r--@  1 bok  staff  143550 Feb 25  2023 wenfastfoodchungos.png
+<kbd><img src="PudgyChungos/hodlhodlhodl.png" /></kbd>
 
-###
-
-Feb 25 2023
-
-<kbd><img src="PudgyChungos/.png" /></kbd>
--rw-r--r--@  1 bok  staff  130367 Feb 25  2023 kissmychungo.png
-
-###
+### BUY BUY BUY
 
 Feb 25 2023
 
-<kbd><img src="PudgyChungos/.png" /></kbd>
--rw-r--r--@  1 bok  staff  132129 Feb 25  2023 buymoarchungo.png
+<kbd><img src="PudgyChungos/buybuybuy.png" /></kbd>
 
-###
+### SELL SELL SELL
 
 Feb 25 2023
 
-<kbd><img src="PudgyChungos/.png" /></kbd>
--rw-r--r--@  1 bok  staff  132541 Feb 25  2023 bésamechungo.png
+<kbd><img src="PudgyChungos/sellsellsell.png" /></kbd>
 
-###
+### WEN FAST FOOD CHUNGOS?
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/wenfastfoodchungos.png" /></kbd>
+
+### KISS MY CHUNGO
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/kissmychungo.png" /></kbd>
+
+### BUY MOAR CHUNGO
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/buymoarchungo.png" /></kbd>
+
+### BÉSAME CHUNGO
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/bésamechungo.png" /></kbd>
+
+### OOOH. THERE'S A REGULATOR IN THIS DISCORD
 
 Feb 25 2023
 
 <kbd><img src="PudgyChungos/ooohtheresaregulatorinthisdiscord.png" /></kbd>
 
-###
+### NOT FINANCIAL ADVICE, OF COURSE. ALWAYS
 
 Feb 25 2023
 
 <kbd><img src="PudgyChungos/notfinancialadviceofcoursealways.png" /></kbd>
 
-###
+### AND FOR THAT REASON I'M OUT
 
 Feb 25 2023
 
 <kbd><img src="PudgyChungos/andforthatreasonimout.png" /></kbd>
 
-###
+### WHO CUT THE CHUNGO?
 
 Feb 25 2023
 
 <kbd><img src="PudgyChungos/whocutthechungo.png" /></kbd>
 
-###
+### WEN CHUNGO CHADS?
 
 Feb 25 2023
 
 <kbd><img src="PudgyChungos/wenchungochads.png" /></kbd>
 
-###
+### CHUNGOS SAVED MY LIFE
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/chungossavedmylife.png" /></kbd>
 
-###
+### FREE MINT. WE UP INFINITE PERCENT
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/freemintweupinfinitepercent.png" /></kbd>
 
-###
+### WEN CHUNGORDINALS?
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/wenchungordinals.png" /></kbd>
 
-###
+### WEN CHUNGOS SERUM?
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/wenchungosserum.png" /></kbd>
 
-###
+### WEN MUTANT CHUNGOS?
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/wenmutantchungos.png" /></kbd>
 
-###
+### WEN PUDGY CHUNGOS?
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/wenpudgychungos.png" /></kbd>
 
-###
+### CHIEFCHUNGO‘S DAD WILL BE PROUD
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/chiefchungosdadwillbeproud.png" /></kbd>
 
-###
+### I'M CALLING IT, THE BOTTOM IS IN
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/imcallingitthebottomisin.png" /></kbd>
 
-###
+### MUST BE VITALIK BUYING IN
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/mustbevitalikbuyingin.png" /></kbd>
 
-###
+### CHIEF KNOWS VITALIK I HEARD, CHUNGO
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/chiefknowsvitalikiheardchungo.png" /></kbd>
 
-###
+### PAYDAY IN 3 HOURS
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/paydayin3hours.png" /></kbd>
 
-###
+### CHIEF IS VITALIK, HE JUST DM ME
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/chiefisvitalikhejustdmme.png" /></kbd>
 
-###
+### HAHA BRO CHECK VITALIKS WALLET
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/hahabrocheckvitalikswallet.png" /></kbd>
 
-###
+### VITALIK OWNS A CHUNGO!
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/vitalikownsachungo.png" /></kbd>
 
-###
+### VITALIK DIDN’T KILL HIS CHUNGO.
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/vitalikdidntkillhischungo.png" /></kbd>
 
-###
+### DID VITALIK REALLY BURN A CHUNGO?
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/didvitalikreallyburnachungo.png" /></kbd>
 
-###
+### WHO SENT IT TO VITALIK AGAIN?
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/whosentittovitalikagain.png" /></kbd>
 
-###
+### CHIEF CHUNGO IS SECRETLY VITALIK
 
 Feb 24 2023
 
 <kbd><img src="PudgyChungos/chiefchungoissecretlyvitalik.png" /></kbd>
 
-###
+### WHO'S FADING THE CHUNGOS?
 
 Feb 24 2023
 
