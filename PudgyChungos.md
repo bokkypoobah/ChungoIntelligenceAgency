@@ -42,25 +42,63 @@ Jun 24 2023
 
 <kbd><img src="PudgyChungos/congratulationschiefchungo.png" /></kbd>
 
+### CHUNGOS OF STEEL
+
+Jun 23 2023
+
+<kbd><img src="PudgyChungos/chungosofsteel.png" /></kbd>
+
+
+### TO KNOW YOUR CHUNGO, YOU MUST BECOME YOUR CHUNGO
+
+Jun 17 2023
+
+<kbd><img src="PudgyChungos/toknowyourchungoyoumustbecomeyourchungo.png" /></kbd>
+
+### CHUNGOS MULTIPLY AS THEY ARE SEIZED
+
+Jun 17 2023
+
+<kbd><img src="PudgyChungos/chungosmultiplyastheyareseized.png" /></kbd>
+
+### GREAT RESULTS CAN BE ACHIEVED WITH SMALL CHUNGOS
+
+Jun 17 2023
+
+<kbd><img src="PudgyChungos/greatresultscanbeachievedwithsmallchungos.png" /></kbd>
+
+### THE WHOLE SECRET LIES IN CONFUSING THE CHUNGO
+
+Jun 17 2023
+
+<kbd><img src="PudgyChungos/thewholesecretliesinconfusingthechungo.png" /></kbd>
+
+### BE WHERE YOUR CHUNGO IS NOT
+
+Jun 17 2023
+
+<kbd><img src="PudgyChungos/bewhereyourchungoisnot.png" /></kbd>
+
+### DO NOT PRESS A CHUNGO AT BAY
+
+Jun 17 2023
+
+<kbd><img src="PudgyChungos/donotpressachungoatbay.png" /></kbd>
+
+### ANOTHER DAY, ANOTHER CHUNGO
+
+Jun 17 2023
+
+<kbd><img src="PudgyChungos/anotherdayanotherchungo.png" /></kbd>
+
 ```
 
 ###
 
-Jun 24 2023
+Jun 17 2023
 
 <kbd><img src="PudgyChungos/.png" /></kbd>
 
-
-
-
--rw-r--r--@  1 bok  staff  124266 Jun 23  2023 chungosofsteel.png
--rw-r--r--@  1 bok  staff  143071 Jun 17  2023 toknowyourchungoyoumustbecomeyourchungo.png
--rw-r--r--@  1 bok  staff  146673 Jun 17  2023 chungosmultiplyastheyareseized.png
--rw-r--r--@  1 bok  staff  150108 Jun 17  2023 greatresultscanbeachievedwithsmallchungos.png
--rw-r--r--@  1 bok  staff  136099 Jun 17  2023 thewholesecretliesinconfusingthechungo.png
--rw-r--r--@  1 bok  staff  141007 Jun 17  2023 bewhereyourchungoisnot.png
--rw-r--r--@  1 bok  staff  146095 Jun 17  2023 donotpressachungoatbay.png
--rw-r--r--@  1 bok  staff  136524 Jun 16  2023 anotherdayanotherchungo.png
 -rw-r--r--@  1 bok  staff  143416 May 22  2023 wenchungoshowseason1.png
 -rw-r--r--@  1 bok  staff  129614 May 13  2023 wenchungodao.png
 -rw-r--r--@  1 bok  staff  145799 May 12  2023 chiefchungosdadhas2millionchungos.png
