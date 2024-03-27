@@ -2,6 +2,7 @@
 
 Please go Chungo the worlds across spacetime! Enjoy!
 
+* [chungoholicsanonymous](chungoholicsanonymous.md)
 * [LurveCoach.eth](LurveCoach.md)
 * [MakeChungo.eth](MakeChungo.md)
 * [MetaChungo.eth](MetaChungo.md)
