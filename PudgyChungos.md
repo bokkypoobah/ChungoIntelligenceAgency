@@ -235,6 +235,26 @@ Mar 21 2023
 
 <kbd><img src="PudgyChungos/wenchungogpt4memegenerator.png" /></kbd>
 
+### WEN CHUNGO MARKETPLACE
+
+Mar 19 2023
+
+<kbd><img src="PudgyChungos/wenchungomarketplace.png" /></kbd>
+
+### GOLD IS GOLD. 24K CHUNGOS
+
+Mar 6 2023
+
+<kbd><img src="PudgyChungos/goldisgold24kchungos.png" /></kbd>
+
+### NEXT CHUNGO UP WILL BE MASSIVE
+
+Mar 4 2023
+
+<kbd><img src="PudgyChungos/nextchungoupwillbemassive.png" /></kbd>
+
+
+
 ```
 
 ###
@@ -244,9 +264,6 @@ Mar 28 2023
 <kbd><img src="PudgyChungos/.png" /></kbd>
 
 
--rw-r--r--@  1 bok  staff  143330 Mar 19  2023 wenchungomarketplace.png
--rw-r--r--@  1 bok  staff  140141 Mar  6  2023 goldisgold24kchungos.png
--rw-r--r--@  1 bok  staff  148856 Mar  4  2023 nextchungoupwillbemassive.png
 -rw-r--r--@  1 bok  staff  150716 Feb 28  2023 notevenyourdogwantedthemat006.png
 -rw-r--r--@  1 bok  staff  132630 Feb 26  2023 stolenchungosonfloor.png
 -rw-r--r--@  1 bok  staff  131660 Feb 26  2023 mychungoistingling.png
