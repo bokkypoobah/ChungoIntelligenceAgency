@@ -2,6 +2,7 @@
 
 Please go Chungo the worlds across spacetime! Enjoy!
 
+
 ### ITHIDH AN CHUNGO AS LUGHA A 'BHIAST AS MOTHA
 
 THE SMALLEST CHUNGO EAT THE BIGGEST BEAST (Scottish Gaelic)
@@ -11,17 +12,32 @@ Aug 13 2023
 <kbd><img src="gmtime/ithidhanchungoaslughaabhiastasmotha.png" /></kbd>
 
 
+### ZACHTE HEELMEESTERS MAKEN STINKENDE PAYPAL
+
+SOFT HEALERS MAKE STINKING PAYPAL (Dutch)
+
+Jul 28 2023
+
+<kbd><img src="gmtime/zachteheelmeestersmakenstinkendepaypal.png" /></kbd>
+
+
+### JETZT HABEN WIR DEN CHUNGOSALAT
+
+NOW WE HAVE THE CHUNGO SALAD (German)
+
+Jul 20 2023
+
+<kbd><img src="gmtime/jetzthabenwirdenchungosalat.png" /></kbd>
+
+
 ```
 
 ###
 
-Aug 13 2023
+Jul 20 2023
 
 <kbd><img src="gmtime/.png" /></kbd>
 
--rw-r--r--@  1 bok  staff  137280 Aug 13  2023 ithidhanchungoaslughaabhiastasmotha.png
--rw-r--r--@  1 bok  staff  133478 Jul 28  2023 zachteheelmeestersmakenstinkendepaypal.png
--rw-r--r--@  1 bok  staff  142554 Jul 20  2023 jetzthabenwirdenchungosalat.png
 -rw-r--r--@  1 bok  staff  133213 Jul 14  2023 nukomtdexrpuitdemouw.png
 -rw-r--r--@  1 bok  staff  140784 Jul 13  2023 wiezijnchungobrandtmoetopdeblarenzitten.png
 -rw-r--r--@  1 bok  staff  136598 Jul 12  2023 metzijnneusindechungovallen.png
