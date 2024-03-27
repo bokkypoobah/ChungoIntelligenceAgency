@@ -141,22 +141,56 @@ Mar 25 2023
 
 <kbd><img src="sexy-devil/sellingweedtobuychungos.png" /></kbd>
 
+### SELLING CHUNGOS TO BUY WEED
+
+Mar 23 2023
+
+<kbd><img src="sexy-devil/sellingchungostobuyweed.png" /></kbd>
+
+### COME ON BABY, LIGHT MY CHUNGO
+
+Mar 23 2023
+
+<kbd><img src="sexy-devil/comeonbabylightmychungo.png" /></kbd>
+
+### MY CHUNGO IS BETTER THAN YOURS
+
+Mar 21 2023
+
+<kbd><img src="sexy-devil/mychungoisbetterthanyours.png" /></kbd>
+
+### MY CHUNGO IS BIGGER THAN YOURS
+
+Mar 21 2023
+
+<kbd><img src="sexy-devil/mychungoisbiggerthanyours.png" /></kbd>
+
+### ALL TALK NO CHUNGO
+
+Mar 21 2023
+
+<kbd><img src="sexy-devil/alltalknochungo.png" /></kbd>
+
+### FARMINGGGG
+
+Mar 21 2023
+
+<kbd><img src="sexy-devil/farmingggg.png" /></kbd>
+
+### HE IS SWEEPING NOTHING
+
+Mar 21 2023
+
+<kbd><img src="sexy-devil/heissweepingnothing.png" /></kbd>
 
 ```
 
 ###
 
-Mar 25 2023
+Mar 21 2023
 
 <kbd><img src="sexy-devil/.png" /></kbd>
 
--rw-r--r--@   1 bok  staff  117573 Mar 23  2023 sellingchungostobuyweed.png
--rw-r--r--@   1 bok  staff  119990 Mar 23  2023 comeonbabylightmychungo.png
--rw-r--r--@   1 bok  staff  123281 Mar 21  2023 mychungoisbetterthanyours.png
--rw-r--r--@   1 bok  staff  124231 Mar 21  2023 mychungoisbiggerthanyours.png
--rw-r--r--@   1 bok  staff  105243 Mar 21  2023 alltalknochungo.png
--rw-r--r--@   1 bok  staff   95662 Mar 21  2023 farmingggg.png
--rw-r--r--@   1 bok  staff  107097 Mar 21  2023 heissweepingnothing.png
 -rw-r--r--@   1 bok  staff  108437 Mar 20  2023 smellinghischunghole.png
 -rw-r--r--@   1 bok  staff  116397 Mar 20  2023 itsmellslikewetchungoinhere.png
 -rw-r--r--@   1 bok  staff  116499 Mar 20  2023 theysmelledthechungoflowing.png
