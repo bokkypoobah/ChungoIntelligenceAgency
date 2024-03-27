@@ -1,6 +1,6 @@
 # Chungo Intelligence Agency - naked-news.eth
 
-Please go Chungo the world across spacetime! Enjoy!
+Please go Chungo the worlds across spacetime! Enjoy!
 
 ### VALVE BANNED 40 CS:CHUNGO $2MIL TRADERS
 

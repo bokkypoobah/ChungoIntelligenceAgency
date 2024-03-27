@@ -1,10 +1,11 @@
 # Chungo Intelligence Agency
 
-Please go Chungo the world across spacetime! Enjoy!
+Please go Chungo the worlds across spacetime! Enjoy!
 
 * [MetaChungo.eth](MetaChungo.md)
 * [naked-news.eth](naked-news.md)
 * [PoohBah.eth](PoohBah.md)
+* [sexy-devil.eth](sexy-devil.md)
 * [TomadoCash.eth](TomadoCash.md)
 * [watafuck.eth](watafuck.md)
 

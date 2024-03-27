@@ -1,6 +1,6 @@
 # Chungo Intelligence Agency - TomadoCash.eth
 
-Please go Chungo the world across spacetime! Enjoy!
+Please go Chungo the worlds across spacetime! Enjoy!
 
 ### Chungo - TomadoCash.eth
 

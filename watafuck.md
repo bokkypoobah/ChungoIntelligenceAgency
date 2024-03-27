@@ -1,6 +1,6 @@
 # Chungo Intelligence Agency - watafuck.eth
 
-Please go Chungo the world across spacetime! Enjoy!
+Please go Chungo the worlds across spacetime! Enjoy!
 
 ### PRIVACY IS NOT A CRIME
 
