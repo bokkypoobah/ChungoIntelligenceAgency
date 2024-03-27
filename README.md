@@ -15,6 +15,7 @@ Please go Chungo the worlds across spacetime! Enjoy!
 * [MetaChungo.eth](MetaChungo.md)
 * [naked-news.eth](naked-news.md)
 * [PoohBah.eth](PoohBah.md)
+* [poshy.eth](poshy.md)
 * [PudgyChungos.eth](PudgyChungos.md)
 * [sallie-mae.eth](sallie-mae.md)
 * [sexy-devil.eth](sexy-devil.md)
