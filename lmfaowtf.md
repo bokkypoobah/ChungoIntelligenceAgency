@@ -52,15 +52,13 @@ Apr 18 2023
 
 Mar 31 2023
 
-<kbd><img src="lmfaowtf/.png" /></kbd>
--rw-r--r--@  1 bok  staff  137595 Mar 31  2023 gocomplaininthecryptopunksdiscord.png
+<kbd><img src="lmfaowtf/gocomplaininthecryptopunksdiscord.png" /></kbd>
 
 ### GO COMPLAIN IN THE BOREDAPES DISCORD
 
 Mar 31 2023
 
-<kbd><img src="lmfaowtf/.png" /></kbd>
--rw-r--r--@  1 bok  staff  134142 Mar 31  2023 gocomplainintheboredapesdiscord.png
+<kbd><img src="lmfaowtf/gocomplainintheboredapesdiscord.png" /></kbd>
 
 ### GO SHILL IN THE BOREDAPES DISCORD
 
@@ -116,7 +114,6 @@ Mar 13 2023
 Feb 28 2023
 
 <kbd><img src="lmfaowtf/devdosomething.png" /></kbd>
--rw-r--r--@  1 bok  staff  115675 Feb 28  2023 devdosomething.png
 
 ### CAN DEVS DO SOMETHING?
 
