@@ -198,26 +198,80 @@ Mar 1 2023
 
 <kbd><img src="0xMasterChef/negronichungo.png" /></kbd>
 
-```
+### CHOC CHUNGO TIRAMISU
 
-###
+Feb 26 2023
 
-Mar 1 2023
+<kbd><img src="0xMasterChef/chocchungotiramisu.png" /></kbd>
 
-<kbd><img src="0xMasterChef/.png" /></kbd>
+### ROAST CHUNGO WITH CHARGRILLED CHUNGO
 
+Feb 26 2023
 
--rw-r--r--@  1 bok  staff  119526 Feb 26  2023 chocchungotiramisu.png
--rw-r--r--@  1 bok  staff  137871 Feb 26  2023 roastchungowithchargrilledchungo.png
--rw-r--r--@  1 bok  staff  118919 Feb 26  2023 ithinkiamgoingtochungo.png
--rw-r--r--@  1 bok  staff  126886 Feb 26  2023 chocolatepeanutcaramelchungo.png
--rw-r--r--@  1 bok  staff  119042 Feb 26  2023 musselsandchungo.png
--rw-r--r--@  1 bok  staff  137475 Feb 26  2023 toastedchungoandchungolayercake.png
--rw-r--r--@  1 bok  staff  119917 Feb 26  2023 turmericchungobanhmi.png
--rw-r--r--@  1 bok  staff  121820 Feb 26  2023 xobuttermudchungo.png
--rw-r--r--@  1 bok  staff  130991 Feb 26  2023 crepeswithchungoandchungo.png
--rw-r--r--@  1 bok  staff  114332 Feb 26  2023 hungryforchungo.png
--rw-r--r--@  1 bok  staff  130070 Feb 26  2023 crèmechungowithburntchungo.png
--rw-r--r--@  1 bok  staff  129443 Feb 26  2023 potatowaguandpepperchungo.png
--rw-r--r--   1 bok  staff   67583 Feb 26  2023 Chungos_3282x5-2400x800.png
-```
+<kbd><img src="0xMasterChef/roastchungowithchargrilledchungo.png" /></kbd>
+
+### I THINK I AM GOING TO CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="0xMasterChef/ithinkiamgoingtochungo.png" /></kbd>
+
+### CHOCOLATE PEANUT CARAMEL CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="0xMasterChef/chocolatepeanutcaramelchungo.png" /></kbd>
+
+### MUSSELS AND 'CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="0xMasterChef/musselsandchungo.png" /></kbd>
+
+### TOASTED CHUNGO AND CHUNGO LAYER CAKE
+
+Feb 26 2023
+
+<kbd><img src="0xMasterChef/toastedchungoandchungolayercake.png" /></kbd>
+
+### TURMERIC CHUNGO BANH MI
+
+Feb 26 2023
+
+<kbd><img src="0xMasterChef/turmericchungobanhmi.png" /></kbd>
+
+### XO BUTTER MUD CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="0xMasterChef/xobuttermudchungo.png" /></kbd>
+
+### CREPES WITH CHUNGO AND CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="0xMasterChef/crepeswithchungoandchungo.png" /></kbd>
+
+### HUNGRY FOR CHUNGO?
+
+Feb 26 2023
+
+<kbd><img src="0xMasterChef/hungryforchungo.png" /></kbd>
+
+### CRÈME CHUNGO WITH BURNT CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="0xMasterChef/crèmechungowithburntchungo.png" /></kbd>
+
+### POTATO, WAGU AND PEPPER CHUNGO
+
+Feb 26 2023
+
+<kbd><img src="0xMasterChef/potatowaguandpepperchungo.png" /></kbd>
+
+### Chungos_3282x5-2400x800 Blank
+
+Feb 26 2023
+
+<kbd><img src="0xMasterChef/Chungos_3282x5-2400x800.png" /></kbd>
