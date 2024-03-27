@@ -151,28 +151,99 @@ Mar 31 2023
 
 <kbd><img src="PudgyChungos/wenchungoprotocol.png" /></kbd>
 
+### WEN CHUNGO BODY TEMPLATES?
+
+Mar 28 2023
+
+<kbd><img src="PudgyChungos/wenchungobodytemplates.png" /></kbd>
+
+### WEN CHUNGO SOCKS?
+
+Mar 28 2023
+
+<kbd><img src="PudgyChungos/wenchungosocks.png" /></kbd>
+
+### WEN CHUNGO BOARD GAMES?
+
+Mar 27 2023
+
+<kbd><img src="PudgyChungos/wenchungoboardgames.png" /></kbd>
+
+### WEN CHUNGO PLAYING CARDS?
+
+Mar 27 2023
+
+<kbd><img src="PudgyChungos/wenchungoplayingcards.png" /></kbd>
+
+### BITCOIN IS FOR NFTS
+
+Mar 26 2023
+
+<kbd><img src="PudgyChungos/bitcoinisfornfts.png" /></kbd>
+
+### WEN CHUNGOBOTS?
+
+Mar 26 2023
+
+<kbd><img src="PudgyChungos/wenchungobots.png" /></kbd>
+
+### WEN AI CHUNGOS?
+
+Mar 26 2023
+
+<kbd><img src="PudgyChungos/wenaichungos.png" /></kbd>
+
+### WEN CHUNGO FLIP FEETPIX?
+
+Mar 25 2023
+
+<kbd><img src="PudgyChungos/wenchungoflipfeetpix.png" /></kbd>
+
+### WE NEED CHUNGO CHUNGO FOR CHUNGO
+
+Mar 25 2023
+
+<kbd><img src="PudgyChungos/weneedchungochungoforchungo.png" /></kbd>
+
+### WEN CHUNGO FLIP BITCOIN CHUNGO?
+
+Mar 25 2023
+
+<kbd><img src="PudgyChungos/wenchungoflipbitcoinchungo.png" /></kbd>
+
+### WEN CHUNGO FLIP AZUKI?
+
+Mar 25 2023
+
+<kbd><img src="PudgyChungos/wenchungoflipazuki.png" /></kbd>
+
+### WEN BITCOIN CHUNGOS?
+
+Mar 23 2023
+
+<kbd><img src="PudgyChungos/wenbitcoinchungos.png" /></kbd>
+
+### JPMYORGAN HAS A WAREHOUSE OF CHUNGOS
+
+Mar 21 2023
+
+<kbd><img src="PudgyChungos/jpmyorganhasawarehouseofchungos.png" /></kbd>
+
+### WEN CHUNGOGPT-4 MEME GENERATOR?
+
+Mar 21 2023
+
+<kbd><img src="PudgyChungos/wenchungogpt4memegenerator.png" /></kbd>
+
 ```
 
 ###
 
-Jun 17 2023
+Mar 28 2023
 
 <kbd><img src="PudgyChungos/.png" /></kbd>
 
--rw-r--r--@  1 bok  staff  148540 Mar 28  2023 wenchungobodytemplates.png
--rw-r--r--@  1 bok  staff  136506 Mar 28  2023 wenchungosocks.png
--rw-r--r--@  1 bok  staff  151258 Mar 27  2023 wenchungoboardgames.png
--rw-r--r--@  1 bok  staff  152777 Mar 27  2023 wenchungoplayingcards.png
--rw-r--r--@  1 bok  staff  124690 Mar 26  2023 bitcoinisfornfts.png
--rw-r--r--@  1 bok  staff  134376 Mar 26  2023 wenchungobots.png
--rw-r--r--@  1 bok  staff  134935 Mar 26  2023 wenaichungos.png
--rw-r--r--@  1 bok  staff  134466 Mar 25  2023 wenchungoflipfeetpix.png
--rw-r--r--@  1 bok  staff  138997 Mar 25  2023 weneedchungochungoforchungo.png
--rw-r--r--@  1 bok  staff  141202 Mar 25  2023 wenchungoflipbitcoinchungo.png
--rw-r--r--@  1 bok  staff  137801 Mar 25  2023 wenchungoflipazuki.png
--rw-r--r--@  1 bok  staff  136843 Mar 23  2023 wenbitcoinchungos.png
--rw-r--r--@  1 bok  staff  157277 Mar 21  2023 jpmyorganhasawarehouseofchungos.png
--rw-r--r--@  1 bok  staff  147264 Mar 21  2023 wenchungogpt4memegenerator.png
+
 -rw-r--r--@  1 bok  staff  143330 Mar 19  2023 wenchungomarketplace.png
 -rw-r--r--@  1 bok  staff  140141 Mar  6  2023 goldisgold24kchungos.png
 -rw-r--r--@  1 bok  staff  148856 Mar  4  2023 nextchungoupwillbemassive.png
