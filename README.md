@@ -1197,42 +1197,158 @@ Apr 11 2023
 <kbd><img src="PoohBah/buildalongerchungonotatallerchungo.png" /></kbd>
 
 
+### AND SMALL PEOPLE TALK ABOUT CHUNGOS
+
+Apr 8 2023
+
+<kbd><img src="PoohBah/andsmallpeopletalkaboutchungos.png" /></kbd>
+
+### AVERAGE PEOPLE TALK ABOUT CHUNGOS
+
+Apr 8 2023
+
+<kbd><img src="PoohBah/averagepeopletalkaboutchungos.png" /></kbd>
+
+### GREAT PEOPLE TALK ABOUT CHUNGOS
+
+Apr 8 2023
+
+<kbd><img src="PoohBah/greatpeopletalkaboutchungos.png" /></kbd>
+
+### THE FIRST CHUNGO IS THE DEEPEST
+
+Mar 27 2023
+
+<kbd><img src="PoohBah/thefirstchungoisthedeepest.png" /></kbd>
+
+### THE BALL IS IN YOUR CHUNGO
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/theballisinyourchungo.png" /></kbd>
+
+### IF THE SERVICE IS FREE, YOU'RE THE CHUNGO
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/iftheserviceisfreeyourethechungo.png" /></kbd>
+
+### PUT YOUR CHUNGO WHERE YOUR CHUNGO IS
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/putyourchungowhereyourchungois.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/patienceisachungo.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/chungoisthebestmedicine.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/whatschungoischungo.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/firstchungosfirst.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/toomanychungosspoilthechungo.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/greatchungosthinkchungo.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/ifitaintchungodontchungoit.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/chungohelpsthosewhochungothemselves.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/beggarscantbechungos.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/chungocomechungogo.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/betterchungothanchungo.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/twochungosdontmakeachungo.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/chungosspeaklouderthanchungos.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/hopeforchungoprepareforchungo.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/leavenochungounturned.png" /></kbd>
+
+###
+
+Mar 26 2023
+
+<kbd><img src="PoohBah/notmycircusnotmychungos.png" /></kbd>
+
 ## Notes
 
 ```
 
 ###
 
-Apr 8 2023
+Mar 26 2023
 
 <kbd><img src="PoohBah/.png" /></kbd>
 
 
 
 
--rw-r--r--@   1 bok  staff  145836 Apr  8  2023 andsmallpeopletalkaboutchungos.png
--rw-r--r--@   1 bok  staff  146057 Apr  8  2023 averagepeopletalkaboutchungos.png
--rw-r--r--@   1 bok  staff  141831 Apr  8  2023 greatpeopletalkaboutchungos.png
--rw-r--r--@   1 bok  staff  131304 Mar 27  2023 thefirstchungoisthedeepest.png
--rw-r--r--@   1 bok  staff  137015 Mar 26  2023 theballisinyourchungo.png
--rw-r--r--@   1 bok  staff  136542 Mar 26  2023 iftheserviceisfreeyourethechungo.png
--rw-r--r--@   1 bok  staff  145914 Mar 26  2023 putyourchungowhereyourchungois.png
--rw-r--r--@   1 bok  staff  128006 Mar 26  2023 patienceisachungo.png
--rw-r--r--@   1 bok  staff  133861 Mar 26  2023 chungoisthebestmedicine.png
--rw-r--r--@   1 bok  staff  138427 Mar 26  2023 whatschungoischungo.png
--rw-r--r--@   1 bok  staff  126820 Mar 26  2023 firstchungosfirst.png
--rw-r--r--@   1 bok  staff  141559 Mar 26  2023 toomanychungosspoilthechungo.png
--rw-r--r--@   1 bok  staff  138889 Mar 26  2023 greatchungosthinkchungo.png
--rw-r--r--@   1 bok  staff  131967 Mar 26  2023 ifitaintchungodontchungoit.png
--rw-r--r--@   1 bok  staff  141907 Mar 26  2023 chungohelpsthosewhochungothemselves.png
--rw-r--r--@   1 bok  staff  137662 Mar 26  2023 beggarscantbechungos.png
--rw-r--r--@   1 bok  staff  126572 Mar 26  2023 chungocomechungogo.png
--rw-r--r--@   1 bok  staff  133216 Mar 26  2023 betterchungothanchungo.png
--rw-r--r--@   1 bok  staff  148105 Mar 26  2023 twochungosdontmakeachungo.png
--rw-r--r--@   1 bok  staff  147007 Mar 26  2023 chungosspeaklouderthanchungos.png
--rw-r--r--@   1 bok  staff  136382 Mar 26  2023 hopeforchungoprepareforchungo.png
--rw-r--r--@   1 bok  staff  131761 Mar 26  2023 leavenochungounturned.png
--rw-r--r--@   1 bok  staff  140563 Mar 26  2023 notmycircusnotmychungos.png
+
 -rw-r--r--@   1 bok  staff  127593 Mar 25  2023 ivotedforchungo.png
 -rw-r--r--@   1 bok  staff  144913 Mar 24  2023 makechungowhilethechungoshines.png
 -rw-r--r--@   1 bok  staff  149408 Mar 24  2023 schrödingersbankdonotwithdraw.png
