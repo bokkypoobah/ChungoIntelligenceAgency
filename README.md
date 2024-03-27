@@ -3,6 +3,7 @@
 Please go Chungo the worlds across spacetime! Enjoy!
 
 * [LurveCoach.eth](LurveCoach.md)
+* [MakeChungo.eth](MakeChungo.md)
 * [MetaChungo.eth](MetaChungo.md)
 * [naked-news.eth](naked-news.md)
 * [PoohBah.eth](PoohBah.md)
