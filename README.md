@@ -9,6 +9,7 @@ Please go Chungo the worlds across spacetime! Enjoy!
 * [0xfreddiemac.eth](0xfreddiemac.md)
 * [0xMasterChef.eth](0xMasterChef.md)
 * [BeachInspector.eth](BeachInspector.md)
+* [Blackcrock.eth](Blackcrock.md)
 * [ChiefRiskOfficer.eth](ChiefRiskOfficer.md)
 * [chungoholicsanonymous](chungoholicsanonymous.md)
 * [firstyoulaughatthem.eth](firstyoulaughatthem.md)
