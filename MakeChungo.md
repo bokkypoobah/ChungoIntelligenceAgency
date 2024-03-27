@@ -116,27 +116,87 @@ Mar 7 2023
 
 <kbd><img src="MakeChungo/yestalkshitwehere.png" /></kbd>
 
-```
 
-###
+### BIG CHUNGO ENERGY
 
-Mar 7 2023
+Mar 4 2023
 
-<kbd><img src="MakeChungo/.png" /></kbd>
+<kbd><img src="MakeChungo/bigchungoenergy.png" /></kbd>
 
+### LOVE AND PEACE
 
--rw-r--r--@  1 bok  staff  130691 Mar  4  2023 bigchungoenergy.png
--rw-r--r--@  1 bok  staff  126902 Feb 24  2023 loveandpeace.png
--rw-r--r--@  1 bok  staff  141930 Feb 24  2023 peacewillsavetheworld.png
--rw-r--r--@  1 bok  staff  133216 Feb 24  2023 warisexpensive.png
--rw-r--r--@  1 bok  staff  130130 Feb 24  2023 peaceisprofitable.png
--rw-r--r--@  1 bok  staff  123441 Feb 24  2023 peaceischeaper.png
--rw-r--r--@  1 bok  staff  122346 Feb 24  2023 peaceofcake.png
--rw-r--r--@  1 bok  staff  127748 Feb 24  2023 givepeaceachance.png
--rw-r--r--@  1 bok  staff  145302 Feb 24  2023 loveconquerstheworld.png
--rw-r--r--@  1 bok  staff  127639 Feb 24  2023 peaceforabetterlife.png
--rw-r--r--@  1 bok  staff  140207 Feb 24  2023 peacetodaypeacetomorrow.png
--rw-r--r--@  1 bok  staff  142034 Feb 24  2023 peacebeginswithyou.png
--rw-r--r--@  1 bok  staff  141672 Feb 24  2023 makechungonotwar.png
--rw-r--r--   1 bok  staff   86958 Feb 24  2023 Chungos_8050x5-2400x800.png
-```
+Feb 24 2023
+
+<kbd><img src="MakeChungo/loveandpeace.png" /></kbd>
+
+### PEACE WILL SAVE THE WORLD
+
+Feb 24 2023
+
+<kbd><img src="MakeChungo/peacewillsavetheworld.png" /></kbd>
+
+### WAR IS EXPENSIVE
+
+Feb 24 2023
+
+<kbd><img src="MakeChungo/warisexpensive.png" /></kbd>
+
+### PEACE IS PROFITABLE
+
+Feb 24 2023
+
+<kbd><img src="MakeChungo/peaceisprofitable.png" /></kbd>
+
+### PEACE IS CHEAPER
+
+Feb 24 2023
+
+<kbd><img src="MakeChungo/peaceischeaper.png" /></kbd>
+
+### PEACE OF CAKE
+
+Feb 24 2023
+
+<kbd><img src="MakeChungo/peaceofcake.png" /></kbd>
+
+### GIVE PEACE A CHANCE
+
+Feb 24 2023
+
+<kbd><img src="MakeChungo/givepeaceachance.png" /></kbd>
+
+### LOVE CONQUERS THE WORLD
+
+Feb 24 2023
+
+<kbd><img src="MakeChungo/loveconquerstheworld.png" /></kbd>
+
+### PEACE, FOR A BETTER LIFE
+
+Feb 24 2023
+
+<kbd><img src="MakeChungo/peaceforabetterlife.png" /></kbd>
+
+### PEACE TODAY, PEACE TOMORROW
+
+Feb 24 2023
+
+<kbd><img src="MakeChungo/peacetodaypeacetomorrow.png" /></kbd>
+
+### PEACE BEGINS WITH YOU
+
+Feb 24 2023
+
+<kbd><img src="MakeChungo/peacebeginswithyou.png" /></kbd>
+
+### MAKE CHUNGO NOT WAR
+
+Feb 24 2023
+
+<kbd><img src="MakeChungo/makechungonotwar.png" /></kbd>
+
+### Chungos_8050x5-2400x800 Blank
+
+Feb 24 2023
+
+<kbd><img src="MakeChungo/Chungos_8050x5-2400x800.png" /></kbd>
