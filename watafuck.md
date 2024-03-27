@@ -2,7 +2,7 @@
 
 Please enjoy!
 
-### HOLD THIS SHIT TO ZERO
+### PRIVACY IS NOT A CRIME
 
 Aug 24 2023
 
