@@ -84,39 +84,155 @@ Mar 1 2023
 
 <kbd><img src="LurveCoach/sizedoesnotmatter.png" /></kbd>
 
+
+### BE A TEAM PLAYER
+
+Feb 23 2023
+
+<kbd><img src="LurveCoach/beateamplayer.png" /></kbd>
+
+### LOOK SMART
+
+Feb 23 2023
+
+<kbd><img src="LurveCoach/looksmart.png" /></kbd>
+
+### PULL YOUR SOCKS UP
+
+Feb 23 2023
+
+<kbd><img src="LurveCoach/pullyoursocksup.png" /></kbd>
+
+### DEEZ NUTZ
+
+Feb 23 2023
+
+<kbd><img src="LurveCoach/deeznutz.png" /></kbd>
+
+### LFCHUNGOOOOOOOOOoooooo.....
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/lfchungooooooooooooooooooo.png" /></kbd>
+
+### ATTENTION
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/attention.png" /></kbd>
+
+### RISE UP TO THE CHALLENGE
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/riseuptothechallenge.png" /></kbd>
+
+### YOU HAVE ONE MISSION
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/youhaveonemission.png" /></kbd>
+
+### CHUNGOOOOOOOOOOOOOOooooooo....
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/chungooooooooooooooooooooooo.png" /></kbd>
+
+### ALL CHUNGOS ARE GOOD CHUNGOS
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/allchungosaregoodchungos.png" /></kbd>
+
+### SING, WHEN NO ONE IS LISTENING
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/singwhennooneislistening.png" /></kbd>
+
+### DANCE, WHEN NO ONE IS WATCHING
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/dancewhennooneiswatching.png" /></kbd>
+
+### DON'R RUSH THINGS
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/dontrushthings.png" /></kbd>
+
+### MASTER YOUR MOVEMENTS
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/masteryourmovements.png" /></kbd>
+
+### SPEND TIME KISSING
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/spendtimekissing.png" /></kbd>
+
+### FOCUS YOUR ATTENTION
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/focusyourattention.png" /></kbd>
+
+### LISTEN ATTENTIVELY
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/listenattentively.png" /></kbd>
+
+### EXPRESS YOURSELF
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/expressyourself.png" /></kbd>
+
+### BE THOUGHTFUL
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/bethoughtful.png" /></kbd>
+
+### SPEED UP
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/speedup.png" /></kbd>
+
+### SLOW DOWN
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/slowdown.png" /></kbd>
+
+### EXERCISE REGULARLY
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/exerciseregularly.png" /></kbd>
+
+### MOISTURISE
+
+Feb 21 2023
+
+<kbd><img src="LurveCoach/moisturise.png" /></kbd>
+
+
 ```
 
 ###
 
-Mar 1 2023
+Feb 21 2023
 
 <kbd><img src="LurveCoach/.png" /></kbd>
 
 
-
--rw-r--r--@  1 bok  staff  176803 Feb 23  2023 beateamplayer.png
--rw-r--r--@  1 bok  staff  181619 Feb 23  2023 looksmart.png
--rw-r--r--@  1 bok  staff  186458 Feb 23  2023 pullyoursocksup.png
--rw-r--r--@  1 bok  staff  167895 Feb 23  2023 deeznutz.png
--rw-r--r--@  1 bok  staff  183560 Feb 21  2023 lfchungooooooooooooooooooo......png
--rw-r--r--@  1 bok  staff  170146 Feb 21  2023 attention.png
--rw-r--r--@  1 bok  staff  191356 Feb 21  2023 riseuptothechallenge.png
--rw-r--r--@  1 bok  staff  191189 Feb 21  2023 youhaveonemission.png
--rw-r--r--@  1 bok  staff  183091 Feb 21  2023 chungooooooooooooooooooooooo......png
--rw-r--r--@  1 bok  staff  202255 Feb 21  2023 allchungosaregoodchungos.png
--rw-r--r--@  1 bok  staff  190180 Feb 21  2023 singwhennooneislistening.png
--rw-r--r--@  1 bok  staff  203176 Feb 21  2023 dancewhennooneiswatching.png
--rw-r--r--@  1 bok  staff  184143 Feb 21  2023 dontrushthings.png
--rw-r--r--@  1 bok  staff  194286 Feb 21  2023 masteryourmovements.png
--rw-r--r--@  1 bok  staff  182027 Feb 21  2023 spendtimekissing.png
--rw-r--r--@  1 bok  staff  190980 Feb 21  2023 focusyourattention.png
--rw-r--r--@  1 bok  staff  177343 Feb 21  2023 listenattentively.png
--rw-r--r--@  1 bok  staff  183526 Feb 21  2023 expressyourself.png
--rw-r--r--@  1 bok  staff  173872 Feb 21  2023 bethoughtful.png
--rw-r--r--@  1 bok  staff  170193 Feb 21  2023 speedup.png
--rw-r--r--@  1 bok  staff  179176 Feb 21  2023 slowdown.png
--rw-r--r--@  1 bok  staff  190058 Feb 21  2023 exerciseregularly.png
--rw-r--r--@  1 bok  staff  177596 Feb 21  2023 moisturise.png
 -rw-r--r--@  1 bok  staff  180791 Feb 19  2023 beoptimistic.png
 -rw-r--r--@  1 bok  staff  168979 Feb 19  2023 taketime.png
 -rw-r--r--@  1 bok  staff  169454 Feb 19  2023 maketime.png
