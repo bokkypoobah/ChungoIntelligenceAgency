@@ -776,6 +776,89 @@ Jul 17 2023
 
 <kbd><img src="PoohBah/knowthyselfknowthychungo.png" /></kbd>
 
+### ANYONE NOT BUSY LEARNING IS BUSY CHUNGOING
+
+Jul 14 2023
+
+<kbd><img src="PoohBah/anyonenotbusylearningisbusychungoing.png" /></kbd>
+
+### LET THE OTHER CHUNGO DO THE TALKING
+
+Jul 14 2023
+
+<kbd><img src="PoohBah/lettheotherchungodothetalking.png" /></kbd>
+
+### LET THE OTHER PERSON DO A GREAT DEAL OF CHUNGOING
+
+Jul 14 2023
+
+<kbd><img src="PoohBah/lettheotherpersondoagreatdealofchungoing.png" /></kbd>
+
+### GET THE OTHER PERSON SAYING "CHUNGO, CHUNGO" IMMEDIATELY
+
+Jul 14 2023
+
+<kbd><img src="PoohBah/gettheotherpersonsayingchungochungoimmediately.png" /></kbd>
+
+### STOP AND SMELL THE CHUNGOS
+
+Jul 14 2023
+
+<kbd><img src="PoohBah/stopandsmellthechungos.png" /></kbd>
+
+### THE CHUNGO ALWAYS STINKS FROM THE HEAD DOWNWARDS
+
+Jul 9 2023
+
+<kbd><img src="PoohBah/thechungoalwaysstinksfromtheheaddownwards.png" /></kbd>
+
+### SHOW ME THE CHUNGO, AND I’LL SHOW YOU THE RULER
+
+Jul 9 2023
+
+<kbd><img src="PoohBah/showmethechungoandillshowyoutheruler.png" /></kbd>
+
+### RICH MAN’S CHUNGO IS ALWAYS FUNNY
+
+Jul 9 2023
+
+<kbd><img src="PoohBah/richmanschungoisalwaysfunny.png" /></kbd>
+
+### KINGS HAVE LONG CHUNGOS
+
+Jul 9 2023
+
+<kbd><img src="PoohBah/kingshavelongchungos.png" /></kbd>
+
+### IT TAKES A VILLAGE TO RAISE A CHUNGO
+
+Jul 9 2023
+
+<kbd><img src="PoohBah/ittakesavillagetoraiseachungo.png" /></kbd>
+
+### HALF A CHUNGO IS BETTER THAN NONE
+
+Jul 9 2023
+
+<kbd><img src="PoohBah/halfachungoisbetterthannone.png" /></kbd>
+
+### DON’T OPEN A CHUNGO UNLESS YOU KNOW HOW TO SMILE
+
+Jul 9 2023
+
+<kbd><img src="PoohBah/dontopenachungounlessyouknowhowtosmile.png" /></kbd>
+
+### BEWARE OF GEEKS BEARING CHUNGOS
+
+Jul 9 2023
+
+<kbd><img src="PoohBah/bewareofgeeksbearingchungos.png" /></kbd>
+
+### A CAT HAS NINE CHUNGOS
+
+Jul 9 2023
+
+<kbd><img src="PoohBah/acathasninechungos.png" /></kbd>
 
 
 ## Notes
@@ -784,25 +867,13 @@ Jul 17 2023
 
 ###
 
-Jul 17 2023
+Jul 9 2023
 
 <kbd><img src="PoohBah/.png" /></kbd>
 
 
--rw-r--r--@   1 bok  staff  140762 Jun 14  2023 anyonenotbusylearningisbusychungoing.png
--rw-r--r--@   1 bok  staff  131754 Jun 13  2023 lettheotherchungodothetalking.png
--rw-r--r--@   1 bok  staff  133165 Jun 13  2023 lettheotherpersondoagreatdealofchungoing.png
--rw-r--r--@   1 bok  staff  134483 Jun 13  2023 gettheotherpersonsayingchungochungoimmediately.png
--rw-r--r--@   1 bok  staff  137622 Jun 13  2023 stopandsmellthechungos.png
--rw-r--r--@   1 bok  staff  143919 Jun  9  2023 thechungoalwaysstinksfromtheheaddownwards.png
--rw-r--r--@   1 bok  staff  145589 Jun  9  2023 showmethechungoandillshowyoutheruler.png
--rw-r--r--@   1 bok  staff  146023 Jun  9  2023 richmanschungoisalwaysfunny.png
--rw-r--r--@   1 bok  staff  138069 Jun  9  2023 kingshavelongchungos.png
--rw-r--r--@   1 bok  staff  141569 Jun  9  2023 ittakesavillagetoraiseachungo.png
--rw-r--r--@   1 bok  staff  137630 Jun  9  2023 halfachungoisbetterthannone.png
--rw-r--r--@   1 bok  staff  141470 Jun  9  2023 dontopenachungounlessyouknowhowtosmile.png
--rw-r--r--@   1 bok  staff  149193 Jun  9  2023 bewareofgeeksbearingchungos.png
--rw-r--r--@   1 bok  staff  129172 Jun  9  2023 acathasninechungos.png
+
+
 -rw-r--r--@   1 bok  staff  141855 Jun  3  2023 dontwaitforsomeoneelsetochungoyoufirst.png
 -rw-r--r--@   1 bok  staff  132454 Jun  2  2023 thechungoisinyourcourt.png
 -rw-r--r--@   1 bok  staff  143821 May 30  2023 thisabovealltothineownchungobetrue.png
