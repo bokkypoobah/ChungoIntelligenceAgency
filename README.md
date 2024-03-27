@@ -1577,15 +1577,259 @@ Feb 27 2023
 
 <kbd><img src="PoohBah/Chungos_2501x5-2400x800.png" /></kbd>
 
+
+<br />
+
+---
+
+## MetaChungo
+
+### V1S ARE THE PUNKS
+
+Aug 17 2023
+
+<kbd><img src="MetaChungo/v1sarethepunks.png" /></kbd>
+
+### MUTANTS ARE APES TOO
+
+Aug 17 2023
+
+<kbd><img src="MetaChungo/mutantsareapestoo.png" /></kbd>
+
+### I HAVE NO ONE TO TALK TO
+
+Aug 15 2023
+
+<kbd><img src="MetaChungo/ihavenoonetotalkto.png" /></kbd>
+
+### I AM LONELY
+
+Aug 14 2023
+
+<kbd><img src="MetaChungo/iamlonely.png" /></kbd>
+
+### I NEED SOMEONE TO TALK TO
+
+Aug 14 2023
+
+<kbd><img src="MetaChungo/ineedsomeonetotalkto.png" /></kbd>
+
+### I HAVE NO FRENS
+
+Aug 14 2023
+
+<kbd><img src="MetaChungo/ihavenofrens.png" /></kbd>
+
+### IT IS VERY QUIET IN HERE
+
+Aug 14 2023
+
+<kbd><img src="MetaChungo/itisveryquietinhere.png" /></kbd>
+
+### ANYBODY HOME?
+
+Aug 14 2023
+
+<kbd><img src="MetaChungo/anybodyhome.png" /></kbd>
+
+### WHERE HAVE ALL THE CHUNGOS GONE?
+
+Aug 14 2023
+
+<kbd><img src="MetaChungo/wherehaveallthechungosgone.png" /></kbd>
+
+### YOUR MUM WILL BE SO PROUD
+
+Jul 20 2023
+
+<kbd><img src="MetaChungo/yourmumwillbesoproud.png" /></kbd>
+
+### PLEASE DON'T SAY CHUNGO. PLEASE
+
+Jul 1 2023
+
+<kbd><img src="MetaChungo/pleasedontsaychungoplease.png" /></kbd>
+
+
+### HE WHO CHUNGOS LAST, CHUNGOS BEST
+
+Jun 30 2023
+
+<kbd><img src="MetaChungo/hewhochungoslastchungosbest.png" /></kbd>
+
+### I FLEW PRIVATE FROM MIAMI. LIKE I GIVE A FUCK
+
+Jun 29 2023
+
+<kbd><img src="MetaChungo/iflewprivatefrommiamilikeigiveafuck.png" /></kbd>
+
+### YOU DO NOT SELL YOUR #CHUNGOS
+
+Jun 28 2023
+
+<kbd><img src="MetaChungo/youdonotsellyourchungos.png" /></kbd>
+
+
+### CHUNGO DOESN'T GROW ON TREES
+
+Jun 26 2023
+
+<kbd><img src="MetaChungo/chungodoesntgrowontrees.png" /></kbd>
+
+### THERE ARE CHUNGOS IN MY HAIR
+
+Jun 26 2023
+
+<kbd><img src="MetaChungo/therearechungosinmyhair.png" /></kbd>
+
+### NOT IN MY CHUNGOING BACKYARD
+
+Jun 26 2023
+
+<kbd><img src="MetaChungo/notinmychungoingbackyard.png" /></kbd>
+
+### WEB3 API KEYS ARE NOT VERY CHUNGO
+
+Jun 26 2023
+
+<kbd><img src="MetaChungo/web3apikeysarenotverychungo.png" /></kbd>
+
+### JUST WIPED MY CHUNGO
+
+Jun 26 2023
+
+<kbd><img src="MetaChungo/justwipedmychungo.png" /></kbd>
+
+### IF YOU HAVE NOTHING NICE TO CHUNGO,
+
+Jun 26 2023
+
+<kbd><img src="MetaChungo/ifyouhavenothingnicetochungo.png" /></kbd>
+
+
 ## Notes
 
 ```
 
 ###
 
-Feb 27 2023
+Jun 26 2023
 
-<kbd><img src="PoohBah/.png" /></kbd>
+<kbd><img src="MetaChungo/.png" /></kbd>
 
+
+-rw-r--r--@   1 bok  staff  172751 Jun 25  2023 pleasedontpokemychungo.png
+-rw-r--r--@   1 bok  staff  171970 Jun 24  2023 everychungohashisday.png
+-rw-r--r--@   1 bok  staff  176373 Jun 16  2023 playlongtermchungoswithlongtermchungos.png
+-rw-r--r--@   1 bok  staff  185016 Jun 16  2023 chiefchungohowmuchforchungo1.png
+-rw-r--r--@   1 bok  staff  146420 Jun 15  2023 gmgmx2y2.png
+-rw-r--r--@   1 bok  staff  171692 Jun 14  2023 wakemeupbeforeyouchungo.png
+-rw-r--r--@   1 bok  staff  184409 Jun 14  2023 butgrandmotherwhatbigchungosyouhave.png
+-rw-r--r--@   1 bok  staff  172672 Jun 14  2023 bebarkingupthewrongchungo.png
+-rw-r--r--@   1 bok  staff  166199 Jun 14  2023 thelongandwindingchungo.png
+-rw-r--r--@   1 bok  staff  170070 Jun 14  2023 heaintheavyhesmychungo.png
+-rw-r--r--@   1 bok  staff  170707 Jun 14  2023 straightfromthehorseschungo.png
+-rw-r--r--@   1 bok  staff  168899 Jun 14  2023 ifyoupaypeanutsyougetchungos.png
+-rw-r--r--@   1 bok  staff  182967 Jun 11  2023 chungoswakeupintheearlymorning.png
+-rw-r--r--@   1 bok  staff  161680 Jun 10  2023 whenthechungogetstoughthechungogetsgoing.png
+-rw-r--r--@   1 bok  staff  179498 Jun 10  2023 absencemakesthechungogrowlonger.png
+-rw-r--r--@   1 bok  staff  173710 Jun 10  2023 dontthrowchungosatglasshouses.png
+-rw-r--r--@   1 bok  staff  176379 Jun  9  2023 nousecryingoverspilledchungo.png
+-rw-r--r--@   1 bok  staff  169913 Jun  9  2023 dontbitethechungothatfeedsyou.png
+-rw-r--r--@   1 bok  staff  164163 Jun  9  2023 thechungosaresour.png
+-rw-r--r--@   1 bok  staff  172115 Jun  9  2023 thereisachungoinmysoup.png
+-rw-r--r--@   1 bok  staff  169482 Jun  4  2023 dontworrychungocurry.png
+-rw-r--r--@   1 bok  staff  165527 May 30  2023 respectmywang.png
+-rw-r--r--@   1 bok  staff  171370 May 25  2023 everyoneshouldcopypastethat.png
+-rw-r--r--@   1 bok  staff  168774 May 25  2023 earlychungovibesfr.png
+-rw-r--r--@   1 bok  staff  154172 May 25  2023 imaprofessional.png
+-rw-r--r--@   1 bok  staff  169437 May 23  2023 seenochungohearnochungospeaknochungo.png
+-rw-r--r--@   1 bok  staff  164311 Apr 12  2023 psadontjustsignanything.png
+-rw-r--r--@   1 bok  staff  174295 Apr 12  2023 notescammerschatamongstthemselves.png
+-rw-r--r--@   1 bok  staff  173689 Apr 12  2023 warningp2egameinstallsarerisky.png
+-rw-r--r--@   1 bok  staff  181337 Apr 12  2023 becarefulscammerswantyourchungos.png
+-rw-r--r--@   1 bok  staff  176489 Apr 12  2023 putyourmoneywhereyourchungois.png
+-rw-r--r--@   1 bok  staff  175211 Apr 12  2023 putyourchungowhereyourmouthis.png
+-rw-r--r--@   1 bok  staff  175439 Apr  4  2023 sellingnakamigostobuybitcoinchungos.png
+-rw-r--r--@   1 bok  staff  175106 Mar 25  2023 iwouldkillforachungolikethis.png
+-rw-r--r--@   1 bok  staff  170000 Mar 24  2023 sellingchungostobuybitcoinchungos.png
+-rw-r--r--@   1 bok  staff  165609 Mar 24  2023 sellingethnftstobuybitcoinchungos.png
+-rw-r--r--@   1 bok  staff  147951 Mar 22  2023 chungoognuhc.png
+-rw-r--r--@   1 bok  staff  170426 Mar 20  2023 wencheaperchungos.png
+-rw-r--r--@   1 bok  staff  149650 Mar 20  2023 1chungo1ounce.png
+-rw-r--r--@   1 bok  staff  157322 Mar 20  2023 1chungo2ounces.png
+-rw-r--r--@   1 bok  staff  158256 Mar 20  2023 1chungo3ounces.png
+-rw-r--r--@   1 bok  staff  156338 Mar 20  2023 1chungo4ounces.png
+-rw-r--r--@   1 bok  staff  165260 Mar  7  2023 illonlysweepata1ethfloor.png
+-rw-r--r--@   1 bok  staff  162729 Mar  7  2023 ihatesweepingwencheap.png
+-rw-r--r--@   1 bok  staff  184702 Mar  3  2023 devpromisechungo3dformetaverses.png
+-rw-r--r--@   1 bok  staff  182046 Mar  3  2023 wen3dchungoformetaverses.png
+-rw-r--r--@   1 bok  staff  173985 Mar  3  2023 1chungo0069etheriums.png
+-rw-r--r--@   1 bok  staff  168206 Mar  1  2023 sellingmychungoforchungo.png
+-rw-r--r--@   1 bok  staff  172248 Mar  1  2023 fucktheblurfarmingchungos.png
+-rw-r--r--@   1 bok  staff  170871 Mar  1  2023 sellingmymutantchungoforchungo.png
+-rw-r--r--@   1 bok  staff  174598 Mar  1  2023 sellingmycryptopunkforchungo.png
+-rw-r--r--@   1 bok  staff  184554 Mar  1  2023 sellingmyazukikodaforchungo.png
+-rw-r--r--@   1 bok  staff  169161 Feb 28  2023 1chungo013etheriums.png
+-rw-r--r--@   1 bok  staff  169727 Feb 27  2023 1chungo00888etheriums.png
+-rw-r--r--@   1 bok  staff  169461 Feb 27  2023 1chungo006etheriums.png
+-rw-r--r--@   1 bok  staff  164247 Feb 27  2023 1chungo5etheriums.png
+-rw-r--r--@   1 bok  staff  154193 Feb 26  2023 1chungo007eth.png
+-rw-r--r--@   1 bok  staff  175826 Feb 26  2023 ishowedyourmommychungo.png
+-rw-r--r--@   1 bok  staff  168062 Feb 26  2023 yourmomlikesmychungo.png
+-rw-r--r--@   1 bok  staff  160312 Feb 26  2023 1chungo0065eth.png
+-rw-r--r--@   1 bok  staff  156880 Feb 26  2023 1chungo006eth.png
+-rw-r--r--@   1 bok  staff  163320 Feb 26  2023 doyoulikemychungo.png
+-rw-r--r--@   1 bok  staff  161798 Feb 26  2023 imgettinghighonchungos.png
+-rw-r--r--@   1 bok  staff  163175 Feb 26  2023 mymomlikesmychungo.png
+-rw-r--r--@   1 bok  staff  171624 Feb 26  2023 ishowedmymommychungo.png
+-rw-r--r--@   1 bok  staff  182686 Feb 26  2023 everychungosmomneedsachungo.png
+-rw-r--r--@   1 bok  staff  167342 Feb 26  2023 sellmesomecheapchungos.png
+-rw-r--r--@   1 bok  staff  154280 Feb 25  2023 1chungo004eth.png
+-rw-r--r--@   1 bok  staff  170719 Feb 25  2023 whogivesachungo.png
+-rw-r--r--@   1 bok  staff  179027 Feb 25  2023 whoistalkingshitaboutchungos.png
+-rw-r--r--@   1 bok  staff  166029 Feb 25  2023 theroyalfamilyethisback.png
+-rw-r--r--@   1 bok  staff  143523 Feb 25  2023 pinkonpinkonpink.png
+-rw-r--r--@   1 bok  staff  147725 Feb 25  2023 redonredsheesh.png
+-rw-r--r--@   1 bok  staff  154557 Feb 25  2023 bigceaserfan.png
+-rw-r--r--@   1 bok  staff  159196 Feb 25  2023 orrrrfroghatissick.png
+-rw-r--r--@   1 bok  staff  156392 Feb 25  2023 fursareconfy.png
+-rw-r--r--@   1 bok  staff  157337 Feb 25  2023 pinkfurissosweet.png
+-rw-r--r--@   1 bok  staff  169571 Feb 25  2023 cheaprobosgettingsniped.png
+-rw-r--r--@   1 bok  staff  149583 Feb 25  2023 finallygotatattoo.png
+-rw-r--r--@   1 bok  staff  173119 Feb 25  2023 nicechungo4salenicechungo4sale.png
+-rw-r--r--@   1 bok  staff  147813 Feb 25  2023 blursucks.png
+-rw-r--r--@   1 bok  staff  155156 Feb 25  2023 openseasucks.png
+-rw-r--r--@   1 bok  staff  142883 Feb 25  2023 bluristhebest.png
+-rw-r--r--@   1 bok  staff  151676 Feb 25  2023 openseaisthebest.png
+-rw-r--r--@   1 bok  staff  165289 Feb 25  2023 donotuseemojisinthisdiscord.png
+-rw-r--r--@   1 bok  staff  166486 Feb 25  2023 notshamefultoundercutfloor.png
+-rw-r--r--@   1 bok  staff  166858 Feb 25  2023 chungomechungoyouahhaa.png
+-rw-r--r--@   1 bok  staff  169640 Feb 25  2023 welcometotherepublicofchungo.png
+-rw-r--r--@   1 bok  staff  153265 Feb 25  2023 chungofever.png
+-rw-r--r--@   1 bok  staff  158510 Feb 25  2023 cheapaschungos.png
+-rw-r--r--@   1 bok  staff  175826 Feb 25  2023 wokeupandchosechungos.png
+-rw-r--r--@   1 bok  staff  172723 Feb 25  2023 therewaschungointheairthatnight.png
+-rw-r--r--@   1 bok  staff  157898 Feb 25  2023 chungoseechungodo.png
+-rw-r--r--@   1 bok  staff  164681 Feb 25  2023 wearethechungos.png
+-rw-r--r--@   1 bok  staff  152041 Feb 25  2023 1chungo10eth.png
+-rw-r--r--@   1 bok  staff  148242 Feb 25  2023 1chungo1eth.png
+-rw-r--r--@   1 bok  staff  155875 Feb 25  2023 1chungo050eth.png
+-rw-r--r--@   1 bok  staff  155383 Feb 25  2023 1chungo020eth.png
+-rw-r--r--@   1 bok  staff  152537 Feb 25  2023 1chungo010eth.png
+-rw-r--r--@   1 bok  staff  155889 Feb 25  2023 1chungo005eth.png
+-rw-r--r--@   1 bok  staff  166463 Feb 25  2023 notshamefultosellchungos.png
+-rw-r--r--@   1 bok  staff  151570 Feb 25  2023 1chungo1chungo.png
+-rw-r--r--@   1 bok  staff  160487 Feb 25  2023 imsmokingchungo.png
+-rw-r--r--@   1 bok  staff  168469 Feb 25  2023 chungowillriseagain.png
+-rw-r--r--@   1 bok  staff  164190 Feb 24  2023 yeswecanchungo.png
+-rw-r--r--@   1 bok  staff  170118 Feb 24  2023 chungosoftheworldunite.png
+-rw-r--r--@   1 bok  staff  164124 Feb 24  2023 wearechungos.png
+-rw-r--r--@   1 bok  staff  160311 Feb 24  2023 savethechungos.png
+-rw-r--r--@   1 bok  staff  152807 Feb 24  2023 nochungonocry.png
+-rw-r--r--@   1 bok  staff  165771 Feb 24  2023 makechungogreatagain.png
+-rw-r--r--@   1 bok  staff  157067 Feb 24  2023 chungopower.png
+-rw-r--r--@   1 bok  staff  154062 Feb 24  2023 seizethechungo.png
+-rw-r--r--@   1 bok  staff  107222 Feb 24  2023 Chungos_1917x5-2400x800.png
 
 ```
