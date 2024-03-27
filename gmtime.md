@@ -91,23 +91,98 @@ Jul 8 2023
 
 <kbd><img src="gmtime/seformótremendoarrozconchungo.png" /></kbd>
 
+
+### ATT GLIDA CHUNGO IN PÅ EN RÄKMACKA
+
+SLIDING CHUNGO INTO A SHRIMP SANDWICH (Swedish)
+
+Jul 6 2023
+
+<kbd><img src="gmtime/attglidachungoinpåenräkmacka.png" /></kbd>
+
+
+### NIE MÓJ MAŁP. NIE MOJE CHUNGOS
+
+NOT MY MONKEY. NOT MY CHUNGOS (Polish)
+
+Jul 6 2023
+
+<kbd><img src="gmtime/niemójmałpniemojechungos.png" /></kbd>
+
+
+### DET ER UGLE CHUNGOS I MOSEN
+
+THERE ARE OWL CHUNGOS IN THE MARSH (Norwegian)
+
+Jul 6 2023
+
+<kbd><img src="gmtime/deteruglechungosimosen.png" /></kbd>
+
+
+### IETS VOOR EEN CHUNGO EN EEN EI KOPEN
+
+BUY SOMETHING FOR A CHUNGO AND AN EGG (Dutch)
+
+Jul 5 2023
+
+<kbd><img src="gmtime/ietsvooreenchungoeneeneikopen.png" /></kbd>
+
+
+### SŁOŃ NASTĄPIŁ CI NA CHUNGO?
+
+ELEPHANT STEPPED ON YOUR CHUNGO? (Polish)
+
+Jul 5 2023
+
+<kbd><img src="gmtime/słońnastąpiłcinachungo.png" /></kbd>
+
+
+### QUEM NÃO TEM CÃO CAÇA COM CHUNGO
+
+WHO DOESN'T HAVE A DOG HUNTS WITH CHUNGO (Portuguese)
+
+Jul 5 2023
+
+<kbd><img src="gmtime/quemnãotemcãocaçacomchungo.png" /></kbd>
+
+
+### J’AI D’AUTRES CHUNGOS À FOUETTER
+
+I HAVE OTHER CHUNGOS TO WHIP (French)
+
+Jul 5 2023
+
+<kbd><img src="gmtime/jaidautreschungosàfouetter.png" /></kbd>
+
+
+### AVOIR LES CHUNGOS ENTRE DEUX CHAISES
+
+HAVE THE CHUNGOS BETWEEN TWO CHAIRS (French)
+
+Jul 5 2023
+
+<kbd><img src="gmtime/avoirleschungosentredeuxchaises.png" /></kbd>
+
+
+### ALSOF ER EEN ENGELTJE OVER JE CHUNGO PIEST
+
+LIKE AN ANGEL PEES ON YOUR CHUNGO (Dutch)
+
+Jul 5 2023
+
+<kbd><img src="gmtime/alsofereenengeltjeoverjechungopiest.png" /></kbd>
+
+
 ```
+
 
 ###
 
-Jul 8 2023
+Jul 5 2023
 
 <kbd><img src="gmtime/.png" /></kbd>
 
--rw-r--r--@  1 bok  staff  140580 Jul  6  2023 attglidachungoinpåenräkmacka.png
--rw-r--r--@  1 bok  staff  134600 Jul  6  2023 niemójmałpniemojechungos.png
--rw-r--r--@  1 bok  staff  130364 Jul  6  2023 deteruglechungosimosen.png
--rw-r--r--@  1 bok  staff  133906 Jul  5  2023 ietsvooreenchungoeneeneikopen.png
--rw-r--r--@  1 bok  staff  139057 Jul  5  2023 słońnastąpiłcinachungo.png
--rw-r--r--@  1 bok  staff  143317 Jul  5  2023 quemnãotemcãocaçacomchungo.png
--rw-r--r--@  1 bok  staff  137736 Jul  5  2023 jaidautreschungosàfouetter.png
--rw-r--r--@  1 bok  staff  145414 Jul  5  2023 avoirleschungosentredeuxchaises.png
--rw-r--r--@  1 bok  staff  139853 Jul  5  2023 alsofereenengeltjeoverjechungopiest.png
+
 -rw-r--r--@  1 bok  staff  134476 Jun 29  2023 niemójcyrkniemojechungo.png
 -rw-r--r--@  1 bok  staff  124754 Jun 29  2023 leschungossontcuites.png
 -rw-r--r--@  1 bok  staff  146874 Jun 29  2023 tenhomacaquinhosnachungocabeça.png
