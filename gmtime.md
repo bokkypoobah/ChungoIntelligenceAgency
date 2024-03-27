@@ -73,16 +73,32 @@ Jul 12 2023
 
 <kbd><img src="gmtime/wezullenzeeenseenchungolatenruiken.png" /></kbd>
 
+
+### VOU TIRAR MEU CAVALINHO DA CHUNGO
+
+I'M GOING TO TAKE MY HORSE OUT OF CHUNGO (Portuguese)
+
+Jul 8 2023
+
+<kbd><img src="gmtime/voutirarmeucavalinhodachungo.png" /></kbd>
+
+
+### ¡SE FORMÓ TREMENDO ARROZ CON CHUNGO!
+
+TREMENDOUS RICE WAS FORMED WITH CHUNGO! (Spanish)
+
+Jul 8 2023
+
+<kbd><img src="gmtime/seformótremendoarrozconchungo.png" /></kbd>
+
 ```
 
 ###
 
-Jul 20 2023
+Jul 8 2023
 
 <kbd><img src="gmtime/.png" /></kbd>
 
--rw-r--r--@  1 bok  staff  138014 Jul  8  2023 voutirarmeucavalinhodachungo.png
--rw-r--r--@  1 bok  staff  140954 Jul  8  2023 seformótremendoarrozconchungo.png
 -rw-r--r--@  1 bok  staff  140580 Jul  6  2023 attglidachungoinpåenräkmacka.png
 -rw-r--r--@  1 bok  staff  134600 Jul  6  2023 niemójmałpniemojechungos.png
 -rw-r--r--@  1 bok  staff  130364 Jul  6  2023 deteruglechungosimosen.png
