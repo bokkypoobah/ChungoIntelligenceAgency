@@ -91,6 +91,66 @@ Jun 17 2023
 
 <kbd><img src="PudgyChungos/anotherdayanotherchungo.png" /></kbd>
 
+### WEN CHUNGO SHOW SEASON 1?
+
+May 22 2023
+
+<kbd><img src="PudgyChungos/wenchungoshowseason1.png" /></kbd>
+
+### WEN CHUNGO DAO?
+
+May 13 2023
+
+<kbd><img src="PudgyChungos/wenchungodao.png" /></kbd>
+
+### CHIEFCHUNGO'S DAD HAS 2 MILLION CHUNGOS
+
+May 12 2023
+
+<kbd><img src="PudgyChungos/chiefchungosdadhas2millionchungos.png" /></kbd>
+
+### WEN CHUNGOGPT MARKETPLACE?
+
+May 10 2023
+
+<kbd><img src="PudgyChungos/wenchungogptmarketplace.png" /></kbd>
+
+### 2M CHUNGOS STOLEN FROM AIRPORT WAREHOUSE
+
+Apr 22 2023
+
+<kbd><img src="PudgyChungos/2mchungosstolenfromairportwarehouse.png" /></kbd>
+
+### ASK NOT WHAT YOUR CHUNGO CAN DO FOR YOU
+
+Apr 19 2023
+
+<kbd><img src="PudgyChungos/asknotwhatyourchungocandoforyou.png" /></kbd>
+
+### MAKE CHUNGOS GREAT AGAIN
+
+Apr 11 2023
+
+<kbd><img src="PudgyChungos/makechungosgreatagain.png" /></kbd>
+
+### WEN NAKAMIGOS FLIP CHUNGOS?
+
+Apr 4 2023
+
+<kbd><img src="PudgyChungos/wennakamigosflipchungos.png" /></kbd>
+
+### WEN CHUNGO DRAMA SEASON 1?
+
+Apr 2 2023
+
+<kbd><img src="PudgyChungos/wenchungodramaseason1.png" /></kbd>
+
+### WEN CHUNGO PROTOCOL?
+
+Mar 31 2023
+
+<kbd><img src="PudgyChungos/wenchungoprotocol.png" /></kbd>
+
 ```
 
 ###
@@ -99,16 +159,6 @@ Jun 17 2023
 
 <kbd><img src="PudgyChungos/.png" /></kbd>
 
--rw-r--r--@  1 bok  staff  143416 May 22  2023 wenchungoshowseason1.png
--rw-r--r--@  1 bok  staff  129614 May 13  2023 wenchungodao.png
--rw-r--r--@  1 bok  staff  145799 May 12  2023 chiefchungosdadhas2millionchungos.png
--rw-r--r--@  1 bok  staff  142459 May 10  2023 wenchungogptmarketplace.png
--rw-r--r--@  1 bok  staff  149129 Apr 22  2023 2mchungosstolenfromairportwarehouse.png
--rw-r--r--@  1 bok  staff  153204 Apr 19  2023 asknotwhatyourchungocandoforyou.png
--rw-r--r--@  1 bok  staff  142957 Apr 11  2023 makechungosgreatagain.png
--rw-r--r--@  1 bok  staff  151112 Apr  4  2023 wennakamigosflipchungos.png
--rw-r--r--@  1 bok  staff  150853 Apr  2  2023 wenchungodramaseason1.png
--rw-r--r--@  1 bok  staff  135804 Mar 31  2023 wenchungoprotocol.png
 -rw-r--r--@  1 bok  staff  148540 Mar 28  2023 wenchungobodytemplates.png
 -rw-r--r--@  1 bok  staff  136506 Mar 28  2023 wenchungosocks.png
 -rw-r--r--@  1 bok  staff  151258 Mar 27  2023 wenchungoboardgames.png
