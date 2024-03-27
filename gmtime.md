@@ -173,20 +173,53 @@ Jul 5 2023
 <kbd><img src="gmtime/alsofereenengeltjeoverjechungopiest.png" /></kbd>
 
 
+### NIE MÓJ CYRK. NIE MOJE CHUNGO
+
+NOT MY CIRCUS. NOT MY CHUNGO (Polish)
+
+Jun 29 2023
+
+<kbd><img src="gmtime/niemójcyrkniemojechungo.png" /></kbd>
+
+
+### LES CHUNGOS SONT CUITES
+
+THE CHUNGOS ARE COOKED (French)
+
+Jun 29 2023
+
+<kbd><img src="gmtime/leschungossontcuites.png" /></kbd>
+
+
+### TENHO MACAQUINHOS NA CHUNGO CABEÇA
+
+I HAVE MONKEYS ON MY CHUNGO HEAD (Portuguese)
+
+Jun 29 2023
+
+<kbd><img src="gmtime/tenhomacaquinhosnachungocabeça.png" /></kbd>
+
+
+### TIRAR MEU CHUNGO DA CHUVA
+
+GET MY CHUNGO OUT OF THE RAIN (Portuguese)
+
+Jun 29 2023
+
+<kbd><img src="gmtime/tirarmeuchungodachuva.png" /></kbd>
+
+
 ```
 
 
 ###
 
-Jul 5 2023
+Jun 29 2023
 
 <kbd><img src="gmtime/.png" /></kbd>
 
 
--rw-r--r--@  1 bok  staff  134476 Jun 29  2023 niemójcyrkniemojechungo.png
--rw-r--r--@  1 bok  staff  124754 Jun 29  2023 leschungossontcuites.png
--rw-r--r--@  1 bok  staff  146874 Jun 29  2023 tenhomacaquinhosnachungocabeça.png
--rw-r--r--@  1 bok  staff  134333 Jun 29  2023 tirarmeuchungodachuva.png
+
 -rw-r--r--@  1 bok  staff  117078 Jun 24  2023 echhunndechungo.png
 -rw-r--r--@  1 bok  staff  133369 Jun 24  2023 benyensankachechungo.png
 -rw-r--r--@  1 bok  staff  131720 Jun 24  2023 noupamanjelajanchungonoupamanjemanjebliye.png
