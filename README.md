@@ -1239,101 +1239,168 @@ Mar 26 2023
 
 <kbd><img src="PoohBah/putyourchungowhereyourchungois.png" /></kbd>
 
-###
+### PATIENCE IS A CHUNGO
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/patienceisachungo.png" /></kbd>
 
-###
+### CHUNGO IS THE BEST MEDICINE
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/chungoisthebestmedicine.png" /></kbd>
 
-###
+### WHAT’S CHUNGO IS CHUNGO
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/whatschungoischungo.png" /></kbd>
 
-###
+### FIRST CHUNGOS FIRST
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/firstchungosfirst.png" /></kbd>
 
-###
+### TOO MANY CHUNGOS SPOIL THE CHUNGO
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/toomanychungosspoilthechungo.png" /></kbd>
 
-###
+### GREAT CHUNGOS THINK CHUNGO
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/greatchungosthinkchungo.png" /></kbd>
 
-###
+### IF IT AIN'T CHUNGO, DON'T CHUNGO IT
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/ifitaintchungodontchungoit.png" /></kbd>
 
-###
+### CHUNGO HELPS THOSE WHO CHUNGO THEMSELVES
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/chungohelpsthosewhochungothemselves.png" /></kbd>
 
-###
+### BEGGARS CAN'T BE CHUNGOS
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/beggarscantbechungos.png" /></kbd>
 
-###
+### CHUNGO COME, CHUNGO GO
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/chungocomechungogo.png" /></kbd>
 
-###
+### BETTER CHUNGO THAN CHUNGO
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/betterchungothanchungo.png" /></kbd>
 
-###
+### TWO CHUNGOS DON'T MAKE A CHUNGO
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/twochungosdontmakeachungo.png" /></kbd>
 
-###
+### CHUNGOS SPEAK LOUDER THAN CHUNGOS
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/chungosspeaklouderthanchungos.png" /></kbd>
 
-###
+### HOPE FOR CHUNGO, PREPARE FOR CHUNGO
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/hopeforchungoprepareforchungo.png" /></kbd>
 
-###
+### LEAVE NO CHUNGO UNTURNED
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/leavenochungounturned.png" /></kbd>
 
-###
+### NOT MY CIRCUS, NOT MY CHUNGOS
 
 Mar 26 2023
 
 <kbd><img src="PoohBah/notmycircusnotmychungos.png" /></kbd>
+
+### I VOTED FOR CHUNGO
+
+Mar 25 2023
+
+<kbd><img src="PoohBah/ivotedforchungo.png" /></kbd>
+
+### MAKE CHUNGO WHILE THE CHUNGO SHINES
+
+Mar 24 2023
+
+<kbd><img src="PoohBah/makechungowhilethechungoshines.png" /></kbd>
+
+### SCHRÖDINGER'S BANK - DO NOT WITHDRAW
+
+Mar 24 2023
+
+<kbd><img src="PoohBah/schrödingersbankdonotwithdraw.png" /></kbd>
+
+### DON'T GET YOUR CHUNGOS IN A KNOT
+
+Mar 18 2023
+
+<kbd><img src="PoohBah/dontgetyourchungosinaknot.png" /></kbd>
+
+### GRAB THE BULL BY THE CHUNGOS
+
+Mar 18 2023
+
+<kbd><img src="PoohBah/grabthebullbythechungos.png" /></kbd>
+
+### CHUNGO ALMIGHTY
+
+Mar 1 2023
+
+<kbd><img src="PoohBah/chungoalmighty.png" /></kbd>
+
+### FOR CHUNGOS SAKE
+
+Mar 1 2023
+
+<kbd><img src="PoohBah/forchungossake.png" /></kbd>
+
+### HOLY CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="PoohBah/holychungo.png" /></kbd>
+
+### SWEET BABY CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="PoohBah/sweetbabychungo.png" /></kbd>
+
+### OH CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="PoohBah/ohchungo.png" /></kbd>
+
+### OH MY CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="PoohBah/ohmychungo.png" /></kbd>
+
 
 ## Notes
 
@@ -1341,25 +1408,13 @@ Mar 26 2023
 
 ###
 
-Mar 26 2023
+Mar 1 2023
 
 <kbd><img src="PoohBah/.png" /></kbd>
 
 
 
 
-
--rw-r--r--@   1 bok  staff  127593 Mar 25  2023 ivotedforchungo.png
--rw-r--r--@   1 bok  staff  144913 Mar 24  2023 makechungowhilethechungoshines.png
--rw-r--r--@   1 bok  staff  149408 Mar 24  2023 schrödingersbankdonotwithdraw.png
--rw-r--r--@   1 bok  staff  142582 Mar 18  2023 dontgetyourchungosinaknot.png
--rw-r--r--@   1 bok  staff  136502 Mar 18  2023 grabthebullbythechungos.png
--rw-r--r--@   1 bok  staff  125697 Mar  1  2023 chungoalmighty.png
--rw-r--r--@   1 bok  staff  130710 Mar  1  2023 forchungossake.png
--rw-r--r--@   1 bok  staff  118544 Mar  1  2023 holychungo.png
--rw-r--r--@   1 bok  staff  135753 Mar  1  2023 sweetbabychungo.png
--rw-r--r--@   1 bok  staff  115817 Mar  1  2023 ohchungo.png
--rw-r--r--@   1 bok  staff  121675 Mar  1  2023 ohmychungo.png
 -rw-r--r--@   1 bok  staff  133105 Feb 27  2023 chungothroughtheeyeofaneedle.png
 -rw-r--r--@   1 bok  staff  136617 Feb 27  2023 achungointimesavesnine.png
 -rw-r--r--@   1 bok  staff  134223 Feb 27  2023 beautyisintheeyeofthechungo.png
