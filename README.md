@@ -2333,6 +2333,59 @@ Feb 25 2023
 
 <kbd><img src="MetaChungo/chungowillriseagain.png" /></kbd>
 
+### YES WE CAN CHUNGO
+
+Feb 24 2023
+
+<kbd><img src="MetaChungo/yeswecanchungo.png" /></kbd>
+
+### CHUNGOS OF THE WORLD, UNITE!
+
+Feb 24 2023
+
+<kbd><img src="MetaChungo/chungosoftheworldunite.png" /></kbd>
+
+### WE ARE CHUNGOS
+
+Feb 24 2023
+
+<kbd><img src="MetaChungo/wearechungos.png" /></kbd>
+
+### SAVE THE CHUNGOS
+
+Feb 24 2023
+
+<kbd><img src="MetaChungo/savethechungos.png" /></kbd>
+
+### NO CHUNGO NO CRY
+
+Feb 24 2023
+
+<kbd><img src="MetaChungo/nochungonocry.png" /></kbd>
+
+### MAKE CHUNGO GREAT AGAIN
+
+Feb 24 2023
+
+<kbd><img src="MetaChungo/makechungogreatagain.png" /></kbd>
+
+### CHUNGO POWER
+
+Feb 24 2023
+
+<kbd><img src="MetaChungo/chungopower.png" /></kbd>
+
+### SEIZE THE CHUNGO
+
+Feb 24 2023
+
+<kbd><img src="MetaChungo/seizethechungo.png" /></kbd>
+
+### Chungos_1917x5-2400x800.png Blank
+
+Feb 24 2023
+
+<kbd><img src="MetaChungo/Chungos_1917x5-2400x800.png" /></kbd>
 
 ## Notes
 
@@ -2340,20 +2393,11 @@ Feb 25 2023
 
 ###
 
-Feb 25 2023
+Feb 24 2023
 
 <kbd><img src="MetaChungo/.png" /></kbd>
 
 
 
--rw-r--r--@   1 bok  staff  164190 Feb 24  2023 yeswecanchungo.png
--rw-r--r--@   1 bok  staff  170118 Feb 24  2023 chungosoftheworldunite.png
--rw-r--r--@   1 bok  staff  164124 Feb 24  2023 wearechungos.png
--rw-r--r--@   1 bok  staff  160311 Feb 24  2023 savethechungos.png
--rw-r--r--@   1 bok  staff  152807 Feb 24  2023 nochungonocry.png
--rw-r--r--@   1 bok  staff  165771 Feb 24  2023 makechungogreatagain.png
--rw-r--r--@   1 bok  staff  157067 Feb 24  2023 chungopower.png
--rw-r--r--@   1 bok  staff  154062 Feb 24  2023 seizethechungo.png
--rw-r--r--@   1 bok  staff  107222 Feb 24  2023 Chungos_1917x5-2400x800.png
 
 ```
