@@ -48,40 +48,165 @@ Apr 28 2023
 
 <kbd><img src="0xMasterChef/chungolikeakingnotaclown.png" /></kbd>
 
+### CHUNGO SATIVA
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungosativa.png" /></kbd>
+
+### GRANDADDY CHUNGO PURP
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/grandaddychungopurp.png" /></kbd>
+
+### CHUNGO EXPRESS
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungoexpress.png" /></kbd>
+
+### BANANA CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/bananachungo.png" /></kbd>
+
+### SUPER CHUNGO HAZE
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/superchungohaze.png" /></kbd>
+
+### CHUNGO KUSH
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungokush.png" /></kbd>
+
+### SOUR CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/sourchungo.png" /></kbd>
+
+### CHUNGO POISON
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungopoison.png" /></kbd>
+
+### CHUNGO GLUE
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungoglue.png" /></kbd>
+
+### ICE CHUNGO CAKE
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/icechungocake.png" /></kbd>
+
+### CHUNGODAWG
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungodawg.png" /></kbd>
+
+### GIRL SCOUT CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/girlscoutchungo.png" /></kbd>
+
+### CHUNGO INDICA
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungoindica.png" /></kbd>
+
+### LONG ISLAND ICED CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/longislandicedchungo.png" /></kbd>
+
+### VODKA CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/vodkachungo.png" /></kbd>
+
+### CHUNGO MARGARITA
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungomargarita.png" /></kbd>
+
+### CHUNGO COLA
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungocola.png" /></kbd>
+
+### CHUNGO WINE
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungowine.png" /></kbd>
+
+### CHUNGO WHISKEY
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungowhiskey.png" /></kbd>
+
+### CHUNGO RUM
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungorum.png" /></kbd>
+
+### BLOODY CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/bloodychungo.png" /></kbd>
+
+### CHUNGO SOUR
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungosour.png" /></kbd>
+
+### DRY CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/drychungo.png" /></kbd>
+
+### CHUNGO DAIQUIRI
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/chungodaiquiri.png" /></kbd>
+
+### NEGRONI CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="0xMasterChef/negronichungo.png" /></kbd>
+
 ```
 
 ###
 
-Apr 28 2023
+Mar 1 2023
 
 <kbd><img src="0xMasterChef/.png" /></kbd>
 
 
--rw-r--r--   1 bok  staff  114497 Mar  1  2023 chungosativa.png
--rw-r--r--   1 bok  staff  119607 Mar  1  2023 grandaddychungopurp.png
--rw-r--r--   1 bok  staff  116648 Mar  1  2023 chungoexpress.png
--rw-r--r--   1 bok  staff  109230 Mar  1  2023 bananachungo.png
--rw-r--r--   1 bok  staff  118359 Mar  1  2023 superchungohaze.png
--rw-r--r--   1 bok  staff  109724 Mar  1  2023 chungokush.png
--rw-r--r--   1 bok  staff  109899 Mar  1  2023 sourchungo.png
--rw-r--r--   1 bok  staff  109424 Mar  1  2023 chungopoison.png
--rw-r--r--   1 bok  staff  102621 Mar  1  2023 chungoglue.png
--rw-r--r--   1 bok  staff  109885 Mar  1  2023 icechungocake.png
--rw-r--r--   1 bok  staff  113986 Mar  1  2023 chungodawg.png
--rw-r--r--   1 bok  staff  113261 Mar  1  2023 girlscoutchungo.png
--rw-r--r--@  1 bok  staff  108744 Mar  1  2023 chungoindica.png
--rw-r--r--@  1 bok  staff  121695 Mar  1  2023 longislandicedchungo.png
--rw-r--r--@  1 bok  staff  114404 Mar  1  2023 vodkachungo.png
--rw-r--r--@  1 bok  staff  115123 Mar  1  2023 chungomargarita.png
--rw-r--r--@  1 bok  staff  106304 Mar  1  2023 chungocola.png
--rw-r--r--@  1 bok  staff  108711 Mar  1  2023 chungowine.png
--rw-r--r--@  1 bok  staff  118685 Mar  1  2023 chungowhiskey.png
--rw-r--r--@  1 bok  staff  108025 Mar  1  2023 chungorum.png
--rw-r--r--@  1 bok  staff  110306 Mar  1  2023 bloodychungo.png
--rw-r--r--@  1 bok  staff  109730 Mar  1  2023 chungosour.png
--rw-r--r--@  1 bok  staff  109680 Mar  1  2023 drychungo.png
--rw-r--r--@  1 bok  staff  116349 Mar  1  2023 chungodaiquiri.png
--rw-r--r--@  1 bok  staff  106496 Mar  1  2023 negronichungo.png
 -rw-r--r--@  1 bok  staff  119526 Feb 26  2023 chocchungotiramisu.png
 -rw-r--r--@  1 bok  staff  137871 Feb 26  2023 roastchungowithchargrilledchungo.png
 -rw-r--r--@  1 bok  staff  118919 Feb 26  2023 ithinkiamgoingtochungo.png
