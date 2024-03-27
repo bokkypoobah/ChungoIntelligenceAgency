@@ -253,52 +253,236 @@ Mar 4 2023
 
 <kbd><img src="PudgyChungos/nextchungoupwillbemassive.png" /></kbd>
 
+###
 
+Feb 28 2023
 
-```
+<kbd><img src="PudgyChungos/.png" /></kbd>
+-rw-r--r--@  1 bok  staff  150716 Feb 28  2023 notevenyourdogwantedthemat006.png
 
 ###
 
-Mar 28 2023
+Feb 26 2023
 
 <kbd><img src="PudgyChungos/.png" /></kbd>
-
-
--rw-r--r--@  1 bok  staff  150716 Feb 28  2023 notevenyourdogwantedthemat006.png
 -rw-r--r--@  1 bok  staff  132630 Feb 26  2023 stolenchungosonfloor.png
+
+###
+
+Feb 26 2023
+
+<kbd><img src="PudgyChungos/.png" /></kbd>
 -rw-r--r--@  1 bok  staff  131660 Feb 26  2023 mychungoistingling.png
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/.png" /></kbd>
 -rw-r--r--@  1 bok  staff  124497 Feb 25  2023 touchmychungo.png
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/.png" /></kbd>
 -rw-r--r--@  1 bok  staff  138025 Feb 25  2023 ihaventbeenoutsidein2months.png
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/.png" /></kbd>
 -rw-r--r--@  1 bok  staff  107855 Feb 25  2023 hodlhodlhodl.png
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/.png" /></kbd>
 -rw-r--r--@  1 bok  staff  106866 Feb 25  2023 buybuybuy.png
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/.png" /></kbd>
 -rw-r--r--@  1 bok  staff  105042 Feb 25  2023 sellsellsell.png
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/.png" /></kbd>
 -rw-r--r--@  1 bok  staff  143550 Feb 25  2023 wenfastfoodchungos.png
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/.png" /></kbd>
 -rw-r--r--@  1 bok  staff  130367 Feb 25  2023 kissmychungo.png
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/.png" /></kbd>
 -rw-r--r--@  1 bok  staff  132129 Feb 25  2023 buymoarchungo.png
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/.png" /></kbd>
 -rw-r--r--@  1 bok  staff  132541 Feb 25  2023 bésamechungo.png
--rw-r--r--@  1 bok  staff  143191 Feb 25  2023 ooohtheresaregulatorinthisdiscord.png
--rw-r--r--@  1 bok  staff  149495 Feb 25  2023 notfinancialadviceofcoursealways.png
--rw-r--r--@  1 bok  staff  132668 Feb 25  2023 andforthatreasonimout.png
--rw-r--r--@  1 bok  staff  129371 Feb 25  2023 whocutthechungo.png
--rw-r--r--@  1 bok  staff  137489 Feb 25  2023 wenchungochads.png
--rw-r--r--@  1 bok  staff  138613 Feb 24  2023 chungossavedmylife.png
--rw-r--r--@  1 bok  staff  128632 Feb 24  2023 freemintweupinfinitepercent.png
--rw-r--r--@  1 bok  staff  140743 Feb 24  2023 wenchungordinals.png
--rw-r--r--@  1 bok  staff  138488 Feb 24  2023 wenchungosserum.png
--rw-r--r--@  1 bok  staff  138493 Feb 24  2023 wenmutantchungos.png
--rw-r--r--@  1 bok  staff  138331 Feb 24  2023 wenpudgychungos.png
--rw-r--r--@  1 bok  staff  148263 Feb 24  2023 chiefchungosdadwillbeproud.png
--rw-r--r--@  1 bok  staff  135999 Feb 24  2023 imcallingitthebottomisin.png
--rw-r--r--@  1 bok  staff  132319 Feb 24  2023 mustbevitalikbuyingin.png
--rw-r--r--@  1 bok  staff  155609 Feb 24  2023 chiefknowsvitalikiheardchungo.png
--rw-r--r--@  1 bok  staff  131681 Feb 24  2023 paydayin3hours.png
--rw-r--r--@  1 bok  staff  132688 Feb 24  2023 chiefisvitalikhejustdmme.png
--rw-r--r--@  1 bok  staff  141715 Feb 24  2023 hahabrocheckvitalikswallet.png
--rw-r--r--@  1 bok  staff  142588 Feb 24  2023 vitalikownsachungo.png
--rw-r--r--@  1 bok  staff  137709 Feb 24  2023 vitalikdidntkillhischungo.png
--rw-r--r--@  1 bok  staff  146079 Feb 24  2023 didvitalikreallyburnachungo.png
--rw-r--r--@  1 bok  staff  137969 Feb 24  2023 whosentittovitalikagain.png
--rw-r--r--@  1 bok  staff  142659 Feb 24  2023 chiefchungoissecretlyvitalik.png
--rw-r--r--@  1 bok  staff  146293 Feb 24  2023 whosfadingthechungos.png
--rw-r--r--@  1 bok  staff   80357 Feb 24  2023 Chungos_6201x5-2400x800.png
-```
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/ooohtheresaregulatorinthisdiscord.png" /></kbd>
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/notfinancialadviceofcoursealways.png" /></kbd>
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/andforthatreasonimout.png" /></kbd>
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/whocutthechungo.png" /></kbd>
+
+###
+
+Feb 25 2023
+
+<kbd><img src="PudgyChungos/wenchungochads.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/chungossavedmylife.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/freemintweupinfinitepercent.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/wenchungordinals.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/wenchungosserum.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/wenmutantchungos.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/wenpudgychungos.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/chiefchungosdadwillbeproud.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/imcallingitthebottomisin.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/mustbevitalikbuyingin.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/chiefknowsvitalikiheardchungo.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/paydayin3hours.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/chiefisvitalikhejustdmme.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/hahabrocheckvitalikswallet.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/vitalikownsachungo.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/vitalikdidntkillhischungo.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/didvitalikreallyburnachungo.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/whosentittovitalikagain.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/chiefchungoissecretlyvitalik.png" /></kbd>
+
+###
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/whosfadingthechungos.png" /></kbd>
+
+### Chungos_6201x5-2400x800 Blank
+
+Feb 24 2023
+
+<kbd><img src="PudgyChungos/Chungos_6201x5-2400x800.png" /></kbd>
