@@ -1706,6 +1706,37 @@ Jun 26 2023
 
 <kbd><img src="MetaChungo/ifyouhavenothingnicetochungo.png" /></kbd>
 
+### PLEASE DON'T POKE MY CHUNGO
+
+Jun 25 2023
+
+<kbd><img src="MetaChungo/pleasedontpokemychungo.png" /></kbd>
+
+### EVERY CHUNGO HAS HIS DAY
+
+Jun 24 2023
+
+<kbd><img src="MetaChungo/everychungohashisday.png" /></kbd>
+
+### PLAY LONG-TERM CHUNGOS WITH LONG-TERM CHUNGOS
+
+Jun 16 2023
+
+<kbd><img src="MetaChungo/playlongtermchungoswithlongtermchungos.png" /></kbd>
+
+### @CHIEF CHUNGO HOW MUCH FOR CHUNGO #1?
+
+Jun 16 2023
+
+<kbd><img src="MetaChungo/chiefchungohowmuchforchungo1.png" /></kbd>
+
+### GM GM X2Y2
+
+Jun 15 2023
+
+<kbd><img src="MetaChungo/gmgmx2y2.png" /></kbd>
+
+
 
 ## Notes
 
@@ -1718,11 +1749,6 @@ Jun 26 2023
 <kbd><img src="MetaChungo/.png" /></kbd>
 
 
--rw-r--r--@   1 bok  staff  172751 Jun 25  2023 pleasedontpokemychungo.png
--rw-r--r--@   1 bok  staff  171970 Jun 24  2023 everychungohashisday.png
--rw-r--r--@   1 bok  staff  176373 Jun 16  2023 playlongtermchungoswithlongtermchungos.png
--rw-r--r--@   1 bok  staff  185016 Jun 16  2023 chiefchungohowmuchforchungo1.png
--rw-r--r--@   1 bok  staff  146420 Jun 15  2023 gmgmx2y2.png
 -rw-r--r--@   1 bok  staff  171692 Jun 14  2023 wakemeupbeforeyouchungo.png
 -rw-r--r--@   1 bok  staff  184409 Jun 14  2023 butgrandmotherwhatbigchungosyouhave.png
 -rw-r--r--@   1 bok  staff  172672 Jun 14  2023 bebarkingupthewrongchungo.png
