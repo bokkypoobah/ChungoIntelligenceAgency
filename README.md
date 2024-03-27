@@ -1972,6 +1972,55 @@ Mar 7 2023
 
 <kbd><img src="MetaChungo/ihatesweepingwencheap.png" /></kbd>
 
+### DEV PROMISE CHUNGO 3D FOR METAVERSES
+
+Mar 3 2023
+
+<kbd><img src="MetaChungo/devpromisechungo3dformetaverses.png" /></kbd>
+
+### WEN 3D CHUNGO FOR METAVERSES?
+
+Mar 3 2023
+
+<kbd><img src="MetaChungo/wen3dchungoformetaverses.png" /></kbd>
+
+### 1 CHUNGO = 0.069 ETHERIUMS
+
+Mar 3 2023
+
+<kbd><img src="MetaChungo/1chungo0069etheriums.png" /></kbd>
+
+
+### SELLING MY CHUNGO FOR CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="MetaChungo/sellingmychungoforchungo.png" /></kbd>
+
+### FUCK THE BLUR FARMING CHUNGOS
+
+Mar 1 2023
+
+<kbd><img src="MetaChungo/fucktheblurfarmingchungos.png" /></kbd>
+
+### SELLING MY MUTANT CHUNGO FOR CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="MetaChungo/sellingmymutantchungoforchungo.png" /></kbd>
+
+### SELLING MY CRYPTOPUNK FOR CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="MetaChungo/sellingmycryptopunkforchungo.png" /></kbd>
+
+### SELLING MY AZUKI & KODA FOR CHUNGO
+
+Mar 1 2023
+
+<kbd><img src="MetaChungo/sellingmyazukikodaforchungo.png" /></kbd>
+
 
 ## Notes
 
@@ -1979,19 +2028,11 @@ Mar 7 2023
 
 ###
 
-Mar 7 2023
+Mar 1 2023
 
 <kbd><img src="MetaChungo/.png" /></kbd>
 
 
--rw-r--r--@   1 bok  staff  184702 Mar  3  2023 devpromisechungo3dformetaverses.png
--rw-r--r--@   1 bok  staff  182046 Mar  3  2023 wen3dchungoformetaverses.png
--rw-r--r--@   1 bok  staff  173985 Mar  3  2023 1chungo0069etheriums.png
--rw-r--r--@   1 bok  staff  168206 Mar  1  2023 sellingmychungoforchungo.png
--rw-r--r--@   1 bok  staff  172248 Mar  1  2023 fucktheblurfarmingchungos.png
--rw-r--r--@   1 bok  staff  170871 Mar  1  2023 sellingmymutantchungoforchungo.png
--rw-r--r--@   1 bok  staff  174598 Mar  1  2023 sellingmycryptopunkforchungo.png
--rw-r--r--@   1 bok  staff  184554 Mar  1  2023 sellingmyazukikodaforchungo.png
 -rw-r--r--@   1 bok  staff  169161 Feb 28  2023 1chungo013etheriums.png
 -rw-r--r--@   1 bok  staff  169727 Feb 27  2023 1chungo00888etheriums.png
 -rw-r--r--@   1 bok  staff  169461 Feb 27  2023 1chungo006etheriums.png
