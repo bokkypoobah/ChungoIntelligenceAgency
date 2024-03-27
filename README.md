@@ -866,7 +866,6 @@ Jul 3 2023
 
 <kbd><img src="PoohBah/dontwaitforsomeoneelsetochungoyoufirst.png" /></kbd>
 
-
 ### THE CHUNGO IS IN YOUR COURT
 
 Jul 2 2023
@@ -879,13 +878,71 @@ May 30 2023
 
 <kbd><img src="PoohBah/thisabovealltothineownchungobetrue.png" /></kbd>
 
-
 ### A CHUNGO! A CHUNGO! MY KINGDOM FOR A CHUNGO!
 
 May 30 2023
 
 <kbd><img src="PoohBah/achungoachungomykingdomforachungo.png" /></kbd>
 
+### HAVE YOUR CHUNGO AND EAT IT
+
+May 28 2023
+
+<kbd><img src="PoohBah/haveyourchungoandeatit.png" /></kbd>
+
+### IT TAKES TWO TO CHUNGO
+
+May 26 2023
+
+<kbd><img src="PoohBah/ittakestwotochungo.png" /></kbd>
+
+### TO CHUNGO, OR NOT TO CHUNGO: THAT IS THE QUESTION
+
+May 25 2023
+
+<kbd><img src="PoohBah/tochungoornottochungothatisthequestion.png" /></kbd>
+
+### CHUNGO IS THE REASON YOU WAKE UP IN THE MORNING
+
+May 14 2023
+
+<kbd><img src="PoohBah/chungoisthereasonyouwakeupinthemorning.png" /></kbd>
+
+### DREAMS DON’T WORK UNLESS YOU CHUNGO
+
+May 27 2023
+
+<kbd><img src="PoohBah/dreamsdontworkunlessyouchungo.png" /></kbd>
+
+### NEVER MISS A GOOD CHANCE TO CHUNGO
+
+May 27 2023
+
+<kbd><img src="PoohBah/nevermissagoodchancetochungo.png" /></kbd>
+
+### ONE MAN'S CHUNGO IS ANOTHER MAN'S CHUNGO
+
+May 27 2023
+
+<kbd><img src="PoohBah/onemanschungoisanothermanschungo.png" /></kbd>
+
+### ONLY THE WISEST AND STUPIDEST NEVER CHUNGO
+
+May 27 2023
+
+<kbd><img src="PoohBah/onlythewisestandstupidestneverchungo.png" /></kbd>
+
+### A WITTY CHUNGO PROVES NOTHING
+
+May 27 2023
+
+<kbd><img src="PoohBah/awittychungoprovesnothing.png" /></kbd>
+
+### ARGUING WITH A CHUNGO PROVES THERE ARE TWO
+
+May 27 2023
+
+<kbd><img src="PoohBah/arguingwithachungoprovestherearetwo.png" /></kbd>
 
 
 ## Notes
@@ -903,18 +960,6 @@ May 30 2023
 
 
 
-
-
--rw-r--r--@   1 bok  staff  136564 May 28  2023 haveyourchungoandeatit.png
--rw-r--r--@   1 bok  staff  135602 May 26  2023 ittakestwotochungo.png
--rw-r--r--@   1 bok  staff  135895 May 25  2023 tochungoornottochungothatisthequestion.png
--rw-r--r--@   1 bok  staff  147341 May 14  2023 chungoisthereasonyouwakeupinthemorning.png
--rw-r--r--@   1 bok  staff  151362 Apr 27  2023 dreamsdontworkunlessyouchungo.png
--rw-r--r--@   1 bok  staff  145202 Apr 27  2023 nevermissagoodchancetochungo.png
--rw-r--r--@   1 bok  staff  143669 Apr 27  2023 onemanschungoisanothermanschungo.png
--rw-r--r--@   1 bok  staff  147226 Apr 27  2023 onlythewisestandstupidestneverchungo.png
--rw-r--r--@   1 bok  staff  146825 Apr 27  2023 awittychungoprovesnothing.png
--rw-r--r--@   1 bok  staff  145579 Apr 27  2023 arguingwithachungoprovestherearetwo.png
 -rw-r--r--@   1 bok  staff  139745 Apr 20  2023 pushingchungouphillwithapointychungo.png
 -rw-r--r--@   1 bok  staff  136572 Apr 19  2023 iffearistoostrongthechungoissuppressed.png
 -rw-r--r--@   1 bok  staff  144417 Apr 19  2023 youcantteachanewdogoldchungos.png
