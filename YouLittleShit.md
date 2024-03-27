@@ -1,6 +1,6 @@
 # Chungo Intelligence Agency
 
-Please enjoy!
+Please go Chungo the world across spacetime! Enjoy!
 
 ### HOLD THIS SHIT TO ZERO
 

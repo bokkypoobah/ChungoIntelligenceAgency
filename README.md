@@ -1,6 +1,6 @@
 # Chungo Intelligence Agency
 
-Please enjoy!
+Please go Chungo the world across spacetime! Enjoy!
 
 * [MetaChungo.eth](MetaChungo.md)
 * [naked-news.eth](naked-news.md)

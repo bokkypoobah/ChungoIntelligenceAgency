@@ -1,6 +1,6 @@
 # Chungo Intelligence Agency - MetaChungo.eth
 
-Please enjoy!
+Please go Chungo the world across spacetime! Enjoy!
 
 ### V1S ARE THE PUNKS
 

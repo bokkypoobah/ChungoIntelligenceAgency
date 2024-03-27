@@ -1,6 +1,6 @@
 # Chungo Intelligence Agency - PoohBah.eth
 
-Please enjoy!
+Please go Chungo the world across spacetime! Enjoy!
 
 ### GIVE ME A LEVER LONG ENOUGH & I WILL MOVE MY CHUNGO
 
