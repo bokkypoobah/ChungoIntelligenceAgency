@@ -263,24 +263,80 @@ Jun 24 2023
 <kbd><img src="gmtime/kemuralltmeðkaldachungo.png" /></kbd>
 
 
+### LLON LLYGOD LLE NI BO CHUNGO
+
+HAPPY MICE WHERE WE DON'T CHUNGO (Welsh)
+
+Jun 22 2023
+
+<kbd><img src="gmtime/llonllygodllenibochungo.png" /></kbd>
+
+
+### CYNT Y CYFERFYDD DAU CHUNGOS NA DAU FYNYDD
+
+EARLIER THE MEETING OF TWO CHUNGOS THAN TWO MOUNTAINS (Welsh)
+
+Jun 22 2023
+
+<kbd><img src="gmtime/cyntycyferfydddauchungosnadaufynydd.png" /></kbd>
+
+
+### CHUNGOS O'R UNLLIW, EHEDANT I'R UNLLE
+
+CHUNGOS OF THE SAME COLOR, THEY FLY TO THE SAME PLACE (Welsh)
+
+Jun 22 2023
+
+<kbd><img src="gmtime/chungosorunlliwehedantirunlle.png" /></kbd>
+
+
+### TUIG THUS’ AN CHUNGO, 'S TUIGIDH AN CHUNGO THU
+
+YOU UNDERSTAND THE CHUNGO, AND THE CHUNGO UNDERSTANDS YOU (Scottish Gaelic)
+
+Jun 22 2023
+
+<kbd><img src="gmtime/tuigthusanchungostuigidhanchungothu.png" /></kbd>
+
+
+### INNSIDH NA CHUNGO AS T-FHOGHAR E
+
+THE CHUNGO WILL TELL IT IN THE FALL (Scottish Gaelic)
+
+Jun 22 2023
+
+<kbd><img src="gmtime/innsidhnachungoastfhoghare.png" /></kbd>
+
+
+### COINNICHIDH NA CHUNGO FAR NACH COINNICH NA CNUIC
+
+THE CHUNGOS WILL MEET WHERE THE HILLS DO NOT MEET (Scottish Gaelic)
+
+Jun 22 2023
+
+<kbd><img src="gmtime/coinnichidhnachungofarnachcoinnichnacnuic.png" /></kbd>
+
+
+### A' BHIAST AS MUTHA AG ITHE NA CHUNGO AS LUGHA
+
+THE BIGGEST BEAST EAT THE SMALLEST CHUNGO (Scottish Gaelic)
+
+Jun 22 2023
+
+<kbd><img src="gmtime/abhiastasmuthaagithenachungoaslugha.png" /></kbd>
+
 ```
 
 
 ###
 
-Jun 24 2023
+Jun 22 2023
 
 <kbd><img src="gmtime/.png" /></kbd>
 
 
 
--rw-r--r--@  1 bok  staff  126802 Jun 22  2023 llonllygodllenibochungo.png
--rw-r--r--@  1 bok  staff  135002 Jun 22  2023 cyntycyferfydddauchungosnadaufynydd.png
--rw-r--r--@  1 bok  staff  138399 Jun 22  2023 chungosorunlliwehedantirunlle.png
--rw-r--r--@  1 bok  staff  132645 Jun 22  2023 tuigthusanchungostuigidhanchungothu.png
--rw-r--r--@  1 bok  staff  136141 Jun 22  2023 innsidhnachungoastfhoghare.png
--rw-r--r--@  1 bok  staff  129309 Jun 22  2023 coinnichidhnachungofarnachcoinnichnacnuic.png
--rw-r--r--@  1 bok  staff  132900 Jun 22  2023 abhiastasmuthaagithenachungoaslugha.png
+
 -rw-r--r--@  1 bok  staff  140177 Jun 21  2023 creerselaúltimachungoeneldesierto.png
 -rw-r--r--@  1 bok  staff  135504 Jun 21  2023 elmismoperrocondiferentechungo.png
 -rw-r--r--@  1 bok  staff  136472 Jun 21  2023 monichungopäältäkaunis.png
