@@ -1401,170 +1401,171 @@ Mar 1 2023
 
 <kbd><img src="PoohBah/ohmychungo.png" /></kbd>
 
-
-###
+### CHUNGO THROUGH THE EYE OF A NEEDLE
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/chungothroughtheeyeofaneedle.png" /></kbd>
 
-###
+### A CHUNGO IN TIME SAVES NINE
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/achungointimesavesnine.png" /></kbd>
 
-###
+### BEAUTY IS IN THE EYE OF THE CHUNGO
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/beautyisintheeyeofthechungo.png" /></kbd>
 
-###
+### A ROLLING CHUNGO GATHERS NO CHUNGO
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/arollingchungogathersnochungo.png" /></kbd>
 
-###
+### THE EARLY BIRD CATCHES THE CHUNGO
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/theearlybirdcatchesthechungo.png" /></kbd>
 
-###
+### SCRATCH MY CHUNGO & I’LL SCRATCH YOURS
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/scratchmychungoillscratchyours.png" /></kbd>
 
-###
+### CURIOSITY CHUNGOED THE CAT
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/curiositychungoedthecat.png" /></kbd>
 
-###
+### STILL CHUNGOS RUN DEEP
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/stillchungosrundeep.png" /></kbd>
 
-###
+### CHUNGO WASN’T BUILT IN A DAY
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/chungowasntbuiltinaday.png" /></kbd>
 
-###
+### BETTER CHUNGO THAN NEVER
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/betterchungothannever.png" /></kbd>
 
-###
+### AN CHUNGO A DAY KEEPS THE CHUNGO AWAY
+
+(sic)
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/anchungoadaykeepsthechungoaway.png" /></kbd>
 
-###
+### DON'T JUDGE A CHUNGO BY ITS CHUNGO
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/dontjudgeachungobyitschungo.png" /></kbd>
 
-###
+### CHUNGO IS THE BEST POLICY
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/chungoisthebestpolicy.png" /></kbd>
 
-###
+### MANY HANDS MAKE CHUNGO CHUNGO
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/manyhandsmakechungochungo.png" /></kbd>
 
-###
+### THE CHUNGO THAT BROKE THE CAMEL'S BACK
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/thechungothatbrokethecamelsback.png" /></kbd>
 
-###
+### A CHUNGO IN TIME SAVES NINE CHUNGOS
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/achungointimesavesninechungos.png" /></kbd>
 
-###
+### CHUNGORELLA
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/chungorella.png" /></kbd>
 
-###
+### BEAUTY AND THE CHUNGO
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/beautyandthechungo.png" /></kbd>
 
-###
+### SNOW WHITE AND THE SEVEN CHUNGOS
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/snowwhiteandthesevenchungos.png" /></kbd>
 
-###
+### THE UGLY CHUNGO
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/theuglychungo.png" /></kbd>
 
-###
+### HANSEL AND CHUNGO
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/hanselandchungo.png" /></kbd>
 
-###
+### THE GINGERBREAD CHUNGO
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/thegingerbreadchungo.png" /></kbd>
 
-###
+### THE THREE LITTLE CHUNGOS
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/thethreelittlechungos.png" /></kbd>
 
-###
+### LITTLE RED RIDING CHUNGO
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/littleredridingchungo.png" /></kbd>
 
-###
+### BIRD IN THE CHUNGO IS WORTH TWO CHUNGO
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/birdinthechungoisworthtwochungo.png" /></kbd>
 
-###
+### A RISING TIDE RAISES ALL CHUNGOS
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/arisingtideraisesallchungos.png" /></kbd>
 
-###
+### TOO MANY CHUNGOS SINK THE BOAT
 
 Feb 27 2023
 
 <kbd><img src="PoohBah/toomanychungossinktheboat.png" /></kbd>
 
-###
+### THE CAMEL CAN'T SEE HER OWN CHUNGO
 
 Feb 27 2023
 
