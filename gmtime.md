@@ -325,24 +325,74 @@ Jun 22 2023
 
 <kbd><img src="gmtime/abhiastasmuthaagithenachungoaslugha.png" /></kbd>
 
+
+### CREERSE LA ÚLTIMA CHUNGO EN EL DESIERTO
+
+BELIEVING THE LAST CHUNGO IN THE DESERT (Spanish)
+
+Jun 21 2023
+
+<kbd><img src="gmtime/creerselaúltimachungoeneldesierto.png" /></kbd>
+
+
+### EL MISMO PERRO CON DIFERENTE CHUNGO
+
+THE SAME DOG WITH DIFFERENT CHUNGO (Spanish)
+
+Jun 21 2023
+
+<kbd><img src="gmtime/elmismoperrocondiferentechungo.png" /></kbd>
+
+
+### MONI CHUNGO PÄÄLTÄ KAUNIS
+
+MANY CHUNGOS ARE BEAUTIFUL ON THE OUTSIDE (Finnish)
+
+Jun 21 2023
+
+<kbd><img src="gmtime/monichungopäältäkaunis.png" /></kbd>
+
+
+### SATAA KUIN CHUNGO PERSEESTÄ
+
+RAINING LIKE CHUNGO'S ASS (Finnish)
+
+Jun 21 2023
+
+<kbd><img src="gmtime/sataakuinchungoperseestä.png" /></kbd>
+
+
+### ZACHTE HEELMEESTERS MAKEN STINKENDE CHUNGO
+
+SOFT HEALERS MAKE STINKING CHUNGO (Dutch)
+
+Jun 21 2023
+
+<kbd><img src="gmtime/zachteheelmeestersmakenstinkendechungo.png" /></kbd>
+
+
+### LANGE CHUNGO HEBBEN
+
+HAVE LONG CHUNGO (Dutch)
+
+Jun 21 2023
+
+<kbd><img src="gmtime/langechungohebben.png" /></kbd>
+
+
 ```
 
 
 ###
 
-Jun 22 2023
+Jun 20 2023
 
 <kbd><img src="gmtime/.png" /></kbd>
 
 
 
 
--rw-r--r--@  1 bok  staff  140177 Jun 21  2023 creerselaúltimachungoeneldesierto.png
--rw-r--r--@  1 bok  staff  135504 Jun 21  2023 elmismoperrocondiferentechungo.png
--rw-r--r--@  1 bok  staff  136472 Jun 21  2023 monichungopäältäkaunis.png
--rw-r--r--@  1 bok  staff  135359 Jun 21  2023 sataakuinchungoperseestä.png
--rw-r--r--@  1 bok  staff  138702 Jun 21  2023 zachteheelmeestersmakenstinkendechungo.png
--rw-r--r--@  1 bok  staff  122126 Jun 21  2023 langechungohebben.png
+
 -rw-r--r--@  1 bok  staff  134292 Jun 20  2023 nukomtdechungouitdemouw.png
 -rw-r--r--@  1 bok  staff  126301 Jun 20  2023 dechungoindepotvinden.png
 -rw-r--r--@  1 bok  staff  133366 Jun 20  2023 umdenheissenchungoherumreden.png
