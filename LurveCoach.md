@@ -21,20 +21,33 @@ Apr 12 2023
 <kbd><img src="LurveCoach/tisbettertohavelovedandchungoed.png" /></kbd>
 
 
+### PRACTICE TOUCHING YOUR CHUNGO
+
+Mar 30 2023
+
+<kbd><img src="LurveCoach/practicetouchingyourchungo.png" /></kbd>
+
+### DON'T GIVE UP
+
+Mar 30 2023
+
+<kbd><img src="LurveCoach/dontgiveup.png" /></kbd>
+
+### BE WILLFUL
+
+Mar 15 2023
+
+<kbd><img src="LurveCoach/bewillful.png" /></kbd>
+
 ```
 
 ###
 
-May 18 2023
+Mar 30 2023
 
 <kbd><img src="LurveCoach/.png" /></kbd>
 
 
--rw-r--r--@  1 bok  staff  205529 Apr 12  2023 tisbettertohavelovedandchungoed.png
-
--rw-r--r--@  1 bok  staff  196922 Mar 30  2023 practicetouchingyourchungo.png
--rw-r--r--@  1 bok  staff  180306 Mar 30  2023 dontgiveup.png
--rw-r--r--@  1 bok  staff  170225 Mar 15  2023 bewillful.png
 -rw-r--r--@  1 bok  staff  168590 Mar  7  2023 yessssssssssssssss.png
 -rw-r--r--@  1 bok  staff  169148 Mar  7  2023 nooooooooooooooooo.png
 -rw-r--r--@  1 bok  staff  168455 Mar  7  2023 notyet.png
