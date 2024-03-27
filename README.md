@@ -1040,6 +1040,71 @@ Apr 19 2023
 
 <kbd><img src="PoohBah/realizeyouretheproblemthenchungoyourself.png" /></kbd>
 
+### BE STILL AND KNOW THAT I AM CHUNGO
+
+Apr 14 2023
+
+<kbd><img src="PoohBah/bestillandknowthatiamchungo.png" /></kbd>
+
+### IF YOU TRULY LOVED YOURSELF, YOU CAN CHUNGO
+
+Apr 14 2023
+
+<kbd><img src="PoohBah/ifyoutrulylovedyourselfyoucanchungo.png" /></kbd>
+
+### TRUE LOVE IS BORN FROM CHUNGOING
+
+Apr 12 2023
+
+<kbd><img src="PoohBah/trueloveisbornfromchungoing.png" /></kbd>
+
+### CHUNGO IS INEVITABLE
+
+Apr 12 2023
+
+<kbd><img src="PoohBah/chungoisinevitable.png" /></kbd>
+
+### YOU ONLY LOSE WHAT YOU CHUNGO TO
+
+Apr 12 2023
+
+<kbd><img src="PoohBah/youonlylosewhatyouchungoto.png" /></kbd>
+
+### GIVE, EVEN IF YOU ONLY HAVE A LITTLE CHUNGO
+
+Apr 12 2023
+
+<kbd><img src="PoohBah/giveevenifyouonlyhavealittlechungo.png" /></kbd>
+
+### CHUNGO IS INEVITABLE. CHUNGO IS OPTIONAL
+
+Apr 12 2023
+
+<kbd><img src="PoohBah/chungoisinevitablechungoisoptional.png" /></kbd>
+
+### ALL SUFFERING IS CAUSED BY CHUNGO
+
+Apr 12 2023
+
+<kbd><img src="PoohBah/allsufferingiscausedbychungo.png" /></kbd>
+
+### YOU DON'T HAVE A CHUNGO
+
+Apr 12 2023
+
+<kbd><img src="PoohBah/youdonthaveachungo.png" /></kbd>
+
+### WHAT YOU THINK, YOU CHUNGO
+
+Apr 12 2023
+
+<kbd><img src="PoohBah/whatyouthinkyouchungo.png" /></kbd>
+
+### QUIET THE MIND AND THE CHUNGO WILL SPEAK
+
+Apr 12 2023
+
+<kbd><img src="PoohBah/quietthemindandthechungowillspeak.png" /></kbd>
 
 
 ## Notes
@@ -1048,23 +1113,13 @@ Apr 19 2023
 
 ###
 
-Apr 19 2023
+Apr 12 2023
 
 <kbd><img src="PoohBah/.png" /></kbd>
 
 
 
--rw-r--r--@   1 bok  staff  147289 Apr 14  2023 bestillandknowthatiamchungo.png
--rw-r--r--@   1 bok  staff  140634 Apr 14  2023 ifyoutrulylovedyourselfyoucanchungo.png
--rw-r--r--@   1 bok  staff  140457 Apr 12  2023 trueloveisbornfromchungoing.png
--rw-r--r--@   1 bok  staff  131449 Apr 12  2023 chungoisinevitable.png
--rw-r--r--@   1 bok  staff  140271 Apr 12  2023 youonlylosewhatyouchungoto.png
--rw-r--r--@   1 bok  staff  137149 Apr 12  2023 giveevenifyouonlyhavealittlechungo.png
--rw-r--r--@   1 bok  staff  145527 Apr 12  2023 chungoisinevitablechungoisoptional.png
--rw-r--r--@   1 bok  staff  145252 Apr 12  2023 allsufferingiscausedbychungo.png
--rw-r--r--@   1 bok  staff  133301 Apr 12  2023 youdonthaveachungo.png
--rw-r--r--@   1 bok  staff  135534 Apr 12  2023 whatyouthinkyouchungo.png
--rw-r--r--@   1 bok  staff  151478 Apr 12  2023 quietthemindandthechungowillspeak.png
+
 -rw-r--r--@   1 bok  staff  143212 Apr 11  2023 askchungosinsteadofgivingdirectchungos.png
 -rw-r--r--@   1 bok  staff  138641 Apr 11  2023 callattentiontopeopleschungoindirectly.png
 -rw-r--r--@   1 bok  staff  147993 Apr 11  2023 beginwithpraiseandhonestchungo.png
