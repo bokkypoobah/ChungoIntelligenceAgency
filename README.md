@@ -1827,6 +1827,44 @@ Jun 9 2023
 
 <kbd><img src="MetaChungo/thereisachungoinmysoup.png" /></kbd>
 
+### DON'T WORRY CHUNGO CURRY
+
+Jun 4 2023
+
+<kbd><img src="MetaChungo/dontworrychungocurry.png" /></kbd>
+
+### RESPECT MY WANG!
+
+May 30 2023
+
+<kbd><img src="MetaChungo/respectmywang.png" /></kbd>
+
+### EVERYONE SHOULD COPY PASTE THAT
+
+May 25 2023
+
+<kbd><img src="MetaChungo/everyoneshouldcopypastethat.png" /></kbd>
+
+### EARLY CHUNGO VIBES FR
+
+May 25 2023
+
+<kbd><img src="MetaChungo/earlychungovibesfr.png" /></kbd>
+
+### I'M A PROFESSIONAL
+
+May 25 2023
+
+<kbd><img src="MetaChungo/imaprofessional.png" /></kbd>
+
+### SEE NO CHUNGO, HEAR NO CHUNGO, SPEAK NO CHUNGO
+
+May 23 2023
+
+<kbd><img src="MetaChungo/seenochungohearnochungospeaknochungo.png" /></kbd>
+
+
+
 ## Notes
 
 ```
@@ -1838,12 +1876,6 @@ Jun 9 2023
 <kbd><img src="MetaChungo/.png" /></kbd>
 
 
--rw-r--r--@   1 bok  staff  169482 Jun  4  2023 dontworrychungocurry.png
--rw-r--r--@   1 bok  staff  165527 May 30  2023 respectmywang.png
--rw-r--r--@   1 bok  staff  171370 May 25  2023 everyoneshouldcopypastethat.png
--rw-r--r--@   1 bok  staff  168774 May 25  2023 earlychungovibesfr.png
--rw-r--r--@   1 bok  staff  154172 May 25  2023 imaprofessional.png
--rw-r--r--@   1 bok  staff  169437 May 23  2023 seenochungohearnochungospeaknochungo.png
 -rw-r--r--@   1 bok  staff  164311 Apr 12  2023 psadontjustsignanything.png
 -rw-r--r--@   1 bok  staff  174295 Apr 12  2023 notescammerschatamongstthemselves.png
 -rw-r--r--@   1 bok  staff  173689 Apr 12  2023 warningp2egameinstallsarerisky.png
