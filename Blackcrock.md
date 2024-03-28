@@ -6,6 +6,12 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ---
 
+### CHUNGOS ARE JUST STEPPING STONES TOWARD TONKENIZATION
+
+Mar 28 2024
+
+<kbd><img src="Blackcrock/chungosarejuststeppingstonestowardtonkenization.png" /></kbd>
+
 ### EVERY FINANCIAL ASSET WILL EVENTUALLY BE TONKENIZED
 
 Mar 28 2024
