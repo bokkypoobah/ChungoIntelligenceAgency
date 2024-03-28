@@ -24,6 +24,12 @@ Mar 28 2024
 
 <kbd><img src="Blackcrock/onlyalittlebitdemandforetherium.png" /></kbd>
 
+### BITCORN IS AN INDEX OF MONEY LAUNDERING
+
+Mar 28 2024
+
+<kbd><img src="Blackcrock/bitcornisanindexofmoneylaundering.png" /></kbd>
+
 ### BITCORN MAY TRANSFORM THE FINANCIAL WORLD
 
 Mar 28 2024
