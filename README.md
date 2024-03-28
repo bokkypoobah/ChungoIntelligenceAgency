@@ -276,17 +276,43 @@ Feb 12 2023
 
 ---
 
-## Notes
+## Sample Script To Write Text Over Images
+
+Using [ImageMagick](https://imagemagick.org/) and shell scripting:
 
 ```
+#!/bin/sh
 
-###
+#blackcrock #chungo #972
 
-Feb 24 2023
+# BITCORN WILL BE A GOOD PORTFOLIO DIVERSIFIER
+# BITCORN IS AN ASSET CLASS THAT PROTECTS YOU
+# BITCORN COULD REVOLUTIONIZE FINANCE
+# BITCORN RETURNS LIKELY TO COME DOWN
+# BITCORN: I'M A BIG BELIEVER
+# BITCORN: IT'S BIGGER THAN ANY GOVERNMENT
+# BITCORN MAY TRANSFORM THE FINANCIAL WORLD
+# ONLY 'A LITTLE BIT' DEMAND FOR ETHERIUM
+# EVERY FINANCIAL ASSET WILL EVENTUALLY BE TONKENIZED
+# CHUNGOS ARE JUST STEPPING STONES TOWARD TONKENIZATION
+# BITCORN IS AN INDEX OF MONEY LAUNDERING
 
-<kbd><img src="MetaChungo/.png" /></kbd>
+TEXT="BITCORN IS AN INDEX OF MONEY LAUNDERING"
+NAME=`echo $TEXT | sed 's/[^[:alnum:]]//g' | tr '[:upper:]' '[:lower:]'`
 
+echo $NAME
 
+magick ./BlackcrockChungo_972x5-2400x800.png \
+  -font Arial -pointsize 100 \
+    -fill white -stroke white -strokewidth 4 -gravity north \
+    -annotate +0+100 "${TEXT}" \
+  -font Arial -pointsize 36 \
+    -fill white -stroke white -strokewidth 1 -gravity southeast \
+    -annotate +20+20 'blackcrock.eth' \
+  "${NAME}.png"
 
+open "${NAME}.png"
 
+# Following removes flat coloured background
+# convert BlackcrockChungo_972.png -fuzz 10% -fill none -draw "alpha 0,0 floodfill" -resize 600x600 BlackcrockChungo_972-nobg.png
 ```
