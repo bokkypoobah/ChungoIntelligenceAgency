@@ -6,6 +6,12 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ---
 
+### ONLY 'A LITTLE BIT' DEMAND FOR ETHERIUM
+
+Mar 28 2024
+
+<kbd><img src="Blackcrock/onlyalittlebitdemandforetherium.png" /></kbd>
+
 ### BITCORN MAY TRANSFORM THE FINANCIAL WORLD
 
 Mar 28 2024
