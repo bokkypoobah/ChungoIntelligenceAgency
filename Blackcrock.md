@@ -6,6 +6,12 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ---
 
+### EVERY FINANCIAL ASSET WILL EVENTUALLY BE TONKENIZED
+
+Mar 28 2024
+
+<kbd><img src="Blackcrock/everyfinancialassetwilleventuallybetonkenized.png" /></kbd>
+
 ### ONLY 'A LITTLE BIT' DEMAND FOR ETHERIUM
 
 Mar 28 2024
