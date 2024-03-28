@@ -24,6 +24,12 @@ Mar 28 2024
 
 <kbd><img src="Blackcrock/onlyalittlebitdemandforetherium.png" /></kbd>
 
+### BITCORN IS THE OLDEST, LARGEST, AND MOST LIQUID CRYPTO ASSET
+
+Mar 28 2024
+
+<kbd><img src="Blackcrock/bitcornistheoldestlargestandmostliquidcryptoasset.png" /></kbd>
+
 ### BITCORN IS AN INDEX OF MONEY LAUNDERING
 
 Mar 28 2024
