@@ -276,9 +276,14 @@ Feb 12 2023
 
 ---
 
-## Sample Script To Write Text Over Images
+## Notes On Banner Creation
 
-Using [ImageMagick](https://imagemagick.org/) and shell scripting:
+Steps:
+* Remove the Chungo background and resize to 600x600 px
+* Align 5 of these Chungos horizontally with an offset of 100 px
+* Set canvas to 2400x800 px, align the above 5 images to the south
+
+Use [ImageMagick](https://imagemagick.org/) and shell scripts like:
 
 ```
 #!/bin/sh
