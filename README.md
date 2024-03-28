@@ -36,6 +36,14 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ## Unsorted Images
 
+### Blackcrock Chungo
+
+Mar 28 2024
+
+<kbd><img src="images/blackcrockchungo.png" /></kbd>
+
+<br />
+
 ### Chungo Intelligence Agency
 
 Jun 8 2023
