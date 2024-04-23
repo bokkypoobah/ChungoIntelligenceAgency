@@ -6,9 +6,15 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ---
 
+### HELLO, WORLD!
+
+Mar 1 2023
+
+<kbd><img src="Chungobots/helloworld.png" /></kbd>
+
 ### Chungobots-robocop3x5-2400x800 Blank
 
-Feb 28 2023
+Mar 1 2023
 
 <kbd><img src="Chungobots/Chungobots-robocop3x5-2400x800.png" /></kbd>
 
@@ -17,7 +23,6 @@ Feb 28 2023
 Feb 28 2023
 
 <kbd><img src="Chungobots/Chungobotsx5-2400x800-orangebg-gm.png" /></kbd>
-
 
 ### Chungobotsx5-2400x800-purplebg Blank
 
@@ -71,11 +76,5 @@ Feb 28 2023
 -rw-r--r--   1 135461 Mar  1  2023 Chungobots-robocop3x5-2400x800-yellowbg.png
 -rw-r--r--   1 2723712 Mar  1  2023 MandoBot.png
 -rw-r--r--@  1 165138 Mar  1  2023 helloworld.png
--rw-r--r--@  1 135136 Mar  1  2023 Chungobots-robocop3x5-2400x800.png
--rw-r--r--   1 152505 Feb 28  2023 Chungobotsx5-2400x800-orangebg-gm.png
--rw-r--r--   1 132835 Feb 28  2023 Chungobotsx5-2400x800-purplebg.png
--rw-r--r--   1 132973 Feb 28  2023 Chungobotsx5-2400x800-pinkbg.png
--rw-r--r--   1 133202 Feb 28  2023 Chungobotsx5-2400x800-yellowbg.png
--rw-r--r--@  1 133355 Feb 28  2023 Chungobotsx5-2400x800-orangebg.png
 
 ```
