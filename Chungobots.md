@@ -6,6 +6,60 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ---
 
+### DEAD ON ALIVE, YOU'RE COMING WITH ME
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/deadoraliveyourecomingwithme.png" /></kbd>
+
+### GO AHEAD AND DO IT
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/goaheadanddoit.png" /></kbd>
+
+### THEY'LL FIX YOU. THEY FIX EVERYTHING
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/theyllfixyoutheyfixeverything.png" /></kbd>
+
+### STAY OUT OF TROUBLE
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/stayoutoftrouble.png" /></kbd>
+
+### YOU ARE UNDER ARREST
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/youareunderarrest.png" /></kbd>
+
+### ChungobotsCleanx5-2400x800 Blank
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/ChungobotsCleanx5-2400x800.png" /></kbd>
+
+### THIS IS THE WAY
+
+Mar 1 2023
+
+<kbd><img src="Chungobots/thisistheway.png" /></kbd>
+
+### Chungobots-robocop3x5-2400x800-yellowbg Blank
+
+Mar 1 2023
+
+<kbd><img src="Chungobots/Chungobots-robocop3x5-2400x800-yellowbg.png" /></kbd>
+
+### MandoBot
+
+Mar 1 2023
+
+<kbd><img src="Chungobots/MandoBot.png" /></kbd>
+
 ### HELLO, WORLD!
 
 Mar 1 2023
@@ -66,15 +120,5 @@ Feb 28 2023
 -rw-r--r--@  1 199132 Mar  2  2023 wastemakeshastefortimeisfleeting.png
 -rw-r--r--@  1 204803 Mar  2  2023 youhavetwentysecondstocomply.png
 -rw-r--r--@  1 200643 Mar  2  2023 pleaseputdownyourweapon.png
--rw-r--r--@  1 204203 Mar  2  2023 deadoraliveyourecomingwithme.png
--rw-r--r--@  1 176729 Mar  2  2023 goaheadanddoit.png
--rw-r--r--@  1 190364 Mar  2  2023 theyllfixyoutheyfixeverything.png
--rw-r--r--@  1 182097 Mar  2  2023 stayoutoftrouble.png
--rw-r--r--@  1 184841 Mar  2  2023 youareunderarrest.png
--rw-r--r--   1 144817 Mar  2  2023 ChungobotsCleanx5-2400x800.png
--rw-r--r--@  1 164816 Mar  1  2023 thisistheway.png
--rw-r--r--   1 135461 Mar  1  2023 Chungobots-robocop3x5-2400x800-yellowbg.png
--rw-r--r--   1 2723712 Mar  1  2023 MandoBot.png
--rw-r--r--@  1 165138 Mar  1  2023 helloworld.png
 
 ```
