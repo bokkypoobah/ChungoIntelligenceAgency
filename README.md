@@ -11,6 +11,7 @@ Please go Chungo the worlds across spacetime! Enjoy!
 * [BeachInspector.eth](BeachInspector.md)
 * [Blackcrock.eth](Blackcrock.md)
 * [ChiefRiskOfficer.eth](ChiefRiskOfficer.md)
+* [Chungobots](Chungobots.md)
 * [chungoholicsanonymous](chungoholicsanonymous.md)
 * [firstyoulaughatthem.eth](firstyoulaughatthem.md)
 * [gmtime.eth](gmtime.md)
