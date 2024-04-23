@@ -6,6 +6,96 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ---
 
+### BOKKY BANNERS BANK, I THINK I'M OUT
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/bokkybannersbackithinkimout.png" /></kbd>
+
+### NAKED CHUNGOS MOST SLEPT ON
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/nakedchungosmostslepton.png" /></kbd>
+
+### I CLICKED IT AND MY WALLET GOT SWIPED
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/iclickeditandmywalletgotswiped.png" /></kbd>
+
+### I JUST USED BLUR FOR THE FIRST TIME ITS TRASH
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/ijustusedblurforfirsttimeitstrash.png" /></kbd>
+
+### I LIKE THOSE ODDS
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/ilikethoseodds.png" /></kbd>
+
+### WEAPONS ARE PART OF MY RELIGION
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/weaponsarepartofmyreligion.png" /></kbd>
+
+### I'M A MANDALORIAN
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/imamandalorian.png" /></kbd>
+
+### I'M NOT LEAVING MY FATE UP TO CHANCE
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/imnotleavingmyfateuptochance.png" /></kbd>
+
+### STOP TOUCHING THINGS
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/stoptouchingthings.png" /></kbd>
+
+### TAKE IT OFF. OR I WILL
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/takeitofforiwill.png" /></kbd>
+
+### LET ME HAVE A WARRIOR'S DEATH
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/letmehaveawarriorsdeath.png" /></kbd>
+
+### A ROLLING STONE IS WORTH TWO IN THE BUSH
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/arollingstoneisworthtwointhebush.png" /></kbd>
+
+### WASTE MAKES HASTE, FOR TIME IS FLEETING
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/wastemakeshastefortimeisfleeting.png" /></kbd>
+
+### YOU HAVE TWENTY SECONDS TO COMPLY
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/youhavetwentysecondstocomply.png" /></kbd>
+
+### PLEASE PUT DOWN YOUR WEAPON
+
+Mar 2 2023
+
+<kbd><img src="Chungobots/pleaseputdownyourweapon.png" /></kbd>
+
 ### DEAD ON ALIVE, YOU'RE COMING WITH ME
 
 Mar 2 2023
@@ -102,23 +192,3 @@ Feb 28 2023
 Feb 28 2023
 
 <kbd><img src="Chungobots/Chungobotsx5-2400x800-orangebg.png" /></kbd>
-
-
-```
--rw-r--r--@  1 200550 Mar  2  2023 bokkybannersbackithinkimout.png
--rw-r--r--@  1 199207 Mar  2  2023 nakedchungosmostslepton.png
--rw-r--r--@  1 203745 Mar  2  2023 iclickeditandmywalletgotswiped.png
--rw-r--r--@  1 191048 Mar  2  2023 ijustusedblurforfirsttimeitstrash.png
--rw-r--r--@  1 163223 Mar  2  2023 ilikethoseodds.png
--rw-r--r--@  1 188299 Mar  2  2023 weaponsarepartofmyreligion.png
--rw-r--r--@  1 167236 Mar  2  2023 imamandalorian.png
--rw-r--r--@  1 186573 Mar  2  2023 imnotleavingmyfateuptochance.png
--rw-r--r--@  1 175425 Mar  2  2023 stoptouchingthings.png
--rw-r--r--@  1 168193 Mar  2  2023 takeitofforiwill.png
--rw-r--r--@  1 183614 Mar  2  2023 letmehaveawarriorsdeath.png
--rw-r--r--@  1 199114 Mar  2  2023 arollingstoneisworthtwointhebush.png
--rw-r--r--@  1 199132 Mar  2  2023 wastemakeshastefortimeisfleeting.png
--rw-r--r--@  1 204803 Mar  2  2023 youhavetwentysecondstocomply.png
--rw-r--r--@  1 200643 Mar  2  2023 pleaseputdownyourweapon.png
-
-```
