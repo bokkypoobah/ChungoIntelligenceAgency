@@ -6,6 +6,30 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ---
 
+### THEN YOU WIN
+
+Apr 30 2024
+
+<kbd><img src="PudgyChungos/thenyouwin.png" /></kbd>
+
+### THEN THEY TOUCH YOUR CHUNGO
+
+Apr 30 2024
+
+<kbd><img src="PudgyChungos/thentheytouchyourchungo.png" /></kbd>
+
+### THEN YOU TOUCH THEIR CHUNGO
+
+Apr 30 2024
+
+<kbd><img src="PudgyChungos/thenyoutouchtheirchungo.png" /></kbd>
+
+### FIRST YOU TOUCH YOUR CHUNGO
+
+Apr 30 2024
+
+<kbd><img src="PudgyChungos/firstyoutouchyourchungo.png" /></kbd>
+
 ### WEN BITCOIN CHUNGO ELEMENTAL?
 
 Jun 30 2023
