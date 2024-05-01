@@ -6,6 +6,12 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ---
 
+### THEN THEY TOUCH THEIR CHUNGO
+
+May 1 2024
+
+<kbd><img src="PudgyChungos/thentheytouchtheirchungo.png" /></kbd>
+
 ### THEN YOU WIN
 
 Apr 30 2024
