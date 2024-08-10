@@ -12,11 +12,15 @@ May 1 2024
 
 <kbd><img src="PudgyChungos/thentheytouchtheirchungo.png" /></kbd>
 
+<kbd><img src="PudgyChungos/thentheytouchtheirchungo-square.png" /></kbd>
+
 ### THEN YOU WIN
 
 Apr 30 2024
 
 <kbd><img src="PudgyChungos/thenyouwin.png" /></kbd>
+
+<kbd><img src="PudgyChungos/thenyouwin-square.png" /></kbd>
 
 ### THEN THEY TOUCH YOUR CHUNGO
 
@@ -24,17 +28,23 @@ Apr 30 2024
 
 <kbd><img src="PudgyChungos/thentheytouchyourchungo.png" /></kbd>
 
+<kbd><img src="PudgyChungos/thentheytouchyourchungo-square.png" /></kbd>
+
 ### THEN YOU TOUCH THEIR CHUNGO
 
 Apr 30 2024
 
 <kbd><img src="PudgyChungos/thenyoutouchtheirchungo.png" /></kbd>
 
+<kbd><img src="PudgyChungos/thenyoutouchtheirchungo-square.png" /></kbd>
+
 ### FIRST YOU TOUCH YOUR CHUNGO
 
 Apr 30 2024
 
 <kbd><img src="PudgyChungos/firstyoutouchyourchungo.png" /></kbd>
+
+<kbd><img src="PudgyChungos/firstyoutouchyourchungo-square.png" /></kbd>
 
 ### WEN BITCOIN CHUNGO ELEMENTAL?
 
