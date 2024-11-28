@@ -2,7 +2,25 @@
 
 # Chungo Intelligence Agency
 
-Please go Chungo the worlds across spacetime! Enjoy!
+<kbd><img src="PudgyChungos/firstyoutouchyourchungo.png" /></kbd>
+
+<kbd><img src="PudgyChungos/thenyoutouchtheirchungo.png" /></kbd>
+
+<kbd><img src="PudgyChungos/thentheytouchyourchungo.png" /></kbd>
+
+<kbd><img src="PudgyChungos/thenyouwin.png" /></kbd>
+
+<kbd><img src="PudgyChungos/thentheytouchtheirchungo.png" /></kbd>
+
+<kbd><img src="PudgyChungos/thentheytouchtheirchungo.png" /></kbd>
+
+<kbd><img src="PudgyChungos/thentheytouchtheirchungo.png" /></kbd>
+
+...
+
+<br />
+
+Go Chungo the worlds across spacetime! Enjoy!
 
 <br />
 
