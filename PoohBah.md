@@ -6,6 +6,12 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ---
 
+### REMEMBER TO POOP!
+
+Dec 7 2024
+
+<kbd><img src="PoohBah/remembertopoop.png" /></kbd>
+
 ### GIVE ME A LEVER LONG ENOUGH & I WILL MOVE MY CHUNGO
 
 Aug 17 2023
