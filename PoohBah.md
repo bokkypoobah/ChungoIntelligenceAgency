@@ -6,6 +6,12 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ---
 
+### REMEMBER
+
+Dec 10 2024
+
+<kbd><img src="PoohBah/remember.png" /></kbd>
+
 ### REMEMBER TO POOP!
 
 Dec 7 2024
