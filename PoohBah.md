@@ -6,6 +6,12 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ---
 
+### MEMBER
+
+Dec 10 2024
+
+<kbd><img src="PoohBah/member.png" /></kbd>
+
 ### REMEMBER
 
 Dec 10 2024
