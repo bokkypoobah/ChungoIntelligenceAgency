@@ -6,6 +6,162 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ---
 
+### WHY ARE YOU CONSPIRING?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyareyouconspiring.png" /></kbd>
+
+### WHY ARE YOU LYING?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyareyoulying.png" /></kbd>
+
+### WHY ARE YOU HIDING?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyareyouhiding.png" /></kbd>
+
+### WHY ARE YOU FROWNING?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyareyoufrowning.png" /></kbd>
+
+### WHY ARE YOU SO ANGRY?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyareyousoangry.png" /></kbd>
+
+### WHY ARE YOU SO SCARED?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyareyousoscared.png" /></kbd>
+
+### WHY ARE YOU SO FEARFUL?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyareyousofearful.png" /></kbd>
+
+### WHY ARE YOU SO JEALOUS?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyareyousojealous.png" /></kbd>
+
+### WHY ARE YOU SO ENVIOUS?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyareyousoenvious.png" /></kbd>
+
+### WHY DO I TASTE SO NICE?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whydoitastesonice.png" /></kbd>
+
+### WHY DO I SMELL SO NICE?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whydoismellsonice.png" /></kbd>
+
+### WHY AM I SO LOVELY?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyamisolovely.png" /></kbd>
+
+### WHY AM I SO LOVING?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyamisoloving.png" /></kbd>
+
+### WHY DO I HAVE A GOLDEN AURA?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whydoihaveagoldenaura.png" /></kbd>
+
+### WHY AM I BETTER THAN YOU?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyamibetterthanyou.png" /></kbd>
+
+### WHY AM I SO POWERFUL?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyamisopowerful.png" /></kbd>
+
+### WHY AM I SO INTELLIGENT?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyamisointelligent.png" /></kbd>
+
+### WHY AM I SO BEAUTIFUL?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyamisobeautiful.png" /></kbd>
+
+### WHY AM I SO HANDSOME?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyamisohandsome.png" /></kbd>
+
+### WHY AM I SO PERFECT?
+
+May 17 2026
+
+<kbd><img src="PoohBah/whyamisoperfect.png" /></kbd>
+
+### THANK YOU FOR YOUR ATTENTION TO THIS MATTER!
+
+May 17 2026
+
+<kbd><img src="PoohBah/thankyouforyourattentiontothismatter-poohbah.png" /></kbd>
+
+### YOUR FUTURE WILL BE AFFECTED BY THIS MESSAGE
+
+May 17 2026
+
+<kbd><img src="PoohBah/yourfuturewillbeaffectedbythismessage.png" /></kbd>
+
+### EVERYTHING WILL BE OK
+
+May 17 2026
+
+<kbd><img src="PoohBah/everythingwillbeok-poohbah.png" /></kbd>
+
+### IN A POWERFUL WAY, I SHAKE MY CHUNGO
+
+May 17 2026
+
+<kbd><img src="PoohBah/inapowerfulwayishakemychungo.png" /></kbd>
+
+### PLAY WITH YOUR CHUNGO
+
+May 17 2026
+
+<kbd><img src="PoohBah/playwithyourchungo.png" /></kbd>
+
+### THE PEN IS MIGHTIER THAN THE CHUNGO
+
+May 17 2026
+
+<kbd><img src="PoohBah/thepenismightierthanthechungo.png" /></kbd>
+
 ### MEMBER
 
 Dec 10 2024
