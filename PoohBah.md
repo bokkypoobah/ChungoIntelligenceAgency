@@ -6,6 +6,48 @@ Please go Chungo the worlds across spacetime! Enjoy!
 
 ---
 
+### I AM MORE POWERFUL THAN I REALISE
+
+May 18 2026
+
+<kbd><img src="PoohBah/iammorepowerfulthanirealise.png" /></kbd>
+
+### I AM MORE POWERFUL THAN YOU REALISE
+
+May 18 2026
+
+<kbd><img src="PoohBah/iammorepowerfulthanyourealise.png" /></kbd>
+
+### HOW DEEP DO YOUR LIES GO?
+
+May 18 2026
+
+<kbd><img src="PoohBah/howdeepdoyourliesgo.png" /></kbd>
+
+### WHY DO YOU SMELL SO BAD?
+
+May 18 2026
+
+<kbd><img src="PoohBah/whydoyousmellsobad.png" /></kbd>
+
+### WHY DO YOU HAVE SO MUCH HATE?
+
+May 18 2026
+
+<kbd><img src="PoohBah/whydoyouhavesomuchhate.png" /></kbd>
+
+### WHY ARE YOU SO INSECURE?
+
+May 18 2026
+
+<kbd><img src="PoohBah/whyareyousoinsecure.png" /></kbd>
+
+### WHY ARE YOU PROJECTING?
+
+May 18 2026
+
+<kbd><img src="PoohBah/whyareyouprojecting.png" /></kbd>
+
 ### WHY ARE YOU CONSPIRING?
 
 May 17 2026
